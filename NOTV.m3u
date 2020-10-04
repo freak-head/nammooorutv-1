@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:0,Boss TV
+http://bosstv-notv.chennaistream.net/bosstv/bosstvlive/playlist.m3u8
+#EXTINF:0,Nila TV
+http://account5.livebox.co.in/nilatvhls/broadcast.m3u8
+#EXTINF:0,Amma Channel
+http://ammacable.com:1935/acn/ammachannel/playlist.m3u8
+#EXTINF:0,Arasantv
+http://ammacable.com:1935/acn/arasantv/playlist.m3u8
+#EXTINF:0,Palar TV
+http://account13.livebox.co.in/palartvhls/live.m3u8
+#EXTINF:0,Rasi Network
+http://singamcloud.in:8080/rasinetwork/rasitv/playlist.m3u8
+#EXTINF:0,CAN Music
+http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
+#EXTINF:0,Polimer News
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist.m3u8
+#EXTINF:0,JCV TV
+http://account11.livebox.co.in/jcvtvhls/live.m3u8
+#EXTINF:0,Kavin TV
+http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/kavintv/index.m3u8
+#EXTINF:0,MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:0,Rasi Movies
+http://singamcloud.in:8080/rasinetwork/rasimovies/playlist.m3u8
+#EXTINF:0,RCN TV
+http://kairacloud.in/rcnTV/rcnTVPassword.m3u8
+#EXTINF:0,AASAI TV
+http://osaitv.livebox.co.in/osaihls/live.m3u8
+#EXTINF:0,Rasi Comedy
+http://singamcloud.in:8080/rasinetwork/rasicomedy/playlist.m3u8
+#EXTINF:0,MONTAMIL CINEMA
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:0,Metro TV
+http://kairacloud.in/metroTV/metroTVPassword.m3u8
+#EXTINF:0,Jayam TV
+http://182.75.50.131:1935/live/jayamtv/playlist.m3u8
+#EXTINF:0,AK TV
+http://kairacloud.in/akTV/akTVPassword.m3u8
+#EXTINF:0,Hari Media
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+#EXTINF:0,News 7 Tamil
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
+#EXTINF:0,NEWS80
+http://198.144.149.82:8080/NOTV/NEWS80/index.m3u8?token=GTR
+#EXTINF:0,ORANGE TV
+http://198.144.149.82:8080/NOTV/ORANGETV/index.m3u8?token=GTR
+#EXTINF:0,Dharisanam TV
+http://singamcloud.in:1935/yazhmedia/dharisanamtv/playlist.m3u8
+#EXTINF:0,PC TV
+http://pctv.livebox.co.in/pctvhls/live.m3u8
+#EXTINF:0,Mirror TV
+http://livematrix.in:1935/live/mirrortv/playlist.m3u8
+#EXTINF:0,Kalai Cinema
+http://singamcloud.in:8080/kalaicinema/kalaicinema/playlist.m3u8
+#EXTINF:0,Olithirai HD
+http://singamcloud.in:8080/olithiraihd/olithiraihd/playlist.m3u8
+#EXTINF:0,1yestv
+http://livematrix.in:1935/1yestv/1yestv/playlist.m3u8
+#EXTINF:0,Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:0,Amma TV
+http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/ammatv-123-vdr-VW0gciLY5hWMu-stream/index.m3u8
+#EXTINF:0,VTV
+http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
+#EXTINF:0,USHA Gold
+http://198.144.149.82:8080/NOTV/USHAGOLD/index.m3u8?token=GTR
+#EXTINF:0,SAI Star
+http://198.144.149.82:8080/NOTV/SAISTAR/index.m3u8?token=GTR
+#EXTINF:0,THANAMTV
+http://198.144.149.82:8080/NOTV/THANAMTV/index.m3u8?token=GTR
+#EXTINF:0,WTT
+http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
+#EXTINF:0,Kanaa
+http://198.144.149.82:8080/NOTV/KANAA/index.m3u8?token=GTR
+#EXTINF:0,ACN Cinema
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8
+#EXTINF:0,Tirumalai TV
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+#EXTINF:0,Vanavil Plus
+http://51.75.95.11:5080/LiveApp/streams/779115238213688180372781.m3u8
+#EXTINF:0,Jawahar TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+#EXTINF:0,KALVI TV
+http://198.144.149.82:8080/KALVI_GR10/index.m3u8?token=GTR
+#EXTINF:0,VAGAITV
+http://198.144.149.82:8080/NOTV/VAGAITV/index.m3u8?token=GTR
+#EXTINF:0,RJ TV
+http://singamcloud.in:1935/rjtv/rjtv/playlist.m3u8
+#EXTINF:0,CSK TV
+http://cdn.live5.in:1935/livesp/csktv1/playlist.m3u8
+#EXTINF:0,Arunai TV
+http://7starcloud.com:1935/live/arunaitv/playlist.m3u8
+#EXTINF:0,PuthiyaThalaimurai
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist.m3u8
+#EXTINF:0,SAI TV
+http://198.144.149.82:8080/NOTV/SAITVMD/index.m3u8?token=GTR
+#EXTINF:0,Singam TV
+http://singamcloud.in:8080/singamtv/singamtv/playlist.m3u8
+#EXTINF:0,ANALAI MOVIE
+http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
+#EXTINF:0,JAYTV
+http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
+#EXTINF:0,Ninestar TV
+http://kairacloud.in/ninestarTV/ninestarTVPassword.m3u8
+#EXTINF:0,MY TV
+http://account19.livebox.co.in/mytvhls/live.m3u8
+#EXTINF:0,MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
+#EXTINF:0,Rasi Classic
+http://singamcloud.in:8080/rasinetwork/rasiclassic/playlist.m3u8
+#EXTINF:0,Deepam TV
+http://95.217.218.87/deepamtvhls/live.m3u8
+#EXTINF:0,Kalvi Solai
+http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
+#EXTINF:0,Erode Krishna TV
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:0,Nanban TV
+http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/nanbantv/index.m3u8
+#EXTINF:0,Vasantv
+http://singamcloud.in:8080/vasantv/vasantv/playlist.m3u8
+#EXTINF:0,Ultramax
+http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/aktv-iUDJX6DDLHUWh-stream/index.m3u8
+#EXTINF:0,Jeyam TV HD
+http://stream.blackmoon.in:8000/jeyamtvhd/JeyamTv/bms.m3u8
+#EXTINF:0,Sathiyamtv
+http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
+#EXTINF:0,Akaram Mix
+http://akaram.zecast.net/akaram-live/akarammix1/index.m3u8
+#EXTINF:0,Pakalavan TV
+http://player.yarlsriserver.com/pakalavantv/e26fd7c8b4fd8eafbb9f99a19a1c3701.sdp/playlist.m3u8
+#EXTINF:0,JVISION
+http://198.144.149.82:8080/DINESH/JVISION/index.m3u8?token=GTR
+#EXTINF:0,Ragam TV
+http://account12.livebox.co.in/ntvhls/ntv.m3u8
+#EXTINF:0,SAITV
+http://198.144.149.82:8080/NOTV/SAITV/index.m3u8?token=GTR
+#EXTINF:0,MAX TV
+http://198.144.149.82:8080/NOTV/MAXTV/index.m3u8?token=GTR
+#EXTINF:0,UTV
+http://198.144.149.82:8080/NOTV/UTV/index.m3u8?token=GTR
