@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed (8).png"group-title="Tamil Cable TV",Aus Tamil TV
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed%20(8).png"group-title="Tamil Cable TV",Aus Tamil TV
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://theboss.in/wp-content/uploads/2016/06/logo-1.png"group-title="Tamil Cable TV",Boss TV
 http://bosstv-notv.chennaistream.net/bosstv/bosstvlive/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",Nila TV
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/logo%202%20YELLOW%20MX.png"group-title="Tamil Cable TV",Nila TV
 http://account5.livebox.co.in/nilatvhls/broadcast.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",Amma Channel
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200724-WA0035.jpg"group-title="Tamil Cable TV",ACN Amma Channel
 http://ammacable.com:1935/acn/ammachannel/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",Arasantv
 http://ammacable.com:1935/acn/arasantv/playlist.m3u8
@@ -71,11 +71,11 @@ http://198.144.149.82:8080/NOTV/USHAGOLD/index.m3u8?token=GTR
 http://198.144.149.82:8080/NOTV/SAISTAR/index.m3u8?token=GTR
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",THANAMTV
 http://198.144.149.82:8080/NOTV/THANAMTV/index.m3u8?token=GTR
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",WTT
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/images%20(26).png"group-title="Tamil Cable TV",World Tamil TV
 http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",Kanaa
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/download%20(5).png"group-title="Tamil Cable TV",Kanaa
 http://198.144.149.82:8080/NOTV/KANAA/index.m3u8?token=GTR
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",ACN Cinema
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200710-WA0012.jpg"group-title="Tamil Cable TV",ACN Cinema
 http://ammacable.com:1935/acn/acncinema/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",Tirumalai TV
 http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
