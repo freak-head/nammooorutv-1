@@ -15,13 +15,13 @@ http://account13.livebox.co.in/palartvhls/live.m3u8
 http://singamcloud.in:8080/rasinetwork/rasitv/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",CAN Music
 http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",Polimer News
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png"group-title="Tamil News Channels",Polimer News
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",JCV TV
 http://account11.livebox.co.in/jcvtvhls/live.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",Kavin TV
 http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/kavintv/index.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",MK Six
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Free TV",MK Six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",Rasi Movies
 http://singamcloud.in:8080/rasinetwork/rasimovies/playlist.m3u8
@@ -41,7 +41,7 @@ http://182.75.50.131:1935/live/jayamtv/playlist.m3u8
 http://kairacloud.in/akTV/akTVPassword.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",Hari Media
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",News 7 Tamil
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://www.pngfind.com/pngs/m/317-3178616_news-news-7-tamil-logo-hd-png-download.png"group-title="Tamil News Channels",News 7 Tamil
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",NEWS80
 http://198.144.149.82:8080/NOTV/NEWS80/index.m3u8?token=GTR
@@ -107,7 +107,7 @@ http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
 http://kairacloud.in/ninestarTV/ninestarTVPassword.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",MY TV
 http://account19.livebox.co.in/mytvhls/live.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",MK TV
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/72/MKTV.png"group-title="Tamil Free TV",MK TV
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",Rasi Classic
 http://singamcloud.in:8080/rasinetwork/rasiclassic/playlist.m3u8
