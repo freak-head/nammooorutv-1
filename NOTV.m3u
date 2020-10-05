@@ -168,5 +168,5 @@ https://delta14tatasky.akamaized.net/out/i/16686.mpd
 #EXTINF:-1 tvg-id="461" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="IPL Special",Star Sports Select 2 HD
 https://delta41tatasky.akamaized.net/out/i/2238883.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="1106" tvg-logo="https://i.gadgets360cdn.com/large/disney_plus_hotstar_logo_1583901149861.jpg" group-title="IPL Special",Gazi TV
+#EXTINF:-1 tvg-id="1106" tvg-logo="https://4.bp.blogspot.com/-MFiq1qOxwqs/XBfRsDj8LMI/AAAAAAAAAas/6s25NxGVrUk4fPGU0GRowcyfeZOTW2ZBgCPcBGAYYCw/s1600/Gtv-Live-Cricket.png" group-title="IPL Special",Gazi TV
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
