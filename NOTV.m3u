@@ -7,14 +7,18 @@ http://bosstv-notv.chennaistream.net/bosstv/bosstvlive/playlist.m3u8
 http://account5.livebox.co.in/nilatvhls/broadcast.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200724-WA0035.jpg"group-title="Tamil Cable TV",ACN Amma Channel
 http://ammacable.com:1935/acn/ammachannel/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Arasantv
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/1600174738287_IMG-20200724-WA0036.jpg"group-title="Tamil Cable TV",Arasantv
 http://ammacable.com:1935/acn/arasantv/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed%20(9).png"group-title="Tamil Cable TV",Thirumalai tv
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://lh3.googleusercontent.com/bVIy7zAGzU83gKXqRc5CWLyErXaOqj-wjs6NF2QLFvQUGlyM10a5AosjWmkXjq6U5kPp=s180-rw"group-title="Tamil Cable TV",Palar TV
 http://account13.livebox.co.in/palartvhls/live.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="Tamil Cable TV",Rasi Network
 http://singamcloud.in:8080/rasinetwork/rasitv/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",ACN Music
 http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/images%20-%202020-09-08T133529.542.jpeg"group-title="Tamil Cable TV",Three Tamil
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png"group-title="Tamil News Channels",Polimer News
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",JCV TV
