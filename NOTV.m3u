@@ -81,7 +81,7 @@ http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
 http://51.75.95.11:5080/LiveApp/streams/779115238213688180372781.m3u8
 #EXTINF:0,Jawahar TV
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
-#EXTINF:0,KALVI TV
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",KalviTV
 http://198.144.149.82:8080/KALVI_GR10/index.m3u8?token=GTR
 #EXTINF:0,VAGAITV
 http://198.144.149.82:8080/NOTV/VAGAITV/index.m3u8?token=GTR
