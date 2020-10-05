@@ -29,9 +29,9 @@ http://singamcloud.in:8080/rasinetwork/rasimovies/playlist.m3u8
 http://kairacloud.in/rcnTV/rcnTVPassword.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",AASAI TV
 http://osaitv.livebox.co.in/osaihls/live.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",Rasi Comedy
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",Rasi Telugu
 http://singamcloud.in:8080/rasinetwork/rasicomedy/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",MONTAMIL CINEMA
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnYcdLcre3umdPNp_3LjDUBRmx0fDvKkos_A&usqp=CAU"group-title="Tamil Cable TV",MONTAMIL CINEMA
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/news.jpg"group-title="Tamil Cable TV",Metro TV
 http://kairacloud.in/metroTV/metroTVPassword.m3u8
