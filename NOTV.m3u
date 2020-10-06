@@ -170,3 +170,7 @@ https://delta41tatasky.akamaized.net/out/i/2238883.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/330px-GTVBangladeshLogo.png" group-title="IPL Special",Gazi TV
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Varmaa_poster.jpg" group-title="Movie",Varma SD
+https://od.lk/d/ODhfODk3NDEzMl8/www.TamilVaathi.online%20-%20Varmaa%20%282020%29%20Tamil%20TRUE%20HDRip%20x264%20-%20MP3%20-%20400MB%20-%20Esubs.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Varmaa_poster.jpg" group-title="Movie",Varma 4K
+https://td.klprojects.tech/3:/www.TamilVaathi.online%20-%20Varmaa%20(2020)%20Tamil%204K%20UHD%20x265%20HEVC%20-%20UNTOUCHED%20-%20DD5.1%20-%209.5GB.mkv
