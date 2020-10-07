@@ -149,6 +149,7 @@ http://198.144.149.82:8080/NOTV/SAITV/index.m3u8?token=GTR
 http://198.144.149.82:8080/NOTV/MAXTV/index.m3u8?token=GTR
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",UTV
 http://198.144.149.82:8080/NOTV/UTV/index.m3u8?token=GTR
+#KODIPROP:inputstream.adaptive.license_key=http://ipl.indtv.online/tatasky/26280151.mpd
 #EXTINF:-1 tvg-id="1106" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="IPL Special",Star Sports 1 HD
 https://delta14tatasky.akamaized.net/out/i/2624997.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
