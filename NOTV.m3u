@@ -178,6 +178,8 @@ http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 https://od.lk/d/ODhfODk0NzMzM18/www.TamilVaathi.online%20-%20Ka%20Pae%20Ranasingam%20%282020%29%201080p%20-%20TRUE%20HD%20AVC%20-%20x264%20-%20AAC%20-%203.9GB%20-%20Esub.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Adithya_Varma_poster.jpg" group-title="Movie",Adithya Varma 720p
 https://td.klprojects.tech/3:/Adithya%20Varma%20(2019)[Proper%20Tamil%20720p%20HDRip%20-%20x264%20-%20DD5.1%20-%201.4GB%20-%20ESubs].mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/Raatchasan_poster.jpg" group-title="Movie",Ratsasan
+https://td.klprojects.tech/2:/www.TamilVaathi.online%20-%20Ratsasan%20(2018)%20Tamil%20TRUE%201080p%20HD%20AVC%20x264%20-%20AAC%202.0%20-%20DDP%205.1%20-%20UNTOUCHED%20-%208.8GB%20-%20ESubs.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/dc157072cc4b12f295ecbf06a3b49a302406f423cd14ea2f35bced991811aadd._UR1920,1080_RI_UX400_UY225_.jpg" group-title="Movie",Silence (Multi Audio)
 https://od.lk/d/ODhfODk0NzE1MF8/www.TamilVaathi.online%20-%20Nishabdham%20%28Silence%29%20%282020%29%201080p%20-%20TRUE%20HD%20AVC%20-%20x264%20-%20%5BTel%20%2B%20Tam%20%2B%20Mal%5D%20DDP%205.1%20-%205.5GB%20-%20Esub.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",After Earth
@@ -208,3 +210,15 @@ https://td.klprojects.tech/3:/FIFA.World.Cup.2018.Group.B.Iran.Vs.Portugal.2160p
 https://td.klprojects.tech/3:/John.Wick.Chapter.3.Parabellum.2019.2160p.10bit.HDR.BluRay.8CH.x265.HEVC-PSA.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",Aladdin (2019)
 https://td.klprojects.tech/3:/Aladdin.2019.4K.HDR.2160p.BDRip%20Ita%20Eng%20x265-NAHOM/Aladdin.2019.4K.HDR.2160p.BDRip%20Ita%20Eng%20x265-NAHOM.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_5505f402.jpeg" group-title="4K",ALITA: BATTLE ANGEL (2019)
+https://td.klprojects.tech/2:/Alita.Battle.Angel.2019.2160p.10bit.HDR.BluRay.8CH.x265.HEVC-PSA/Alita.Battle.Angel.2019.2160p.10bit.HDR.BluRay.8CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-SqqEGvk_nYs/V5UqE9fQZ4I/AAAAAAAAAq8/m16H-lLmhsox-4O6DplPJEc2tpKZvoEyQCLcB/s1600/Batman%2Bv%2BSuperman%2BDawn%2Bof%2BJustice.jpg" group-title="4K",Batman v Superman: Dawn of Justice (2016)
+https://td.klprojects.tech/2:/Batman%20V%20Superman%20Dawn%20Of%20Justice%20(2016)%20[2160p]%20[4K]%20[BluRay]%20[5.1]%20[YTS.MX]/Batman.V.Superman.Dawn.Of.Justice.2016.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/Doctor_Strange_poster.jpg" group-title="4K",Doctor Strange (2016)
+https://td.klprojects.tech/2:/Doctor%20Strange%20(2016)%20[2160p]%20[HDR]%20(bluray)%20[WMAN-LorD]/Doctor.Strange.2016.2160p.UHD.HDR.BluRay.x265.10bit.DD5.1.[WMAN-LorD].mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://digitalcontent.api.tesco.com/v2/media/ghs/2dba10f5-ffbc-489b-9a80-e7dcc8dc2a57/snapshotimagehandler_366701587.jpeg" group-title="4K",Finding Dory(2016)
+https://td.klprojects.tech/2:/Finding%20Dory%20(2016)%20(2160p%20BluRay%20x265%20HEVC%2010bit%20HDR%20AAC%207.1%20Tigole)/Finding%20Dory%20(2016)%20(2160p%20BluRay%20x265%2010bit%20HDR%20Tigole).mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://consequenceofsound.net/wp-content/uploads/2014/11/interstellar.png" group-title="4K",Interstellar (2014) IMAX
+https://td.klprojects.tech/2:/Interstellar.2014.IMAX.2160p.10bit.HDR.BluRay.6CH.x265.HEVC-PSA/Interstellar.2014.IMAX.2160p.10bit.HDR.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Scoob_poster.png" group-title="4K",Scoob (2020)
+https://td.klprojects.tech/2:/Scoob%20(2020)%20[2160p]%20[4K]%20[BluRay]%20[5.1]%20[YTS.MX]/Scoob.2020.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv
