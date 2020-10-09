@@ -224,3 +224,7 @@ https://td.klprojects.tech/2:/Finding%20Dory%20(2016)%20(2160p%20BluRay%20x265%2
 https://td.klprojects.tech/2:/Interstellar.2014.IMAX.2160p.10bit.HDR.BluRay.6CH.x265.HEVC-PSA/Interstellar.2014.IMAX.2160p.10bit.HDR.BluRay.6CH.x265.HEVC-PSA.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Scoob_poster.png" group-title="4K",Scoob (2020)
 https://td.klprojects.tech/2:/Scoob%20(2020)%20[2160p]%20[4K]%20[BluRay]%20[5.1]%20[YTS.MX]/Scoob.2020.2160p.4K.BluRay.x265.10bit.AAC5.1-[YTS.MX].mkv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.online/tatasky/1734527.mpd
+#EXTINF:-1 tvg-id="1132" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="TataSky (TiviMate)",Testing
+http://tataskytv.indtv.online/tatasky/1734527.mpd
