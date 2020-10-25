@@ -129,6 +129,16 @@ http://95.217.218.87/deepamtvhls/live.m3u8
 http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Erode Krishna TV
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://mhdtvworld.live/wp-content/uploads/2020/01/yBIKGPF8_400x400.png"group-title="Tamil Cable TV",Namakaga TV
+https://player.mslivestream.net/mslive/a5e669e9a3073f1384994f3b02576748.sdp/chunks.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/nakkubetta-1logo.png"group-title="Tamil Cable TV",Nakkubetta TV
+https://nakkubettatv.livebox.co.in/nbtvhls/nbtv.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/EET_TV.png"group-title="Tamil Cable TV",EET TV
+https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/mntv1.png"group-title="Tamil Cable TV",MN TV
+https://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://mhdtvworld.live/wp-content/uploads/2019/03/Screenshot_1.png"group-title="Tamil Cable TV",Tamil MTV
+https://player.yarlsriserver.com/tamilmtv/b9869bec82b6ab24d914fdba43450a1e.sdp/chunks.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Nanban TV
 http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/nanbantv/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Vasantv
@@ -218,3 +228,25 @@ https://load.airtelxstream.in/rajdigitalplus/smil:common.smil/chunklist_b564000_
 https://load.airtelxstream.in/suntv/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/200px-Sun_TV_logo.svg.png" group-title="Airtel",Sun TV SD NXT
 https://mhdtvworld.live/delta/snxt/snxt.php?id=9016&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg" group-title="Airtel",Sun Life
+https://load.airtelxstream.in/sunlife/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/ADITHYA.png" group-title="Airtel",Adithya TV
+https://load.airtelxstream.in/adithyatv/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/discoverytamil-1.png" group-title="Airtel",Discovey Tamil
+https://streamitv.multitvsolution.in/idvo/discoverytamil_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/sun_kondattam_tv.png" group-title="Airtel",K TV
+https://load.airtelxstream.in/ktv/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/sun_music.png" group-title="Airtel",Sun Music
+https://load.airtelxstream.in/sunmusic/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/kalaignar_new_roku.jpg" group-title="Airtel",Kalaignar TV
+https://load.airtelxstream.in/kalaignartv/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/sirippoli_new_roku.jpg" group-title="Airtel",Sirippoli
+https://load.airtelxstream.in/sirippoli/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/isaiaruvi_new_roku.jpg" group-title="Airtel",Isaiaruvi
+https://load.airtelxstream.in/isaiaruvi/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/moon.png" group-title="Airtel",Moon TV
+https://streamitv.multitvsolution.in/idvo/moontv_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/ibc-1.png" group-title="Airtel",IBC Tamil
+https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/45232.png" group-title="Airtel",IBC Comedy
+https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8
