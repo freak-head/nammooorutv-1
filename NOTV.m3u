@@ -11,6 +11,8 @@ http://ammacable.com:1935/acn/ammachannel/playlist.m3u8
 http://ammacable.com:1935/acn/arasantv/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed%20(9).png"group-title="Tamil Cable TV",Thirumalai tv
 http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.postimg.cc/cLdRLCs9/SRTV.png"group-title="Tamil Cable TV",SR TV
+http://210.18.155.135:1935/live/srtv/chunklist_w29481395.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://lh3.googleusercontent.com/bVIy7zAGzU83gKXqRc5CWLyErXaOqj-wjs6NF2QLFvQUGlyM10a5AosjWmkXjq6U5kPp=s180-rw"group-title="Tamil Cable TV",Palar TV
 http://account13.livebox.co.in/palartvhls/live.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="Tamil Cable TV",Rasi Network
