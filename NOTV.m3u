@@ -202,3 +202,13 @@ https://td.klprojects.tech/1:/Ae%20Dil%20Hai%20Mushkil%20(2016)%20(1080p%20BluRa
 https://bot3.saccount.workers.dev/www.TamilVaathi.online%20-%20Saamy%20(2003)%20Tamil%20720P%20HDTV%20WEB-DL%20-%20UNTOUCHED%20-%202.6GB.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.impawards.com/2019/posters/avengers_endgame_ver37.jpg" group-title="Movie",Avengers Endgame - 4K
 https://bot1.saccount.workers.dev/Avengers.Endgame.2019.4K.HDR.2160p.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Raj_TV_Tamil.png/250px-Raj_TV_Tamil.png" group-title="Airtel",RajTV
+https://load.airtelxstream.in/rajtv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.behindwoods.com/tamil-movies/slideshow/complete-list-of-tamil-tv-channels-price/images/jaya-max.jpg" group-title="Airtel",Jaya MAX
+https://load.airtelxstream.in/jayamax/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/jayaplus.jpg" group-title="Airtel",Jaya Plus
+https://load.airtelxstream.in/jayaplus/smil:common.smil/chunklist_b564000_DVR_sleng.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn.freedocast.com/yupptv/roku/images/polimer_tv_roku.jpg" group-title="Airtel",Polimer TV
+https://load.airtelxstream.in/polimertv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/raj_digitalplus.jpg" group-title="Airtel",Raj Digital Plus
+https://load.airtelxstream.in/rajdigitalplus/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
