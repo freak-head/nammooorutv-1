@@ -167,6 +167,8 @@ http://198.144.149.82:8080/NOTV/UTV/index.m3u8?token=GTR
 https://tinyurl.com/y5xavbye
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="IPL Special",Star Sports 1 HD Hindi
 https://tinyurl.com/y3s438j7
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://4.bp.blogspot.com/-KeL_sl9lrGI/VFIryEx2O_I/AAAAAAAAA6Q/m_svmXrvBWE/s1600/2%2B%2B-%2BCpa%2BDesiger%2Bcopy.png"group-title="IPL Special",Bein Sports 13 English HD
+https://dx4.gcdn.co/UKS1759/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.online/tatasky/2624997.mpd
 #EXTINF:-1 tvg-id="1106" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="IPL Special",Star Sports 1 HD
@@ -250,3 +252,5 @@ https://streamitv.multitvsolution.in/idvo/moontv_540p/index.m3u8
 https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/45232.png" group-title="Airtel",IBC Comedy
 https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/45232.png" group-title="JIO Test",Sony PIX HD
+https://jiocdn.fun/jio/jiotv/fuck.php?c=Sony_Pix_HD&q=1200&e=.m3u8
