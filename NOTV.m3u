@@ -329,6 +329,8 @@ https://jiocdn.fun/jio/jiotv/fuck.php?c=Lotus_News&e=.m3u8
 https://jiocdn.fun/jio/jiotv/fuck.php?c=Jaya_Plus&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://secret-ocean-49799.herokuapp.com/http://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png" group-title="JIO TV",Win_TV
 https://jiocdn.fun/jio/jiotv/fuck.php?c=Win_TV&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/KBO.png" group-title="YuppTV Test",KBO HD
+https://mhdtvworld.live/7star/yupp.php?id=91393481&e=.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports",SPORTS 1 FHD
 http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6854
 #EXTINF:-1 tvg-id="" group-title="Sports",SPORTS 2 FHD
