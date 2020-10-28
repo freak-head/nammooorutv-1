@@ -369,3 +369,141 @@ http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/231
 http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/232
 #EXTINF:-1 tvg-id="" group-title="Sports",SPORT: Super sport 1
 http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/228
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzQiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzdGFtaWxoZF9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRnkzWm1wTkpYV3lKYWp4MjVETVBSWDdSTEp2dlExMzRlX3lhVmhTNTdEYkIyazdvaU1HNlpVa09lTDBKQ0VPQ0NHemRqZDNma2lrbnNVN1QzV1Zrdm5Qcm5RR1FxU2ozYjlYZV9ZblVDX0pYdXFBWmgxelp5aWdwek1wclFhS3BOYzhHeDJEZ3JkUGZaTVB2aHZ6eVl5MkRrU3ZTV3lqaXJHY2wzV2stVlJPQ29nREt4LXRYRFdXZGpjSEc2bVIyNmtfTFAyYjcxNDAybUhfTExfZWdwNkgxWnI5YVU3ZEVwZXkwY2tCOENURHhBLTZoUFZicnNhcElISTFvTkNkQk1ZX2gxU25UXzl0SklpdWVWNU05a1RLZ1ZOT2pMeDNYeVgyUHVHQ0t1Y2xkMTFsMUVqR012V0JEWGZpUnpCREtOZWt2dWlnY3B3ZVlneGpDTEJwblB4Q2l2OGVpaGpDTnJNWkNqc3Q0WDdfWHpkSTJZT24xeU1XTjRUekU1MmZmMFJrUF8zY3dWd0Y5YkdUQmZLZzhFdWNTYkRtaDZld0hUOFowQ1hhWW9GeFBQREc0Uk5WdFUyUGhKc2o0TF94bEdjeHdtMVhGUmlkREFUQlQyMC1PMHVnTDhYemtUcDRsNW05LW92VFB5bXIiLCJ1ZGlkIjoiMmEzYjBlNWNkMDM2NDdjY2E0YTI3Y2M2NzI1YzUyNjYiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=qNGb6wctTmMKCEvcAX%2b1EQf7Cak%3d&sessionId=eac059bb-7168-cf5e-62b4-e54f894e3b1c:d2eff781-ba4e-c8e0-a0c9-c05a7ec3b90e&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLXRhbWlsLWhkLzgwNTk4Ng==
+#EXTINF:-1  tvg-id="429" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",Colors Tamil
+https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd
+#EXTINF:-1  tvg-id="603" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png",Nambikkai
+https://tivimateplaylists.live/nambikkain
+#EXTINF:-1  tvg-id="726" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png",DD Podhigai
+https://tivimateplaylists.live/ddpodhighain
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0680.CaptainTV.in/1x1/1x/test_pic1535463113447.jpg",Captain Tv
+https://tivimateplaylists.live/captain-tvn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1493.7SMusic.in/1x1/1x/test_pic1552384462173.jpg",7S Music
+https://tivimateplaylists.live/7s-musicn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0390.IsaiAruvi.in/1x1/1x/test_pic1552384764086.jpg",Isai Aruvi
+https://tivimateplaylists.live/isaiaruvin
+#EXTINF:-1  tvg-id="803" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png",Tune 6
+https://tivimateplaylists.live/Tune6n
+#EXTINF:-1  tvg-id="708" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png",Makkal TV
+https://tivimateplaylists.live/makkaltvn
+#EXTINF:-1  tvg-id="677" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png",Puthiya Thalaimurai
+https://tivimateplaylists.live/puthiyan
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0614.Chithiram.in/1x1/1x/test_pic1535463200470.jpg",Chithiram
+https://tivimateplaylists.live/chithiramn
+#EXTINF:-1  tvg-id="1417" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png",CVBC2
+https://tivimateplaylists.live/svbc2n
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8002.Kollywood.in/1x1/1x/test_pic1574770846721.jpg",Kollywood
+https://tivimateplaylists.live/kollywood
+#EXTINF:-1  tvg-id="826" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png",Malai Murasu
+https://tivimateplaylists.live/malaimurasun
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="http://www.vendharmedia.in/images/logo.png",Vendhar
+https://tivimateplaylists.live/vendar
+#EXTINF:-1  tvg-id="628" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",Zee Tamil
+https://tivimateplaylists.live/zeetamil
+#EXTINF:-1  tvg-id="0-9-224" group-title="Tamil IPTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-224/list/386x386/09224zeethirai_2030446447.png",Zee Thirai
+https://tivimateplaylists.live/zeethrain
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/TVI_HD_logo.png/150px-TVI_HD_logo.png",TVi HD
+https://tivimateplaylists.live/tvihdn
+#EXTINF:-1  tvg-id="835" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Angel_TV_HD.png",Angel tv HD
+https://tivimateplaylists.live/angel-tvn
+#EXTINF:-1  tvg-id="26567" group-title="Tamil IPTV" tvg-logo="https://sund-images.sunnxt.com/26567/1000x1000_c103e59e-217e-44fd-a087-651fcf8e6278.jpg",Chutti Tv
+https://tivimateplaylists.live/Chhuthi-tvn
+#EXTINF:-1  tvg-id="418" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png",Jaya Plus
+https://tivimateplaylists.live/jayaplusn
+#EXTINF:-1  tvg-id="894" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD
+https://tivimateplaylists.live/ktvhdn
+#EXTINF:-1  tvg-id="707" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png",Raj TV
+https://tivimateplaylists.live/raj-tv
+#EXTINF:-1  tvg-id="683" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png",Raj Digital Plus
+https://tivimateplaylists.live/rajdigitalplusn
+#EXTINF:-1  tvg-id="705" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png",Polimer TV
+https://tivimateplaylists.live/polimertvn
+#EXTINF:-1  tvg-id="705" group-title="Tamil IPTV" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg",Adithya TV
+https://tivimateplaylists.live/adithyatvn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="https://sund-images.sunnxt.com/26569/1000x1000_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg",Sun Life
+https://tivimateplaylists.live/sunlifen
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="https://sund-images.sunnxt.com/9025/1000x1000_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg",Sun Music
+https://tivimateplaylists.live/sunmusicn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg",KTV
+https://tivimateplaylists.live/ktvn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="https://sund-images.sunnxt.com/9016/1000x1000_4522d18b-56cc-42be-8365-c54e21a6e394.jpg",Sun Tv
+https://tivimateplaylists.live/suntvn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="https://assets-news-bcdn.dailyhunt.in/cmd/resize/400x400_80//fetchdata15/images/0b/27/17/0b27174279f5293567132f47c9cf9fef.jpg",Discovery Tamil
+https://tivimateplaylists.live/discoverytamiln
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-ibc-music.jpg",IBC Music
+https://tivimateplaylists.live/ibc-musicn
+#EXTINF:-1  tvg-id="0-9-221" group-title="Tamil IPTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-221/list/386x386/09221puthyugamtv.png",Puthuyugam TV
+https://tivimateplaylists.live/puthuyugam-tvn
+#EXTINF:-1  tvg-id="1209" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png",Kalaignar TV
+https://tivimateplaylists.live/kalaignar-tvn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sirippoli-tv-large.png",Sirippoli
+https://tivimateplaylists.live/sirippolin
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mk_tv_in_six.png",MK Six
+https://tivimateplaylists.live/mksixn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="https://nettv4u.com/uploads/115x100/imayam.jpg",Imayam Tv
+https://tivimateplaylists.live/imayamtvn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="https://logos-download.com/wp-content/uploads/2018/07/Moon_TV_logo_pink-700x700.png",Moon Tv
+https://tivimateplaylists.live/Moon-TVn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="https://assets.zoftcdn.com/branding/ibctamil/ibctamil_1.png",IBC Tamil
+https://tivimateplaylists.live/ibc-tamiln
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/IBC-Comedy_new1.jpg",IBC Comedy
+https://tivimateplaylists.live/ibccomedyn
+#EXTINF:-1  tvg-id="748" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png",Raj Musix
+https://tivimateplaylists.live/Rajmusixn
+#EXTINF:-1  tvg-id="368" group-title="Tamil IPTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png",Star Vijay HD
+https://tivimateplaylists.live/star-vijayn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="https://sund-images.sunnxt.com/38926/1000x1000_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg",Sun News
+https://tivimateplaylists.live/sunnewsn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="logo",Tv aus tamil
+https://tivimateplaylists.live/tvaustamiln
+#EXTINF:-1  tvg-id="NA" group-title="Tamil IPTV" tvg-logo="logo",Tv Tamil Deepam
+https://tivimateplaylists.live/tvtamildeepamn
+
+#EXTINF:-1  tvg-id="id" group-title="Sports IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",IPL Server 1
+https://tivimateplaylists.live/hotstarN
+#EXTINF:-1  tvg-id="id" group-title="Sports IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",IPL Server 2
+https://tivimateplaylists.live/hotstar-2N
+#EXTINF:-1  tvg-id="id" group-title="Sports IPTV" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",Sky Sports Cricket
+https://tivimateplaylists.live/skysportscricket2n
+#EXTINF:-1  tvg-id="id" group-title="Sports IPTV" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png",S Cricket
+https://tivimateplaylists.live/scricketnn
+#EXTINF:-1  tvg-id="id" group-title="Sports IPTV" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-grandstand.png",S Grandstand
+https://tivimateplaylists.live/sgrandstnn
+#EXTINF:-1  tvg-id="id" group-title="Sports IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png",Fox Cricket 501 IPL
+https://tivimateplaylists.live/astroymcricketn
+#EXTINF:-1  tvg-id="na" group-title="Sports IPTV" tvg-logo="https://i.pinimg.com/originals/2c/cc/67/2ccc67b0c078679966351ec1ebf5805a.png",GTV IPL
+https://tivimateplaylists.live/gazin
+#EXTINF:-1  tvg-id="1106" group-title="Sports IPTV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Sports Hindi
+https://tivimateplaylists.live/starsportshindin
+#EXTINF:-1  tvg-id="1106" group-title="Sports IPTV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Sports 1
+https://tivimateplaylists.live/star-sports-1-testingn
+#EXTINF:-1  tvg-id="1109" group-title="Sports IPTV" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",Star Sports 2
+https://tivimateplaylists.live/star-sports-2-testingn
+#EXTINF:-1  tvg-id="na" group-title="Sports IPTV" tvg-logo="https://pbs.twimg.com/profile_images/1098171416325881857/zsgju_op_400x400.png",Star Sports Tamil
+https://tivimateplaylists.live/starsportstamiln
+#EXTINF:-1  tvg-id="460" group-title="Sports IPTV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",Star Sports Select 1
+https://tivimateplaylists.live/star-sports-select-1-testingn
+#EXTINF:-1  tvg-id="461" group-title="Sports IPTV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",Star Sports Select 2
+https://tivimateplaylists.live/starsports-selct2-testingn
+#EXTINF:-1  tvg-id="155" group-title="Sports IPTV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v2/imageContent-108-j5fl5wwg-m2.png",Sony SIX HD
+https://tivimateplaylists.live/sony-sixn
+#EXTINF:-1  tvg-id="162" group-title="Sports IPTV" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png",Sony Ten 1 HD
+https://tivimateplaylists.live/sonyten1hdn
+#EXTINF:-1  tvg-id="891" group-title="Sports IPTV" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png",Sony Ten 2 HD
+https://tivimateplaylists.live/sonyten2hdn
+#EXTINF:-1  tvg-id="892" group-title="Sports IPTV" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png",Sony Ten 3 HD
+https://tivimateplaylists.live/sonyten3hdn
+#EXTINF:-1  tvg-id="na" group-title="Sports IPTV" tvg-logo="https://sportscentre4u.com/wp-content/uploads/2020/08/willow-tv-live-stream-cpl-2020-wiillow-tv-cricket-live-696x392.jpg",Willow
+https://tivimateplaylists.live/willown
+#EXTINF:-1  tvg-id="N/A" group-title="Sports IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein Sports 1 
+https://tivimateplaylists.live/Bein1footballn
+#EXTINF:-1  tvg-id="N/A" group-title="Sports IPTV" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Football-2020-logo-250.png",Sky Sports Football
+https://tivimateplaylists.live/sky-football-2n
+#EXTINF:-1  tvg-id="id" group-title="Sports IPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzHdqhzo0S0ISKfekknwvzhBmm3qbYApqtLQ&usqp=CAU",WWE
+https://tivimateplaylists.live/wwen
+#EXTINF:-1  tvg-id="id" group-title="Sports IPTV" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",Bein Sports Xtra
+https://tivimateplaylists.live/bein-sports-xtran
+#EXTINF:-1  tvg-id="id" group-title="Sports IPTV" tvg-logo="https://3kqxwn1k9d01s9ict1484jk6-wpengine.netdna-ssl.com/wp-content/uploads/2013/03/sportsmax-logo-300x225.png",Sports Max
+https://tivimateplaylists.live/sports-maxn
