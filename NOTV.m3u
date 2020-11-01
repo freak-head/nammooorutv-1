@@ -190,35 +190,35 @@ https://bot3.saccount.workers.dev/www.TamilVaathi.online%20-%20Saamy%20(2003)%20
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.impawards.com/2019/posters/avengers_endgame_ver37.jpg" group-title="Movie",Avengers Endgame - 4K
 https://bot1.saccount.workers.dev/Avengers.Endgame.2019.4K.HDR.2160p.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Raj_TV_Tamil.png/250px-Raj_TV_Tamil.png" group-title="Airtel",RajTV
-https://load.airtelxstream.in/rajtv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+https://load.airtelxstream.in/rajtv/smil:common.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.behindwoods.com/tamil-movies/slideshow/complete-list-of-tamil-tv-channels-price/images/jaya-max.jpg" group-title="Airtel",Jaya MAX
-https://load.airtelxstream.in/jayamax/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+https://load.airtelxstream.in/jayamax/smil:common.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/jayaplus.jpg" group-title="Airtel",Jaya Plus
-https://load.airtelxstream.in/jayaplus/smil:common.smil/chunklist_b564000_DVR_sleng.m3u
+https://load.airtelxstream.in/jayaplus/smil:common.smil/index.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn.freedocast.com/yupptv/roku/images/polimer_tv_roku.jpg" group-title="Airtel",Polimer TV
-https://load.airtelxstream.in/polimertv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+https://load.airtelxstream.in/polimertv/smil:common.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/raj_digitalplus.jpg" group-title="Airtel",Raj Digital Plus
-https://load.airtelxstream.in/rajdigitalplus/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+https://load.airtelxstream.in/rajdigitalplus/smil:common.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/200px-Sun_TV_logo.svg.png" group-title="Airtel",Sun TV SD
-https://load.airtelxstream.in/suntv/smil:common.smil/chunklist_b896000_sleng.m3u8
+https://load.airtelxstream.in/suntv/smil:common.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/200px-Sun_TV_logo.svg.png" group-title="Airtel",Sun TV SD NXT
 https://mhdtvworld.live/delta/snxt/snxt.php?id=9016&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg" group-title="Airtel",Sun Life
-https://load.airtelxstream.in/sunlife/smil:common.smil/chunklist_b896000_sleng.m3u8
+https://load.airtelxstream.in/sunlife/smil:common.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/ADITHYA.png" group-title="Airtel",Adithya TV
-https://load.airtelxstream.in/adithyatv/smil:common.smil/chunklist_b896000_sleng.m3u8
+https://load.airtelxstream.in/adithyatv/smil:common.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/discoverytamil-1.png" group-title="Airtel",Discovey Tamil
 https://streamitv.multitvsolution.in/idvo/discoverytamil_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/sun_kondattam_tv.png" group-title="Airtel",K TV
-https://load.airtelxstream.in/ktv/smil:common.smil/chunklist_b896000_sleng.m3u8
+https://load.airtelxstream.in/ktv/smil:common.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/sun_music.png" group-title="Airtel",Sun Music
-https://load.airtelxstream.in/sunmusic/smil:common.smil/chunklist_b896000_sleng.m3u8
+https://load.airtelxstream.in/sunmusic/smil:common.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/kalaignar_new_roku.jpg" group-title="Airtel",Kalaignar TV
-https://load.airtelxstream.in/kalaignartv/smil:common.smil/chunklist_b896000_sleng.m3u8
+https://load.airtelxstream.in/kalaignartv/smil:common.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/sirippoli_new_roku.jpg" group-title="Airtel",Sirippoli
-https://load.airtelxstream.in/sirippoli/smil:common.smil/chunklist_b896000_sleng.m3u8
+https://load.airtelxstream.in/sirippoli/smil:common.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/isaiaruvi_new_roku.jpg" group-title="Airtel",Isaiaruvi
-https://load.airtelxstream.in/isaiaruvi/smil:common.smil/chunklist_b896000_sleng.m3u8
+https://load.airtelxstream.in/isaiaruvi/smil:common.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/moon.png" group-title="Airtel",Moon TV
 https://streamitv.multitvsolution.in/idvo/moontv_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/ibc-1.png" group-title="Airtel",IBC Tamil
@@ -333,44 +333,6 @@ https://jiocdn.fun/jio/jiotv/xyztv.php?c=Jaya_Plus&e=.m3u8
 https://jiocdn.fun/jio/jiotv/xyztv.php?c=Win_TV&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/KBO.png" group-title="YuppTV Test",KBO HD
 https://mhdtvworld.live/7star/yupp.php?id=91393481&e=.m3u8
-#EXTINF:-1 tvg-id="" group-title="Sports",SPORTS 1 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6854
-#EXTINF:-1 tvg-id="" group-title="Sports",SPORTS 2 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6860
-#EXTINF:-1 tvg-id="" group-title="Sports",SPORTS 3 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6862
-#EXTINF:-1 tvg-id="" group-title="Sports",SPORTS 4 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6864
-#EXTINF:-1 tvg-id="" group-title="Sports",SPORTS 5 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6866
-#EXTINF:-1 tvg-id="" group-title="Sports",SPORTS 6 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6868
-#EXTINF:-1 tvg-id="" group-title="Sports",SPORTS 7 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6870
-#EXTINF:-1 tvg-id="" group-title="Sports",SPORTS 8 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6872
-#EXTINF:-1 tvg-id="" group-title="Sports",SPORTS 9 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6874
-#EXTINF:-1 tvg-id="" group-title="Sports",SPORTS 10 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6856
-#EXTINF:-1 tvg-id="" group-title="Sports",SPORTS 11 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6858
-#EXTINF:-1 tvg-id="" group-title="Sports",SPORTS 12 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6859
-#EXTINF:-1 tvg-id="" group-title="Sports",SPORTS 1 HD HEVC
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6855
-#EXTINF:-1 tvg-id="" group-title="Sports",SPORTS 2 HD HEVC
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6861
-#EXTINF:-1 tvg-id="" group-title="Sports",SPORT: Super sport 2
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/229
-#EXTINF:-1 tvg-id="" group-title="Sports",SPORT: Super sport 3
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/230
-#EXTINF:-1 tvg-id="" group-title="Sports",SPORT: Super sport 4
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/231
-#EXTINF:-1 tvg-id="" group-title="Sports",SPORT: Super sport 5
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/232
-#EXTINF:-1 tvg-id="" group-title="Sports",SPORT: Super sport 1
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/228
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzQiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzdGFtaWxoZF9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRnkzWm1wTkpYV3lKYWp4MjVETVBSWDdSTEp2dlExMzRlX3lhVmhTNTdEYkIyazdvaU1HNlpVa09lTDBKQ0VPQ0NHemRqZDNma2lrbnNVN1QzV1Zrdm5Qcm5RR1FxU2ozYjlYZV9ZblVDX0pYdXFBWmgxelp5aWdwek1wclFhS3BOYzhHeDJEZ3JkUGZaTVB2aHZ6eVl5MkRrU3ZTV3lqaXJHY2wzV2stVlJPQ29nREt4LXRYRFdXZGpjSEc2bVIyNmtfTFAyYjcxNDAybUhfTExfZWdwNkgxWnI5YVU3ZEVwZXkwY2tCOENURHhBLTZoUFZicnNhcElISTFvTkNkQk1ZX2gxU25UXzl0SklpdWVWNU05a1RLZ1ZOT2pMeDNYeVgyUHVHQ0t1Y2xkMTFsMUVqR012V0JEWGZpUnpCREtOZWt2dWlnY3B3ZVlneGpDTEJwblB4Q2l2OGVpaGpDTnJNWkNqc3Q0WDdfWHpkSTJZT24xeU1XTjRUekU1MmZmMFJrUF8zY3dWd0Y5YkdUQmZLZzhFdWNTYkRtaDZld0hUOFowQ1hhWW9GeFBQREc0Uk5WdFUyUGhKc2o0TF94bEdjeHdtMVhGUmlkREFUQlQyMC1PMHVnTDhYemtUcDRsNW05LW92VFB5bXIiLCJ1ZGlkIjoiMmEzYjBlNWNkMDM2NDdjY2E0YTI3Y2M2NzI1YzUyNjYiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=qNGb6wctTmMKCEvcAX%2b1EQf7Cak%3d&sessionId=eac059bb-7168-cf5e-62b4-e54f894e3b1c:d2eff781-ba4e-c8e0-a0c9-c05a7ec3b90e&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLXRhbWlsLWhkLzgwNTk4Ng==
