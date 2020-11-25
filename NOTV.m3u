@@ -63,6 +63,48 @@ http://livematrix.in:1935/live/mirrortv/playlist.m3u8
 http://singamcloud.in:8080/kalaicinema/kalaicinema/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Olithirai HD
 http://singamcloud.in:8080/olithiraihd/olithiraihd/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://watchlifetv.net/assets/images/cropped-lifevlogo-122x95.png"group-title="Tamil Cable TV",Life TV
+http://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://lh3.googleusercontent.com/fGSAblZ7yBPLxpfi3gsqCNkRGc2E5fKzKl6CzsC7o79AKuHXy9nevQ3H5jCH9ZkFWTdyN-x6KJ_kJt8=w960-h960-n-o-v1"group-title="Tamil Cable TV",Laxmi TV
+http://198.144.149.82:8080/NOTV/LAXMITV/index.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://content3.jdmagicbox.com/comp/dharapuram/g4/9999p4258.4258.181217024509.y1g4/catalogue/singam-tv-dharapuram-cable-tv-advertising-agencies-ks6vo5evog-250.jpg"group-title="Tamil Cable TV",Singam TV
+http://singamcloud.in:8080/singamtv/singamtv/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Jay TV
+http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Nine Star
+http://198.144.149.82:8080/NOTV/NINETV/index.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",MN Music
+rtmp://mntv.livebox.co.in:1935/music
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",KingTV
+https://account24.livebox.co.in/kinghls/king.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Tamilam TV
+http://media.7starcloud.com:1935/harimedia/live1/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Super TV
+rtmp://stream1.playbox.co.in:1935/Supertv
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",UTV Tamil
+http://198.144.149.82:8080/NOTV/UTVTAMIL/index.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Uzhavan TV
+rtmp://livematrix.in/uzhavantv
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Kalai Cinema
+http://singamcloud.in:8080/kalaicinema/kalaicinema/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",V Tamil TV
+http://softstreamtv.com:8080/NOTV/VTAMILTV/index.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Welcome TV
+rtmp://livematrix.in:1935/welcometv
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Japan Tamil TV
+http://198.144.149.82:8080/NOTV/japan/index.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",PHOENIX TV
+http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Jayam TV
+http://198.144.149.82:8080/NOTV/JAYAMTV/index.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",KVM TV
+http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/kvmtv-32d6e133e4ba-otua-stream/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Amma TV
+http://198.144.149.82:8080/NOTV/AMMATV/index.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Mtimes
+http://softstreamtv.com:8080/NOTV/MTIMES/index.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Mithra TV
+http://198.144.149.82:8080/NOTV/MITHRATV/index.m3u8?token=GTR
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://tvtolive.com/wp-content/uploads/1-Yes-TV-tvtolive.com_.jpg"group-title="Tamil News Channels",1yestv
 http://livematrix.in:1935/1yestv/1yestv/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/News18_tamilnadu_logo.png"group-title="Tamil News Channels",News18 TamilNadu
