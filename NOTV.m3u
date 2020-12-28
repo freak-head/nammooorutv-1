@@ -340,7 +340,7 @@ https://jiocdn.fun/jio/jiotv/xyztv.php?c=Jaya_Plus&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://secret-ocean-49799.herokuapp.com/http://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png" group-title="JIO TV",Win_TV
 https://jiocdn.fun/jio/jiotv/xyztv.php?c=Win_TV&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/KBO.png" group-title="YuppTV Test",Vijay TV
-https://mhdtvworld.live/7star/yuptvv.php?id=45234542879&e=.m3u8
+https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/sind@!sw/starvijay/chunks.m3u8?nimblesessionid=23631779&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAyMCA2OjE3OjQ4IFBNJmhhc2hfdmFsdWU9V1pnbCs0M01zSGhnek1KZTJiYmUvQT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/KBO.png" group-title="YuppTV Test",Sun TV
 https://mhdtvworld.live/delta/snxt/snXt.php?id=14020&e=.m3u8
 
