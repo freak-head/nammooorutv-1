@@ -50,6 +50,12 @@ http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
 http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/1018419269/ttv_logo_only_transparent_400x400.png"group-title="Tamil Cable TV",TTV
 http://singamcloud.in:1935/ttv/ttv/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://7star.tv/wp-content/uploads/2020/04/logo-small-web2.png"group-title="Tamil Cable TV",7 Star
+http://annaitv.livebox.co.in/sevenstarhls/live.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://c0.klipartz.com/pngpicture/915/163/gratis-png-logo-turkey-ntv-do%C4%9Fu%C5%9F-media-group-do%C4%9Fu%C5%9F-group-icono-de-television.png"group-title="Tamil Cable TV",N TV
+http://185.105.4.244:1935/live/ntv/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://images.squarespace-cdn.com/content/v1/58954dd9e3df28d583531b1e/1520398672613-TZDS59Z9HV7EWIUP1PU7/ke17ZwdGBToddI8pDm48kPX0NrMpfjK9xYPsxGYR_L0UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dtuz2miiW9Z19mX-Tcrw3y3OSfpFYfNKNBQBbOi_GV51CjLISwBs8eEdxAxTptZAUg/MNTV+logo.png"group-title="Tamil Cable TV",MN Music
+http://mntv.livebox.co.in/musichls/live.m3u8
 
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",ACN Music
