@@ -57,6 +57,14 @@ http://185.105.4.244:1935/live/ntv/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://images.squarespace-cdn.com/content/v1/58954dd9e3df28d583531b1e/1520398672613-TZDS59Z9HV7EWIUP1PU7/ke17ZwdGBToddI8pDm48kPX0NrMpfjK9xYPsxGYR_L0UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dtuz2miiW9Z19mX-Tcrw3y3OSfpFYfNKNBQBbOi_GV51CjLISwBs8eEdxAxTptZAUg/MNTV+logo.png"group-title="Tamil Cable TV",MN Music
 http://mntv.livebox.co.in/musichls/live.m3u8
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201208-WA0018.jpg"group-title="Tamil Cable TV",Jeyam TV
+http://198.144.149.82:8080/NOTV/JEYAMTVUPT/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201215-WA0026.jpg"group-title="Tamil Cable TV",MAX TV
+http://198.144.149.82:8080/NOTV/MAXTV/index.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201230-WA0343.jpg"group-title="Tamil Cable TV",MS Music
+http://198.144.149.82:8080/NOTV/MSMUSIC/index.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201211-WA0007.jpg"group-title="Tamil Cable TV",KCV
+http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",ACN Music
 http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
@@ -111,7 +119,7 @@ http://singamcloud.in:8080/singamtv/singamtv/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Jay TV
 http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Nine Star
-http://198.144.149.82:8080/NOTV/NINETV/index.m3u8?token=GTR
+http://198.144.149.82:8080/NOTV/NINETV/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",MN Music
 rtmp://mntv.livebox.co.in:1935/music
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",KingTV
