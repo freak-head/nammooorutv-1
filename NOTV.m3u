@@ -66,6 +66,10 @@ http://198.144.149.82:8080/NOTV/MSMUSIC/index.m3u8?token=GTR
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20201211-WA0007.jpg"group-title="Tamil Cable TV",KCV
 http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-UCcqHs41VXBuSyZ8SeI6Ubsm7xvUNaaTA&usqp=CAU"group-title="Tamil Cable TV", நிலா Nila Tv
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/nilatv321_low/index.m3u8
+
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",ACN Music
 http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/images%20-%202020-09-08T133529.542.jpeg"group-title="Tamil Cable TV",Three Tamil
