@@ -35,3 +35,25 @@ https://klprojects:kltorrent@td.klprojects.tech/0:/Extraction.2020.1080p.NF.WEB-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgurworld.com/images/2020/02/01/099bbcfdd0ec53667f634601b5131c71.jpg" group-title="Movie", Ford v Ferrari (2019) 4K 10bit
 https://klprojects:kltorrent@td.klprojects.tech/0:/Ford.v.Ferrari.2019.10bit.2160p.4K.BluRay.x265.AAC.7.1-%20EnCodX/Ford.v.Ferrari.2019.10bit.2160p.4K.BluRay.x265.AAC.7.1-%20EnCodX.mkv
+
+#EXTM3U
+#EXTINF:0,CH001
+http://192.168.0.105:8080/stream=1995.ts
+#EXTINF:0,CH002
+http://192.168.0.105:8080/stream=1996.ts
+#EXTINF:0,CH003
+http://192.168.0.105:8080/stream=1997.ts
+#EXTINF:0,CH004
+http://192.168.0.105:8080/stream=1998.ts
+#EXTINF:0,CH005
+http://192.168.0.105:8080/stream=2000.ts
+#EXTINF:0,CH006
+http://192.168.0.105:8080/stream=2001.ts
+#EXTINF:0,CH007
+http://192.168.0.105:8080/stream=2002.ts
+#EXTINF:0,CH008
+http://192.168.0.105:8080/stream=2003.ts
+#EXTINF:0,CH009
+http://192.168.0.105:8080/stream=2004.ts
+#EXTINF:0,CH010
+http://192.168.0.105:8080/stream=2005.ts
