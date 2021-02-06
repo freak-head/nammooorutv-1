@@ -327,8 +327,6 @@ https://player.yarlsriserver.com/tamilmtv/b9869bec82b6ab24d914fdba43450a1e.sdp/c
 http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/nanbantv/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Vasantv
 http://singamcloud.in:8080/vasantv/vasantv/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Ultramax
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Jeyam TV HD
 http://stream.blackmoon.in:8000/jeyamtvhd/JeyamTv/bms.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SathiyamFinallogo.png/220px-SathiyamFinallogo.png"group-title="Tamil News Channels",Sathiyamtv
@@ -347,13 +345,6 @@ http://198.144.149.82:8080/NOTV/SAITV/index.m3u8?token=GTR
 http://198.144.149.82:8080/NOTV/MAXTV/index.m3u8?token=GTR
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",UTV
 http://198.144.149.82:8080/NOTV/UTV/index.m3u8?token=GTR
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/KBO.png" group-title="YuppTV Test",Vijay TV
-https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/sind@!sw/starvijay/chunks.m3u8?nimblesessionid=23631779&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAyMCA2OjE3OjQ4IFBNJmhhc2hfdmFsdWU9V1pnbCs0M01zSGhnek1KZTJiYmUvQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1 tvg-id="" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/KBO.png" group-title="YuppTV Test",Sun TV
-https://mhdtvworld.live/delta/snxt/snXt.php?id=14020&e=.m3u8
 
 
 
