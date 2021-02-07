@@ -41,51 +41,51 @@ http://nextgeninfotech.ddns.net:8080/moon/moon.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/06/download.png"group-title="Tamil Cable TV",Asosa TV
 http://account15.livebox.co.in/asosatvhls/live.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.ultramaxnet.com/images/utv_720p_d2.png"group-title="Tamil Cable TV",UltraMax
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.ultramaxnet.com/images/ammatvvdr_logo.jpeg"group-title="Tamil Cable TV",Amma TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name="http://site1.ultramaxnet.com/client/ultramax/images/jeevantv.jpg"tvg-logo=""group-title="Tamil Cable TV",Jeevan TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.ultramaxnet.com/images/kavin_tv_logo.jpeg"group-title="Tamil Cable TV",Kavin TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/kvmtv.jpg"group-title="Tamil Cable TV",KVM TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/kvmtv321.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kvmtv321_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.ultramaxnet.com/images/sigaram_tv_logo.png?v=1"group-title="Tamil Cable TV",Sigaram TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.ultramaxnet.com/images/thiru_tv_logo.jpeg"group-title="Tamil Cable TV",Thiru TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/thirutv.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/thirutv_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/KPR.jpg"group-title="Tamil Cable TV",KPR TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/kprtv321.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kprtv321_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.ultramaxnet.com/images/nanban_tv_logo.png"group-title="Tamil Cable TV",Nanban TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/nanbantv.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/nanbantv_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.ultramaxnet.com/images/vedha_tv_logo.jpeg"group-title="Tamil Cable TV",Vedha TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/vedhatv.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/vedhatv_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.ultramaxnet.com/images/kathir_tv_logo.png"group-title="Tamil Cable TV",Kathir
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/kathirtv123.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kathirtv123_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/royaltv.jpg"group-title="Tamil Cable TV",Royal TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/royaltvvellore.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/royaltvvellore_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/muthamizhtv.jpg"group-title="Tamil Cable TV",Muthamizh TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/muthamizhtv123.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/muthamizhtv123_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/friendstv.jpg"group-title="Tamil Cable TV",Friends TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/friendstv321.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/friendstv321_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/veltv.jpg"group-title="Tamil Cable TV",Vel TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/veltv123.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/veltv123_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://via.placeholder.com/640x360.png?text=ATN+TV"group-title="Tamil Cable TV",ATN TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/atntv321.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/atntv321_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/jayamtv.jpg"group-title="Tamil Cable TV",Jayam TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/jayamtvtvm.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jayamtvtvm_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/kannimartv.jpg"group-title="Tamil Cable TV",Sri Kannimar TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/srikannimartv.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/srikannimartv_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.ultramaxnet.com/images/mk_tv_logo.jpeg"group-title="Tamil Cable TV",MK TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/mktv.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mktv_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/smiletv.jpg"group-title="Tamil Cable TV",Smile TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/smiletv123.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/smiletv123_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/nilaatv.png"group-title="Tamil Cable TV",Nilaa TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/nilatv321.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/nilatv321_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.ultramaxnet.com/images/isai_tv_logo.png"group-title="Tamil Cable TV",Isai TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/isaitv.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/isaitv_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.ultramaxnet.com/images/maya_tv_logo.png"group-title="Tamil Cable TV",Maya TV
-http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv.m3u8
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/06/Jay.jpg"group-title="Tamil Cable TV",Jay TV
 http://livematrix.in:1935/live/jaytv/playlist.m3u8
 
