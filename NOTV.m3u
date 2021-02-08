@@ -118,6 +118,18 @@ http://account24.livebox.co.in/kinghls/king.m3u8
 http://103.98.62.134:8080/hls/selfie.m3u8
 
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://1.bp.blogspot.com/-v3CfFqLCOvc/YBzU4-oEpJI/AAAAAAAAKS8/ix4ffUpDzEI-AQlqv4NhClez-Fbc_aARgCLcBGAsYHQ/s0/apple-digital-Music.png"group-title="Tamil Cable TV",Apple Digital Music
+http://live.singamcloud.in:1935/applemusic/applemusic/chunklist_w1765218898.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://1.bp.blogspot.com/-0ude6GBJAKc/YCEEY2qCQ-I/AAAAAAAAKTo/H51uzSujtu892dH7VI8VOcQ9zCGRlNVegCLcBGAsYHQ/s0/iniyan-tv.png"group-title="Tamil Cable TV",Iniyan TV
+https://5d00db0e0fcd5.streamlock.net/7206/7206/chunklist_w71760700.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://1.bp.blogspot.com/-XGJhj8nq3uI/YBzU5Kv1RRI/AAAAAAAAKTA/boRhskd76hY9WmNiCFyzgRr17HT2lGfSQCLcBGAsYHQ/s0/apple-digital.png"group-title="Tamil Cable TV",Apple Digital
+http://live.singamcloud.in:1935/appledigitel/appledigitel/chunklist_w435643391.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://1.bp.blogspot.com/-u4uJwQRqx90/YBzTq_p5FhI/AAAAAAAAKSo/R_LGMqAPHHMyvSDb85rw_c92xlNymnrywCLcBGAsYHQ/s0/Rasi-Lifestyle.png"group-title="Tamil Cable TV",Rasi Lifestyle
+http://singamcloud.in:1935/rasinetwork/cookings/chunklist_w583037050.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://1.bp.blogspot.com/-oEHD5NpTQ4A/YBzF8SqJE_I/AAAAAAAAKR8/i3MjFaUe1h8as5W1BhQbRWsTqDN4JiH3QCLcBGAsYHQ/s0/rasi-music.png"group-title="Tamil Cable TV",Rasi Music HD
+http://singamcloud.in:1935/rasinetwork/rasimusic/chunklist_w1462850369.m3u8
+
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed%20(8).png"group-title="Tamil Cable TV",Aus Tamil TV
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://theboss.in/wp-content/uploads/2016/06/logo-1.png"group-title="Tamil Cable TV",Boss TV
@@ -137,19 +149,19 @@ http://account13.livebox.co.in/palartvhls/live.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://masspro.ca/wp-content/uploads/2018/06/masstv-300x150.png"group-title="Tamil Cable TV",Mass TV Canada
 https://tv2.massstream.net/Masstv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="Tamil Cable TV",Rasi Tamil
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://1.bp.blogspot.com/-tuyR_kt06Qc/YBzF8nDbK0I/AAAAAAAAKSA/ro7tDUAOKrkKJp_-qZGrufldXtZSa3XKACLcBGAsYHQ/s0/rasi-tamil.png"group-title="Tamil Cable TV",Rasi Tamil
 http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="Tamil Cable TV",Rasi Network
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://1.bp.blogspot.com/-vpKG7SFYH3o/YBzF8zBVllI/AAAAAAAAKSE/k5C2QH9VCLQZ95rq_71OJ-a6jnO7TXkXgCLcBGAsYHQ/s0/rasi-tv.png"group-title="Tamil Cable TV",Rasi Network
 http://singamcloud.in:8080/rasinetwork/rasitv/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Rasi Movies
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://1.bp.blogspot.com/-11TSAcAvF1Y/YBzF7ptPNcI/AAAAAAAAKRo/hkrkAIgCe9YJV0aSuawQCDmlVDodlDqngCLcBGAsYHQ/s0/Rasi-Movies.png"group-title="Tamil Cable TV",Rasi Movies
 http://singamcloud.in:8080/rasinetwork/rasimovies/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Rasi Classic
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://1.bp.blogspot.com/-m9a3E90HcFE/YBzF7z0pHQI/AAAAAAAAKRw/Td2w6nzoEnshDTWd2Dmq7i03mE9tpZkqACLcBGAsYHQ/s0/rasi-classic.png"group-title="Tamil Cable TV",Rasi Classic
 http://singamcloud.in:8080/rasinetwork/rasiclassic/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="Tamil Cable TV",Rasi TV Malayalam
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://1.bp.blogspot.com/-SHkd0_syzUE/YBzTqrhsMuI/AAAAAAAAKSk/U2TaqhZNe_wS3QusaunuvKwSZM9Gi-G6ACLcBGAsYHQ/s0/Rasi-Malayalam.png"group-title="Tamil Cable TV",Rasi TV Malayalam
 http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="Tamil Cable TV",Rasi Hindi
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://1.bp.blogspot.com/-Gxy6uj6BEe8/YBzF8DqhFlI/AAAAAAAAKR4/VMDBpS5fApglZUj3qeoGN-Punijkwj3GACLcBGAsYHQ/s0/rasi-hindi.png"group-title="Tamil Cable TV",Rasi Hindi
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="Tamil Cable TV",Rasi Hollywood
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://1.bp.blogspot.com/-uWttjPNg5pw/YBzF8DWXAKI/AAAAAAAAKR0/UtO7PO1IJqYAElEoJstXBU-sJVv0E6FvACLcBGAsYHQ/s0/rasi-hollywood.png"group-title="Tamil Cable TV",Rasi Hollywood
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Rasi Telugu
 http://singamcloud.in:8080/rasinetwork/rasicomedy/playlist.m3u8
