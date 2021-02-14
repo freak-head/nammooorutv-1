@@ -129,6 +129,29 @@ http://singamcloud.in:1935/rasinetwork/cookings/chunklist_w583037050.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://1.bp.blogspot.com/-oEHD5NpTQ4A/YBzF8SqJE_I/AAAAAAAAKR8/i3MjFaUe1h8as5W1BhQbRWsTqDN4JiH3QCLcBGAsYHQ/s0/rasi-music.png"group-title="Tamil Cable TV",Rasi Music HD
 http://singamcloud.in:1935/rasinetwork/rasimusic/chunklist_w1462850369.m3u8
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/Annai-Media.jpg"group-title="Tamil Cable TV",Annai Media
+http://annaitv.livebox.co.in/annailivehls/live.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/Amma-TV.jpg"group-title="Tamil Cable TV",Amma TV
+http://annaitv.livebox.co.in/ammatvhls/live.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/jjtv.jpg"group-title="Tamil Cable TV",JJ TV
+http://jaaltv.livebox.co.in/jjtvhls/live.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/Ever-Green-Tv.jpg"group-title="Tamil Cable TV",Ever Green Tv
+http://shinestream.in:1935/evergreen/evergreen/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/Vannam.jpg"group-title="Tamil Cable TV",Vannam TV
+http://shinestream.in:1935/vannamtv/vannamtv/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/HCN-HNPUR.jpg"group-title="Tamil Cable TV",HCN HNPUR
+http://shinestream.in:1935/hcn/hcn/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/Mcv-Tv.jpg"group-title="Tamil Cable TV",Mcv Tv
+http://shinestream.in:1935/mcvtv/mcvtv/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/SK-TV.jpg"group-title="Tamil Cable TV",SK TV
+http://shinestream.in:1935/sktv/sktv/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://www.dantv.tv/images/dan-001.jpg"group-title="Tamil Cable TV",DAN TV
+https://live-ak.vimeocdn.com/exp=1613314568~acl=%2F185467b3-f38f-4772-8895-b0713fb8af4b%2F%2A~hmac=9ab3330c61a8aaca1b6746627635234454d74dfe5fb1323fe0dae5ef3764d170/185467b3-f38f-4772-8895-b0713fb8af4b/chunklist_b3256000.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Cable TV",Dan Musichttp://www.dantv.tv/images/dan-010.jpg
+https://askmedia.livebox.co.in/DanMusichls/2.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://www.dantv.tv/images/dan-comedy-logo-01.jpg"group-title="Tamil Cable TV",Dan Comedy
+https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
+
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed%20(8).png"group-title="Tamil Cable TV",Aus Tamil TV
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
