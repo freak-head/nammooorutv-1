@@ -26,6 +26,8 @@ http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
 http://nextgeninfotech.ddns.net:8080/srv/srv.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/06/icon2.png"group-title="Tamil Cable TV", Udhayam Network Ulundurpet
 http://nextgeninfotech.ddns.net:8080/udhayam/udhayam.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/512.png"group-title="Tamil Cable TV", SkyGain TV
+https://stream.skygaintv.com/LiveApp/streams/841444019223041560075808.m3u8?token=null
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/06/icon2.png"group-title="Tamil Cable TV", Suriya TV Ulundurpet
 http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/06/Rishi.jpg"group-title="Tamil Cable TV",Rishi TV Thiruvannamalai
