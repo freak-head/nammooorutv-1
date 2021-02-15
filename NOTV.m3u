@@ -149,7 +149,7 @@ http://shinestream.in:1935/mcvtv/mcvtv/playlist.m3u8
 http://shinestream.in:1935/sktv/sktv/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://www.dantv.tv/images/dan-001.jpg"group-title="Tamil Cable TV",DAN TV
 https://live-ak.vimeocdn.com/exp=1613314568~acl=%2F185467b3-f38f-4772-8895-b0713fb8af4b%2F%2A~hmac=9ab3330c61a8aaca1b6746627635234454d74dfe5fb1323fe0dae5ef3764d170/185467b3-f38f-4772-8895-b0713fb8af4b/chunklist_b3256000.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Cable TV",Dan Musichttp://www.dantv.tv/images/dan-010.jpg
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Cable TV",Dan Music
 https://askmedia.livebox.co.in/DanMusichls/2.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://www.dantv.tv/images/dan-comedy-logo-01.jpg"group-title="Tamil Cable TV",Dan Comedy
 https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
