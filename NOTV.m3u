@@ -131,6 +131,54 @@ http://singamcloud.in:1935/rasinetwork/cookings/chunklist_w583037050.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://1.bp.blogspot.com/-oEHD5NpTQ4A/YBzF8SqJE_I/AAAAAAAAKR8/i3MjFaUe1h8as5W1BhQbRWsTqDN4JiH3QCLcBGAsYHQ/s0/rasi-music.png"group-title="Tamil Cable TV",Rasi Music HD
 http://singamcloud.in:1935/rasinetwork/rasimusic/chunklist_w1462850369.m3u8
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/svtv.png"group-title="Tamil Cable TV",SV TV
+http://arunaiadd.livebox.co.in/Svetvhls/live.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/Vaigaitv.jpg"group-title="Tamil Cable TV",Vaigai TV
+https://live-ak.vimeocdn.com/exp=1613929097~acl=%2Fb8a1fed7-54e3-4d58-bcce-8143dce786ff%2F%2A~hmac=9fa9d0a0af0cc256b17ca31539b596a8decdec5a61744eeaa563a25890e10377/b8a1fed7-54e3-4d58-bcce-8143dce786ff/chunklist_b6256000.m3u8?max_segments=10
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/Vaniplus.png"group-title="Tamil Cable TV",Vani Plus Tirunelveli
+http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/Idhayamtv.jpg"group-title="Tamil Cable TV",Idhayam TV Tenkasi
+http://stream.singamcloud.in:1935/idhayamtv/idhayamtv/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/1611660392_kalaiisai.png"group-title="Tamil Cable TV",Kalai Isai
+http://singamcloud.in:1935/kalaiisai/kalaiisai/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/mptv.jpg"group-title="Tamil Cable TV",MP TV
+http://nextgeninfotech.ddns.net:8080/mptv/mptv.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/Kanishgatv.jpg"group-title="Tamil Cable TV",Kanishga TV Kanchipuram
+rtmp://nextgeninfotech.ddns.net:9090/kanishga
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/gdtv.jpg"group-title="Tamil Cable TV",GD TV
+http://nextgeninfotech.ddns.net:8080/gd/gd.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/MSNTV.jpg"group-title="Tamil Cable TV",MSN TV Cuddalore
+http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/Ramtv.jpg"group-title="Tamil Cable TV",Ram TV
+http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://7starcloud.in/jnjnn-removebg-preview.png"group-title="Tamil Cable TV",BlueMoon TV
+http://bmlive.net:8000/bms/bmtv/bms.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/skytv.jpg"group-title="Tamil Cable TV",Sky TV
+http://hdserver.7starcloud.com:1935/skytv/skytvkgm/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/VelanTV.jpg"group-title="Tamil Cable TV",Velan TV
+http://hdserver.7starcloud.com:1935/velantv/livetv/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/basstv.png"group-title="Tamil Cable TV",Bass Tv
+http://hdserver.7starcloud.com:1935/basstv/live/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/ArasuTV.jpg"group-title="Tamil Cable TV",Arasu TV
+rtmp://bmlive.net:1935/arasutv/arasutv
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/KumariTV.jpg"group-title="Tamil Cable TV",Kumari TV
+rtmp://bmlive.net:1935/kumaritv/kumaritv
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/KKTDCTV.jpg"group-title="Tamil Cable TV",KKTDC TV
+rtmp://bmlive.net:1935/kktdctv/kktdctv
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/CTN.jpg"group-title="Tamil Cable TV",CTN
+rtmp://bmlive.net:1935/ctnchannel/ctnchannel
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/DigitalTV.jpg"group-title="Tamil Cable TV",Digital TV
+rtmp://bmlive.net:1935/digitaltv/digitaltv
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/AppleMedia.jpg"group-title="Tamil Cable TV",Apple TV
+rtmp://bmlive.net:1935/appletv/appletv
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/Ammatv.jpg"group-title="Tamil Cable TV",Amma Channel
+rtmp://bmlive.net:1935/ammachannel/ammachannel
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/SUBINTV.png"group-title="Tamil Cable TV",Subin TV
+http://stream.singamcloud.in:1935/subintv/subintv/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/Baranimedia.jpg"group-title="Tamil Cable TV",Barani Media
+http://live.singamcloud.in:1935/bharanitv/bharanitv/playlist.m3u8
+
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/Annai-Media.jpg"group-title="Tamil Cable TV",Annai Media
 http://annaitv.livebox.co.in/annailivehls/live.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/Amma-TV.jpg"group-title="Tamil Cable TV",Amma TV
