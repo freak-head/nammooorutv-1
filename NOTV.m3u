@@ -134,7 +134,7 @@ http://singamcloud.in:1935/rasinetwork/rasimusic/chunklist_w1462850369.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/svtv.png"group-title="Tamil Cable TV",SV TV
 http://arunaiadd.livebox.co.in/Svetvhls/live.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/Vaigaitv.jpg"group-title="Tamil Cable TV",Vaigai TV
-https://live-ak.vimeocdn.com/exp=1613929097~acl=%2Fb8a1fed7-54e3-4d58-bcce-8143dce786ff%2F%2A~hmac=9fa9d0a0af0cc256b17ca31539b596a8decdec5a61744eeaa563a25890e10377/b8a1fed7-54e3-4d58-bcce-8143dce786ff/chunklist_b6256000.m3u8?max_segments=10
+http://account9.livebox.co.in/vaigaitvhls/live.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/Vaniplus.png"group-title="Tamil Cable TV",Vani Plus Tirunelveli
 http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/Idhayamtv.jpg"group-title="Tamil Cable TV",Idhayam TV Tenkasi
