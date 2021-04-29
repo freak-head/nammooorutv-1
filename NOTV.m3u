@@ -1870,11 +1870,3 @@ https://askmedia.livebox.co.in/DanMusichls/2.m3u8
 https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
 
 
-#EXTINF:-1 group-title="Malaysian Variety" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd
