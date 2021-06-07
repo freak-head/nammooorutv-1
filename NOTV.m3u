@@ -273,6 +273,63 @@ https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3
 http://livematrix.in:1935/live/jaytv/playlist.m3u8
 
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/06/07/crstv.jpg"group-title="Tamil Cable TV",CRS TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://live.singamcloud.in:1935/crstv/crstv/playlist.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1622188802_rainbow%20hd.png"group-title="Tamil Cable TV",Rainbow 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://live.singamcloud.in:1935/rainbowtv/rainbowtv/playlist.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1618312581_ss%20varma%20tv.png"group-title="Tamil Cable TV",SS Varma TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://stream.singamcloud.in:1935/ssvarmatv/ssvarmatv/playlist.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1616483195_thala.png"group-title="Tamil Cable TV",Thalapathy TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://live.singamcloud.in:1935/thalapathytv/thalapathytv/playlist.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1616430395_hai%20tv.png"group-title="Tamil Cable TV",Hai TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://stream.singamcloud.in:1935/haitv/haitv/playlist.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1616333880_tamil%20star.png"group-title="Tamil Cable TV",Tamil Star TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://stream.singamcloud.in:1935/tamilstartv/tamilstartv/playlist.m3u8
+
+
+
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/07/krishna.jpg"group-title="Tamil Cable TV",Krishna Media
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
