@@ -2070,3 +2070,11 @@ https://askmedia.livebox.co.in/DanMusichls/2.m3u8
 https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
 
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2020/01/starvijay-1.jpg"group-title="Test",Vijay TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://mhdtvstreams.in.net/redbox/rbxtvx.php?id=2881&e=.m3u8
