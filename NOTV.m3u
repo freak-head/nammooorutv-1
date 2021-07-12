@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/06/18814986_832288383606785_2861508555709677308_o.jpg_nc_cat110ccb2_nc_sid85a577_nc_ohcDh4BSWwbdqEAX9lGGfV_nc_htscontent-maa2-1.xxtp6oh05fa03e1ae3df1c2bd9aaa6f5686d76boe60461FB6.jpg"group-title="Tamil Cable TV",Sky Sat PDY
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/06/18814986_832288383606785_2861508555709677308_o.jpg_nc_cat110ccb2_nc_sid85a577_nc_ohcDh4BSWwbdqEAX9lGGfV_nc_htscon
+t-maa2-1.xxtp6oh05fa03e1ae3df1c2bd9aaa6f5686d76boe60461FB6.jpg"group-title="Tamil Cable TV",Sky Sat PDY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1950,6 +1951,15 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 
+#EXTINF:-1tvg-id=""tvg-name=""http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png"group-title="Sports",SONY Ten 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622639372_sonysix.png"group-title="Sports",SONY SIX HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -2335,4 +2345,4 @@ https://tvstream.space/jtv/jootvvz.php?c=Kalaignar_TV&q=1200&e=.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://tvstream.space/jtv/jootvvz.php?c=Raj_TV&q=1200&e=.m3u8
 
-https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+
