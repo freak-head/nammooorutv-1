@@ -1931,7 +1931,7 @@ https://jio.instream.ml/jio.php?c=Colors_Tamil_HD&q=800&e=.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=rk
+http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=RED
 
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622898474_IMG_20210605_183550.jpg"group-title="Tamil Free TV",KBO US
 #KODIPROP:inputstreamaddon=inputstream.adaptive
