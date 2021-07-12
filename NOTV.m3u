@@ -1962,6 +1962,15 @@ https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 
+#EXTINF:-1tvg-id=""tvg-name=""https://e3.365dm.com/tvlogos/channels/1302-Logo.png"group-title="Sports",SKY SPORTS Cricket
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=rk
+
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622639372_sonysix.png"group-title="Sports",SONY SIX HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
