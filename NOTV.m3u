@@ -1865,6 +1865,15 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/CNN-News18.png"group-title="News Channels",CNN News18 (YT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCef1-8eOpJgud7szVPlZQAQ
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/Indiatoday.jpg"group-title="News Channels",India Today
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1873,6 +1882,25 @@ https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/Indiatoday.jpg"group-title="News Channels",India Today (YT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCYPvAwZP8pZhSMW8qs7cVCw
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/DD_News.png"group-title="News Channels",DD NEWS 24X7 (YT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCKwucPzHZ7zCUIf7If-Wo1g
+
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/1280px-NDTV_247.svg.png"group-title="News Channels",NDTV 24*7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1881,6 +1909,16 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/1280px-NDTV_247.svg.png"group-title="News Channels",NDTV 24*7 (YT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCZFMm1mMw0F81Z37aaEzTUA
+
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Times_Now_HD.jpg"group-title="News Channels",Times Now HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1890,6 +1928,32 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/OGLO4yv.png"group-title="News Channels",AajTak (YT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCt4t-jeY85JegMlZ-E5UWtA
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/7ZNz5JJ.jpg"group-title="News Channels",India Today (YT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCYPvAwZP8pZhSMW8qs7cVCw
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/6PAVkjX.png"group-title="News Channels",Republic World (YT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCwqusr8YDwM-3mEYTDeJHzw
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/72/MKTV.png"group-title="Tamil Free TV",MK TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2444,7 +2508,7 @@ https://tvstream.space/jtv/jootvvz.php?c=Kalaignar_TV&q=1200&e=.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://tvstream.space/jtv/jootvvz.php?c=Raj_TV&q=1200&e=.m3u8
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/icOXdMz.jpeg"group-title="Live YT Channels",Super South Movies
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/icOXdMz.jpeg"group-title="Live YT Channels",Super South Movies (YT)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2452,3 +2516,39 @@ https://tvstream.space/jtv/jootvvz.php?c=Raj_TV&q=1200&e=.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCgKji3hDR4pgcVE_XAMYSew
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/icOXdMz.jpeg"group-title="Live YT Channels",Super South Tamil (YT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCH9Rn-l3gBV8OVPNUTbfXRA
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/MDrXoHN.jpg"group-title="Live YT Channels",Super Cinema Malayalam (YT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC6GhSY3JnCEU6Gi6WKLV4kg
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/MDrXoHN.jpg"group-title="Live YT Channels",24x7 Live Tamil Songs (5 Star) - YT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCd460WUL4835Jd7OCEKfUcA
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png"group-title="Live YT Channels",Live 4K Natural - YT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCyupwg56cb-DKlz8fg09Vbw
