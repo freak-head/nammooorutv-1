@@ -1982,7 +1982,14 @@ http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCwqusr8YDwM-3mEYTDeJHzw
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCoMdktPbSTixAyNGwb-UYkQ
 
-
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://media.info/i/lf/300/1504210656/6883.png"group-title="News Channels",Franceinfo (YT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCO6K_kkdP-lnSCiO3tPx7WA
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/72/MKTV.png"group-title="Tamil Free TV",MK TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2025,6 +2032,24 @@ http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/Stream(01)/ind
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/SIZvEYL.png"group-title="Tamil Free TV",HiruTV - Sri Lanka (YT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCcspHoBTj_aLhnJLwkMpWHQ
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/1taNs6L.jpg"group-title="Tamil Free TV",TV Derana - Sri Lanka (YT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCbkMFGQ_RWIf0OiYeOpf6Ng
 
 #EXTINF:-1tvg-id=""tvg-name=""https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/ktv-HD-white.png"group-title="Tamil Free TV",K TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
