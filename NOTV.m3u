@@ -1954,6 +1954,17 @@ http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCYPvAwZP8pZhSMW8qs7cVCw
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCwqusr8YDwM-3mEYTDeJHzw
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/bS7Dm0F.png"group-title="News Channels",Sky News (YT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCoMdktPbSTixAyNGwb-UYkQ
+
+
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/72/MKTV.png"group-title="Tamil Free TV",MK TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
