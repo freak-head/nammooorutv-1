@@ -1980,7 +1980,7 @@ http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCwqusr8YDwM-3mEYTDeJHzw
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/watch?v=9Auq9mYxFEE
+https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/watch?v=9Auq9mYxFEE/live
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://media.info/i/lf/300/1504210656/6883.png"group-title="News Channels",Franceinfo (YT)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
