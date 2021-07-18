@@ -2606,3 +2606,6 @@ http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCd460WUL4835Jd7OCEKfUcA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCyupwg56cb-DKlz8fg09Vbw
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Sri_Lanka_Cricket_logo.svg/1280px-Sri_Lanka_Cricket_logo.svg.png"group-title="Live YT Channels", Sri Lanka Cricket
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCJA-NQ4MtcRIog66wziD8fA
