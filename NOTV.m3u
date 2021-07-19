@@ -616,6 +616,9 @@ http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=RED
 #EXTINF:-1tvg-id=""tvg-name=""https://i.imgur.com/aGqPrIy.png"group-title="Sports",WATAN 2
 http://185.180.15.17:2200/TR/watan2-afg/tracks-v1a1/mono.m3u8?token=RK
 
+#EXTINF:-1tvg-id=""tvg-name=""https://i.imgur.com/PpjqWUb.png"group-title="Sports",Sky Sports Premiere League
+http://212.224.98.210:2200/EX/Sky_Sports_Premier_League_SD-uk/tracks-v1a1/mono.m3u8?token=Rk
+
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622192935_willow.png"group-title="Sports",Willow Cricket
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
 
