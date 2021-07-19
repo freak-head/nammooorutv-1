@@ -527,14 +527,26 @@ http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCt4t-jeY85JegMlZ-E5UWtA
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/7ZNz5JJ.jpg"group-title="News Channels",India Today (YT)
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCYPvAwZP8pZhSMW8qs7cVCw
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/QZaHAjc.jpg"group-title="News Channels", CNN-News18
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCef1-8eOpJgud7szVPlZQAQ
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/6PAVkjX.png"group-title="News Channels",Republic World (YT)
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCwqusr8YDwM-3mEYTDeJHzw
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/bS7Dm0F.png"group-title="News Channels",Sky News (YT)
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCoMdktPbSTixAyNGwb-UYkQ
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/mO7gA6S.png"group-title="News Channels", DW News (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCknLrEdhRCp1aegoMqRaCZg
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/3PH7frA.jpg"group-title="News Channels", WION (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC_gUM8rL-Lrg6O3adPW9K1g
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://media.info/i/lf/300/1504210656/6883.png"group-title="News Channels",Franceinfo (YT)
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCO6K_kkdP-lnSCiO3tPx7WA
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/3PH7frA.jpg"group-title="News Channels", ABC News (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCBi2mrWuNuyYy4gbM6fU18Q
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/72/MKTV.png"group-title="Tamil Free TV",MK TV
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
