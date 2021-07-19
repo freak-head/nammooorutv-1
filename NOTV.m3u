@@ -619,16 +619,13 @@ http://185.180.15.17:2200/TR/watan2-afg/tracks-v1a1/mono.m3u8?token=RK
 #EXTINF:-1tvg-id=""tvg-name=""https://i.imgur.com/PpjqWUb.png"group-title="Sports",Sky Sports Premiere League
 http://212.224.98.210:2200/EX/Sky_Sports_Premier_League_SD-uk/tracks-v1a1/mono.m3u8?token=Rk
 
-#EXTINF:-1tvg-id=""tvg-name=""group-title="Sports",BT SPORTS 1
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""group-title="Sports",BT SPORTS 1
+#EXTINF:-1tvg-id=""tvg-name="https://i.imgur.com/K3AtFDD.png"group-title="Sports",BT SPORTS 1
 http://185.180.15.13:2200/EX/UK_BT_SPORTS_1_FHD-uk/index.m3u8?token=RK
 
-#EXTINF:-1tvg-id=""tvg-name=""group-title="Sports",BT SPORTS 1
+#EXTINF:-1tvg-id=""tvg-name="https://i.imgur.com/K3AtFDD.png"group-title="Sports",BT SPORTS 1
 http://212.224.98.204:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=Rk
 
-#EXTINF:-1tvg-id=""tvg-name=""group-title="Sports",SUPER SPORTS CRICKET
+#EXTINF:-1tvg-id=""tvg-name="https://i.imgur.com/PsRALcK.png"group-title="Sports",SUPER SPORTS CRICKET
 http://185.180.15.15:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/tracks-v1a1/mono.m3u8?token=RK
 
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622192935_willow.png"group-title="Sports",Willow Cricket
