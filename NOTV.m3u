@@ -521,11 +521,8 @@ http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCZFMm1mMw0F81Z37aaEzTUA
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Times_Now_HD.jpg"group-title="News Channels",Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/OGLO4yv.png"group-title="News Channels",AajTak (YT)
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/OGLO4yv.png"group-title="News Channels",Aaj Tak (YT)
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCt4t-jeY85JegMlZ-E5UWtA
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/7ZNz5JJ.jpg"group-title="News Channels",India Today (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCYPvAwZP8pZhSMW8qs7cVCw
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/bS7Dm0F.png"group-title="News Channels",Sky News (YT)
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCoMdktPbSTixAyNGwb-UYkQ
@@ -538,6 +535,9 @@ http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC_gUM8rL-Lrg6O3adPW9K1g
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://media.info/i/lf/300/1504210656/6883.png"group-title="News Channels",Franceinfo (YT)
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCO6K_kkdP-lnSCiO3tPx7WA
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/1NHCrPM.png"group-title="News Channels", FRANCE 24 English (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCQfwfsi5VrQ8yKZ-UWmAEFg
 
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/72/MKTV.png"group-title="Tamil Free TV",MK TV
@@ -750,4 +750,7 @@ http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCd460WUL4835Jd7OCEKfUcA
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png"group-title="Live YT Channels",Live 4K Natural - YT
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCyupwg56cb-DKlz8fg09Vbw
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Live YT Channels", RailCowGirl - YT
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCj-Xm8j6WBgKY8OG7s9r2vQ
 
