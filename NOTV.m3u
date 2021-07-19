@@ -8,6 +8,8 @@ http://cdn.yoctoentertainment.com:8081/mercury/mercury.m3u8
 http://cdn.yoctoentertainment.com:8081/oscar/oscar.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/06/Metro-TV.jpg"group-title="Tamil Cable TV",Metro TV PDY
 http://cdn.yoctoentertainment.com:8081/metro/metro.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/5iAQVkv.png"group-title="Tamil Cable TV",Silversat TV PDY
+http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/ZD8J4R2.jpg"group-title="Tamil Cable TV",Heart Media PDY
 http://singamcloud.in:1935/heartmedia/heartmedia/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/kktveY1.png"group-title="Tamil Cable TV",Udhayam
