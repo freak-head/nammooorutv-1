@@ -521,9 +521,6 @@ http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCZFMm1mMw0F81Z37aaEzTUA
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Times_Now_HD.jpg"group-title="News Channels",Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/OGLO4yv.png"group-title="News Channels",Aaj Tak (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCt4t-jeY85JegMlZ-E5UWtA
-
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/bS7Dm0F.png"group-title="News Channels",Sky News (YT)
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCoMdktPbSTixAyNGwb-UYkQ
 
