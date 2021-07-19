@@ -530,7 +530,7 @@ http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCYPvAwZP8pZhSMW8qs7cVCw
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/QZaHAjc.jpg"group-title="News Channels", CNN-News18
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCef1-8eOpJgud7szVPlZQAQ
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/6PAVkjX.png"group-title="News Channels",Republic World (YT)
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/6PAVkjX.png"group-title="News Channels", Republic World (YT)
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCwqusr8YDwM-3mEYTDeJHzw
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/bS7Dm0F.png"group-title="News Channels",Sky News (YT)
@@ -545,8 +545,6 @@ http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC_gUM8rL-Lrg6O3adPW9K1g
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://media.info/i/lf/300/1504210656/6883.png"group-title="News Channels",Franceinfo (YT)
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCO6K_kkdP-lnSCiO3tPx7WA
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/3PH7frA.jpg"group-title="News Channels", ABC News (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCBi2mrWuNuyYy4gbM6fU18Q
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/72/MKTV.png"group-title="Tamil Free TV",MK TV
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
@@ -759,5 +757,3 @@ http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCd460WUL4835Jd7OCEKfUcA
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png"group-title="Live YT Channels",Live 4K Natural - YT
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCyupwg56cb-DKlz8fg09Vbw
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Sri_Lanka_Cricket_logo.svg/1280px-Sri_Lanka_Cricket_logo.svg.png"group-title="Live YT Channels", Sri Lanka Cricket
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCJA-NQ4MtcRIog66wziD8fA
