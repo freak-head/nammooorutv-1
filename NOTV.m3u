@@ -777,13 +777,13 @@ http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCj-Xm8j6WBgKY8OG7s9r2vQ
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC6qrG3W8SMK0jior2olka3g
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Amazon prime
-https://jokertvlive.buzz/01jokertv/avatar/hbo.m3u8?id=281
+https://cdn.livepeer.com/hls/d33bfh11y6usto27/index.m3u8
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", PRIME VIDEO 1
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", Star Plus HD (TS)
 https://jokertvlive.buzz/01jokertv/avatar/hbo.m3u8?id=277
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", PRIME VIDEO 2
-https://jokertvlive.buzz/01jokertv/avatar/hbo.m3u8?id=278
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", Star Gold HD (TS)
+https://stream.mylive.in.th/live/rftv/rftv.m3u8
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", PRIME VIDEO 3
 https://jokertvlive.buzz/01jokertv/avatar/hbo.m3u8?id=279
