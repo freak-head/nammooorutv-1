@@ -24,7 +24,8 @@ http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
 http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/STV.png"group-title="Tamil Cable TV",STV Madurai
 http://nextgeninfotech.ddns.net:8080/stvchannel/stvchannel.m3u8
-
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Cable TV",Garuda Movies
+https://garuda-cdnserver1.tk/GarudaMovies/index.m3u8
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/06/SRV.jpg"group-title="Tamil Cable TV",SRV Walajapet
 http://nextgeninfotech.ddns.net:8080/srv/srv.m3u8
