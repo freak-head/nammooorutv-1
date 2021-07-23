@@ -12,6 +12,33 @@ http://cdn.yoctoentertainment.com:8081/metro/metro.m3u8
 http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/ZD8J4R2.jpg"group-title="Tamil Cable TV",Heart Media PDY
 http://singamcloud.in:1935/heartmedia/heartmedia/playlist.m3u8
+
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/3HPhrIB.png"group-title="Tamil Cable TV",Rasi Hollywood
+http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/v8U4xyf.png"group-title="Tamil Cable TV",Rasi Tamil
+http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/fzwWhCN.png"group-title="Tamil Cable TV",Rasi Network
+http://singamcloud.in:8080/rasinetwork/rasitv/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/rQKU3lx.png"group-title="Tamil Cable TV",Rasi Movies
+http://singamcloud.in:8080/rasinetwork/rasimovies/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/UjEwUHb.png"group-title="Tamil Cable TV",Rasi Classic
+http://singamcloud.in:8080/rasinetwork/rasiclassic/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/4rzTPWA.png"group-title="Tamil Cable TV",Rasi Music HD
+http://singamcloud.in:1935/rasinetwork/rasimusic/chunklist_w1462850369.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/RqgE86j.png"group-title="Tamil Cable TV",Rasi TV Malayalam
+http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/bmxqT1v.png"group-title="Tamil Cable TV",Rasi Hindi
+http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Rasi Telugu
+http://singamcloud.in:8080/rasinetwork/rasicomedy/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/WOSo1c8.jpg"group-title="Tamil Cable TV",Rasi TV Cooking
+http://51.79.146.76:1935/rasinetwork/cookings/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/yxrOUZL.png"group-title="Tamil Cable TV",Rasi Lifestyle
+http://singamcloud.in:1935/rasinetwork/cookings/chunklist_w583037050.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Cable TV",Garuda Movies
+https://garuda-cdnserver1.tk/GarudaMovies/index.m3u8
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/kktveY1.png"group-title="Tamil Cable TV",Udhayam
 http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/2SpMlRa.png"group-title="Tamil Cable TV",Sooriyan TV
@@ -24,8 +51,7 @@ http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
 http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/STV.png"group-title="Tamil Cable TV",STV Madurai
 http://nextgeninfotech.ddns.net:8080/stvchannel/stvchannel.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Cable TV",Garuda Movies
-https://garuda-cdnserver1.tk/GarudaMovies/index.m3u8
+
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/06/SRV.jpg"group-title="Tamil Cable TV",SRV Walajapet
 http://nextgeninfotech.ddns.net:8080/srv/srv.m3u8
@@ -93,7 +119,8 @@ http://stream.singamcloud.in:1935/haitv/haitv/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1616333880_tamil%20star.png"group-title="Tamil Cable TV",Tamil Star TV
 http://stream.singamcloud.in:1935/tamilstartv/tamilstartv/playlist.m3u8
 
-
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/lIwf8Ql.jpg"group-title="Tamil Cable TV",Samugam
+https://ca.streamjo.com/live/samugam.m3u8
 
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/07/krishna.jpg"group-title="Tamil Cable TV",Krishna Media
@@ -134,10 +161,9 @@ http://103.98.62.134:8080/hls/selfie.m3u8
 http://live.singamcloud.in:1935/applemusic/applemusic/chunklist_w1765218898.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/5nVLwqS.png"group-title="Tamil Cable TV",Apple Digital
 http://live.singamcloud.in:1935/appledigitel/appledigitel/chunklist_w435643391.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/yxrOUZL.png"group-title="Tamil Cable TV",Rasi Lifestyle
-http://singamcloud.in:1935/rasinetwork/cookings/chunklist_w583037050.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/4rzTPWA.png"group-title="Tamil Cable TV",Rasi Music HD
-http://singamcloud.in:1935/rasinetwork/rasimusic/chunklist_w1462850369.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="blob:https://imgur.com/f3cad7ec-00f9-4d67-b782-a2365f31b271"group-title="Tamil Cable TV",Adutha Thalaimurai
+http://singamcloud.in:1935/aduthathalaimurai/aduthathalaimurai/playlist.m3u8
+
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/svtv.png"group-title="Tamil Cable TV",SV TV
 http://arunaiadd.livebox.co.in/Svetvhls/live.m3u8
@@ -225,30 +251,11 @@ http://account13.livebox.co.in/palartvhls/live.m3u8
 https://tv2.massstream.net/Masstv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/v8U4xyf.png"group-title="Tamil Cable TV",Rasi Tamil
-http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/fzwWhCN.png"group-title="Tamil Cable TV",Rasi Network
-http://singamcloud.in:8080/rasinetwork/rasitv/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/rQKU3lx.png"group-title="Tamil Cable TV",Rasi Movies
-http://singamcloud.in:8080/rasinetwork/rasimovies/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/UjEwUHb.png"group-title="Tamil Cable TV",Rasi Classic
-http://singamcloud.in:8080/rasinetwork/rasiclassic/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/RqgE86j.png"group-title="Tamil Cable TV",Rasi TV Malayalam
-http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/bmxqT1v.png"group-title="Tamil Cable TV",Rasi Hindi
-http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/3HPhrIB.png"group-title="Tamil Cable TV",Rasi Hollywood
-http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Rasi Telugu
-http://singamcloud.in:8080/rasinetwork/rasicomedy/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="blob:https://imgur.com/f3cad7ec-00f9-4d67-b782-a2365f31b271"group-title="Tamil Cable TV",Adutha Thalaimurai
-http://singamcloud.in:1935/aduthathalaimurai/aduthathalaimurai/playlist.m3u8
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/X72YiIU.png"group-title="Tamil Cable TV",Bonus HD
 http://singamcloud.in:1935/bonushd/bonushd/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://www.rojatv.in/wpimages/wp277cc386_1a.png"group-title="Tamil Cable TV",Roja Tv HD
 http://singamcloud.in:1935/rojatv/rojatv/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/WOSo1c8.jpg"group-title="Tamil Cable TV",Rasi TV Cooking
-http://51.79.146.76:1935/rasinetwork/cookings/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Boys TV
 http://singamcloud.in:1935/boystv/boystv/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://play-lh.googleusercontent.com/WL_OuJd8QWuy6H--RVAckd3Ed0WTcvLQsgWTnvEi9e_Jzrp1-7aeBhKbBaRs6yw9KQ5f=s180-rw"group-title="Tamil Cable TV",Purple Tv
