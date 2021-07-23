@@ -453,54 +453,27 @@ http://198.144.149.82:8080/NOTV/UTV/index.m3u8?token=GTR
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png"group-title="News Channels",Polimer News
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png"group-title="News Channels",Polimer News (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC8Z-VjXBtDJTvq6aqkIskPg
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://www.pngfind.com/pngs/m/317-3178616_news-news-7-tamil-logo-hd-png-download.png"group-title="News Channels",News 7 Tamil
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://www.pngfind.com/pngs/m/317-3178616_news-news-7-tamil-logo-hd-png-download.png"group-title="News Channels",News 7 Tamil (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC2f4w_ppqHplvjiNaoTAK9w
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://mag.puthiyathalaimurai.com/wp-content/uploads/2020/03/PUTHIYATHALAIMURAI.png"group-title="News Channels",PuthiyaThalaimurai
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://mag.puthiyathalaimurai.com/wp-content/uploads/2020/03/PUTHIYATHALAIMURAI.png"group-title="News Channels",PuthiyaThalaimurai (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCmyKnNRH0wH-r8I-ceP-dsg
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://seeklogo.com/images/S/sun-news-logo-107E32491A-seeklogo.com.png"group-title="News Channels",Sun News (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCYlh4lH762HvHt6mmiecyWQ
+
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/News18_tamilnadu_logo.png"group-title="News Channels",News18 TamilNadu
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/News18_tamilnadu_logo.png"group-title="News Channels",News18 TamilNadu (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCat88i6_rELqI_prwvjspRA
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/logo_login.png"group-title="News Channels",NewsJ
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b256,b512,b1024,b1824,.smil/chunklist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/logo_login.png"group-title="News Channels",NewsJ (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCsfh2Zb7-m4qzT8jLhK_Fzw
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SathiyamFinallogo.png/220px-SathiyamFinallogo.png"group-title="News Channels",Sathiyamtv
 http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SathiyamFinallogo.png/220px-SathiyamFinallogo.png"group-title="News Channels",Sathiyamtv (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC2ziCMHFPWkFHjocUMXT__Q
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Logo_of_Thanthi_TV.png/200px-Logo_of_Thanthi_TV.png"group-title="News Channels",Thanthi TV
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Logo_of_Thanthi_TV.png/200px-Logo_of_Thanthi_TV.png"group-title="News Channels",Thanthi TV (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC-JFyL0zDFOsPMpuWu39rPA
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/9KOtLWa.jpg"group-title="News Channels",Dinamalar (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UChcR8SrIiSON4KxmtpwfMgw
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/SJBIGOb.png"group-title="News Channels",Jaya Plus (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCOP4Gbw-T1ofcW8vyL89ZDw
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/91ze3P7.png"group-title="News Channels",MalaiMurasu
 https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/91ze3P7.png"group-title="News Channels",MalaiMurasu (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCXbufH95DIUqyAWSzeDI0JQ
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://tvtolive.com/wp-content/uploads/1-Yes-TV-tvtolive.com_.jpg"group-title="News Channels",1yestv
 http://livematrix.in:1935/1yestv/1yestv/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g.jpg"group-title="News Channels",Kalaignar News
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g.jpg"group-title="News Channels",Kalaignar News (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCcVF2Fth-qEA4T1Lhn3CgKg
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/RuUvWva.jpg"group-title="News Channels",Raj News தமிழ் (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC1mkFVHzP87YQ87PSMxo9MQ
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/capital-news-logo.png"group-title="News Channels",Capital News
 http://89.187.162.89/Capital_NEWS/index.m3u8
@@ -510,50 +483,71 @@ http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/CNN-News18.png"group-title="News Channels",CNN News18
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/CNN-News18.png"group-title="News Channels",CNN News18 (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCef1-8eOpJgud7szVPlZQAQ
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/Indiatoday.jpg"group-title="News Channels",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/Indiatoday.jpg"group-title="News Channels",India Today (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCYPvAwZP8pZhSMW8qs7cVCw
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/DD_News.png"group-title="News Channels",DD NEWS 24X7 (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCKwucPzHZ7zCUIf7If-Wo1g
-
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/1280px-NDTV_247.svg.png"group-title="News Channels",NDTV 24*7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/1280px-NDTV_247.svg.png"group-title="News Channels",NDTV 24*7 (YT)
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCZFMm1mMw0F81Z37aaEzTUA
-
-
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Times_Now_HD.jpg"group-title="News Channels",Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/MkLUX70.png"group-title="News Channels", NewsX (YT)
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png"group-title="YT News Channels",Polimer News (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC8Z-VjXBtDJTvq6aqkIskPg
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://www.pngfind.com/pngs/m/317-3178616_news-news-7-tamil-logo-hd-png-download.png"group-title="YT News Channels",News 7 Tamil (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC2f4w_ppqHplvjiNaoTAK9w
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://mag.puthiyathalaimurai.com/wp-content/uploads/2020/03/PUTHIYATHALAIMURAI.png"group-title="YT News Channels",PuthiyaThalaimurai (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCmyKnNRH0wH-r8I-ceP-dsg
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://seeklogo.com/images/S/sun-news-logo-107E32491A-seeklogo.com.png"group-title="YT News Channels",Sun News (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCYlh4lH762HvHt6mmiecyWQ
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/News18_tamilnadu_logo.png"group-title="YT News Channels",News18 TamilNadu (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCat88i6_rELqI_prwvjspRA
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/logo_login.png"group-title="YT News Channels",NewsJ (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCsfh2Zb7-m4qzT8jLhK_Fzw
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SathiyamFinallogo.png/220px-SathiyamFinallogo.png"group-title="YT News Channels",Sathiyamtv (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC2ziCMHFPWkFHjocUMXT__Q
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Logo_of_Thanthi_TV.png/200px-Logo_of_Thanthi_TV.png"group-title="YT News Channels",Thanthi TV (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC-JFyL0zDFOsPMpuWu39rPA
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/9KOtLWa.jpg"group-title="YT News Channels",Dinamalar (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UChcR8SrIiSON4KxmtpwfMgw
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/SJBIGOb.png"group-title="YT News Channels",Jaya Plus (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCOP4Gbw-T1ofcW8vyL89ZDw
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/91ze3P7.png"group-title="YT News Channels",MalaiMurasu (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCXbufH95DIUqyAWSzeDI0JQ
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g.jpg"group-title="YT News Channels",Kalaignar News (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCcVF2Fth-qEA4T1Lhn3CgKg
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/RuUvWva.jpg"group-title="YT News Channels",Raj News தமிழ் (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC1mkFVHzP87YQ87PSMxo9MQ
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/CNN-News18.png"group-title="YT News Channels",CNN News18 (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCef1-8eOpJgud7szVPlZQAQ
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/Indiatoday.jpg"group-title="YT News Channels",India Today (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCYPvAwZP8pZhSMW8qs7cVCw
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/DD_News.png"group-title="YT News Channels",DD NEWS 24X7 (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCKwucPzHZ7zCUIf7If-Wo1g
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/1280px-NDTV_247.svg.png"group-title="YT News Channels",NDTV 24*7 (YT)
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCZFMm1mMw0F81Z37aaEzTUA
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/MkLUX70.png"group-title="YT News Channels", NewsX (YT)
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCytSP0M0Jdnw6qIy3Y-nTig
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/bS7Dm0F.png"group-title="News Channels",Sky News (YT)
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/bS7Dm0F.png"group-title="YT News Channels",Sky News (YT)
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCoMdktPbSTixAyNGwb-UYkQ
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/mO7gA6S.png"group-title="News Channels", DW News (YT)
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/mO7gA6S.png"group-title="YT News Channels", DW News (YT)
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCknLrEdhRCp1aegoMqRaCZg
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/3PH7frA.jpg"group-title="News Channels", WION (YT)
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/3PH7frA.jpg"group-title="YT News Channels", WION (YT)
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC_gUM8rL-Lrg6O3adPW9K1g
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://media.info/i/lf/300/1504210656/6883.png"group-title="News Channels",Franceinfo (YT)
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://media.info/i/lf/300/1504210656/6883.png"group-title="YT News Channels",Franceinfo (YT)
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCO6K_kkdP-lnSCiO3tPx7WA
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/1NHCrPM.png"group-title="News Channels", FRANCE 24 English (YT)
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/1NHCrPM.png"group-title="YT News Channels", FRANCE 24 English (YT)
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCQfwfsi5VrQ8yKZ-UWmAEFg
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/1NHCrPM.png"group-title="News Channels", FRANCE 24 French (YT)
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/1NHCrPM.png"group-title="YT News Channels", FRANCE 24 French (YT)
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCCCPCZNChQdGa9EkATeye4g
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/NCReKGD.png"group-title="News Channels", NBC News (YT)
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/NCReKGD.png"group-title="YT News Channels", NBC News (YT)
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCeY0bbntWzzVIaj2z3QigXg
+
+
+
+
+
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/72/MKTV.png"group-title="Tamil Free TV",MK TV
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
@@ -784,20 +778,6 @@ http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCyupwg56cb-DKlz8fg09Vbw
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Live YT Channels", RailCowGirl - YT
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCakgsb0w7QB0VHdnCc-OVEA
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/mrME1vI.png"group-title="News Channels", Space Video (YT)
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/mrME1vI.png"group-title="Live YT Channels", Space Video (YT)
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC6qrG3W8SMK0jior2olka3g
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Amazon prime
-https://cdn.livepeer.com/hls/d33bfh11y6usto27/index.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", Star Plus HD (TS)
-https://jokertvlive.buzz/01jokertv/avatar/hbo.m3u8?id=277
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", Star Gold HD (TS)
-https://stream.mylive.in.th/live/rftv/rftv.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", PRIME VIDEO 3
-https://jokertvlive.buzz/01jokertv/avatar/hbo.m3u8?id=279
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", PRIME VIDEO 4
-https://jokertvlive.buzz/01jokertv/avatar/hbo.m3u8?id=280
