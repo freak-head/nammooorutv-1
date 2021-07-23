@@ -609,6 +609,9 @@ https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""https://e3.365dm.com/tvlogos/channels/1302-Logo.png"group-title="Sports",SKY SPORTS Cricket
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=rk
 
+EXTINF:-1tvg-id=""tvg-name="https://i.ibb.co/qnQ8X5g/sony.png"group-title="Sports",SONY Ten 2
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622639372_sonysix.png"group-title="Sports",SONY SIX HD
 http://212.224.98.196:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=RED
 
