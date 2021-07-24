@@ -618,6 +618,9 @@ http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=rk
 #EXTINF:-1tvg-id=""tvg-name=""https://e3.365dm.com/tvlogos/channels/1302-Logo.png"group-title="Sports",SKY SPORTS Cricket 2
 http://185.180.15.13:2200/EX/Sky_Sports_Cricket_HD-uk/tracks-v1a1/mono.m3u8?token=RK
 
+#EXTINF:-1tvg-id=""tvg-name=""group-title="Sports", SKY SPORTS MAIN EVENT
+http://212.224.98.207:2200/EX/Sky_Sports_Main_Event_HD-uk/index.m3u8?token=rk
+
 #EXTINF:-1tvg-id=""tvg-name="https://i.ibb.co/qnQ8X5g/sony.png"group-title="Sports",SONY Ten 2
 https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
 
