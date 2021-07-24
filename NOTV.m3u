@@ -600,6 +600,9 @@ http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=RED
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622898474_IMG_20210605_183550.jpg"group-title="Tamil Free TV",KBO US
 https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
 
+#EXTINF:-1tvg-id=""tvg-name="https://i.ibb.co/qnQ8X5g/sony.png"group-title="Sports",SONY LIV
+https://pubads.g.doubleclick.net/ssai/event/XnZGtdMrQFKtqtNjxHDo7Q/master.m3u8
+
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1623068010_SONY%20ten%204.png"group-title="Sports",SONY Ten 4 HD
 https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 
