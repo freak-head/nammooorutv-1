@@ -657,6 +657,11 @@ http://ky-iptv.com:25461/live/thestuff1/thestuff1/1116407.ts
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622192935_willow.png"group-title="Sports",Astro Cricket
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1116403.ts
 
+#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622192935_willow.png"group-title="Sports", Fox Cricket 501
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/189787.ts
+
+
+
 Not working
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/06/Moon.jpg"group-title="Tamil Cable TV",Moon Media Theni
