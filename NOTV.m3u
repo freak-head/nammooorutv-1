@@ -660,6 +660,11 @@ http://ky-iptv.com:25461/live/thestuff1/thestuff1/1116403.ts
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622192935_willow.png"group-title="Sports", Fox Cricket 501
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/189787.ts
 
+#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622192935_willow.png"group-title="Sports", WWE Network
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/391457.ts
+
+#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622192935_willow.png"group-title="Sports", SKy Sports F1
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1196396.ts
 
 
 Not working
