@@ -723,9 +723,6 @@ https://askmedia.livebox.co.in/DanMusichls/2.m3u8
 https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
 
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2020/01/starvijay-1.jpg"group-title="Test",Vijay TV
-http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.ts
-
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/06/12/images-1-12.png"group-title="IPTV",Zee Tamil HD
 https://mhdtvworld.xyz/delta/planet/max.php?id=653268&e=.m3u8
@@ -867,3 +864,18 @@ https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3
 https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 #EXTINF: -1 tvg-id="525" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_SD.png" group-title="SonyLiv",Sony Liv Feed
 https://pubads.g.doubleclick.net/ssai/event/OTz3QN8XQ7KzSvdh3uSfKw/master.m3u8
+
+
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2020/01/starvijay-1.jpg"group-title="Test",Vijay TV
+http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.ts
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Utube Live 01
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=,https://www.youtube.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Utube Live 02
+https://iptv--iptv.repl.co/streamlink?url=,https://www.youtube.com/c/DZRHNewsTelevision/live
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Utube Live 03
+https://linkastream.co/headless?url=,https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live
+
