@@ -886,35 +886,20 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=,https://www.youtube.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - Raw1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=raw|user-agent="TiviMate"
+https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=raw
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - Player
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=player|user-agent="TiviMate"
+https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=player
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - Smart
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=smart|user-agent="TiviMate"
+https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=smart
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - VLC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=vlc|user-agent="TiviMate"
+https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=vlc
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - KODI
 https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=kodi
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - Xtreme
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=xtream|user-agent="TiviMate"
+https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=xtream
 
