@@ -895,7 +895,7 @@ https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=player
 https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=smart
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - VLC
-https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=vlc
+https://catchup.yuppcdn.net/amazonv2/20/preview/jayatv/master/master.m3u8?hdnts=st=1628880617~exp=1628881217~acl=!*/20/preview/jayatv/*!/payload/yuppTVCom_5_-1_e95d6ac7a39a4b14_DE_193.34.145.202/*~hmac=d4fc074d88cded2d3359fff3464467d361261ae5fee957fe24e4610e4c85e720
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - KODI
 https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=kodi
