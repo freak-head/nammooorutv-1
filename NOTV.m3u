@@ -910,10 +910,7 @@ https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=smart|u
 https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=vlc|user-agent="TiviMate"
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - KODI
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=kodi|user-agent="TiviMate"
+https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=kodi
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - Xtreme
 #KODIPROP:inputstreamaddon=inputstream.adaptive
