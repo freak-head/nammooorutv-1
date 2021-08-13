@@ -886,20 +886,20 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=,https://www.youtube.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - Raw
-https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=e24&type=raw
+https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=raw
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - Player
-https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=e24&type=player
+https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=player
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - Smart
-https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=e24&type=smart
+https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=smart
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - VLC
-https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=e24&type=vlc
+https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=vlc
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - KODI
-https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=e24&type=kodi
+https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=kodi
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - Xtreme
-https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=e24&type=xtream
+https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=xtream
 
