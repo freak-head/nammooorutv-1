@@ -885,8 +885,21 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Utube Live 01
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=,https://www.youtube.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - Raw
 https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=e24&type=raw
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - Player
+https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=e24&type=player
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - Smart
+https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=e24&type=smart
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - VLC
+https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=e24&type=vlc
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - KODI
+https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=e24&type=kodi
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - Xtreme
+https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=e24&type=xtream
 
