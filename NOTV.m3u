@@ -883,5 +883,5 @@ http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.ts
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",FTV UHD 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-
-
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Vendhar NEWS
+https://dftkpvamsm0r1.cloudfront.net/out/v1/ee7ba7ef70fc4005a3992a2c0e8336aa/ETVB_CF_TN_NewsTime.m3u8
