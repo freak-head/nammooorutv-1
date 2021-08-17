@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF: -1 tvg-id="162" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="SonyLiv",SONY TEN1 HD
 https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #EXTINF: -1 tvg-id="891" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png" group-title="SonyLiv",SONY TEN 2 HD
