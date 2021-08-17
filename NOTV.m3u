@@ -853,22 +853,23 @@ http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC6qrG3W8SMK0jior2olka3g
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF: -1 tvg-id="162" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="SonyLiv",SONY TEN1 HD
 https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-#EXTINF: -1 tvg-id="514" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_SD.png" group-title="SonyLiv",Sony Ten 1 SD
-https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
 #EXTINF: -1 tvg-id="891" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png" group-title="SonyLiv",SONY TEN 2 HD
 https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#EXTINF: -1 tvg-id="523" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_SD.png" group-title="SonyLiv",Sony Ten 2 SD
-https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
 #EXTINF: -1 tvg-id="892" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="SonyLiv",SONY TEN 3 HD
 https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF: -1 tvg-id="524" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN3HD.jpg" group-title="SonyLiv",Sony Ten 3 SD
-https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
-#EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="SonyLiv",SONY TEN 4 SD
-https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 #EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="SonyLiv",SONY TEN 4 HD
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF: -1 tvg-id="155" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png" group-title="SonyLiv",Sony SIX HD
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+
+#EXTINF: -1 tvg-id="514" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_SD.png" group-title="SonyLiv",Sony Ten 1 SD
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF: -1 tvg-id="523" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_SD.png" group-title="SonyLiv",Sony Ten 2 SD
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF: -1 tvg-id="524" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN3HD.jpg" group-title="SonyLiv",Sony Ten 3 SD
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="SonyLiv",SONY TEN 4 SD
+https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 #EXTINF: -1 tvg-id="525" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_SD.png" group-title="SonyLiv",Sony Six SD
 https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 #EXTINF: -1 tvg-id="525" tvg-logo="https://i.imgur.com/s1jdNAS.png" group-title="SonyLiv",Sony Liv Feed
@@ -882,24 +883,5 @@ http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.ts
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",FTV UHD 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Utube Live 01
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=,https://www.youtube.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - Raw1
-https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=raw
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - Player
-https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=player
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - Smart
-https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=smart
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - VLC
-https://catchup.yuppcdn.net/amazonv2/20/preview/jayatv/master/master.m3u8?hdnts=st=1628880617~exp=1628881217~acl=!*/20/preview/jayatv/*!/payload/yuppTVCom_5_-1_e95d6ac7a39a4b14_DE_193.34.145.202/*~hmac=d4fc074d88cded2d3359fff3464467d361261ae5fee957fe24e4610e4c85e720
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - KODI
-https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=kodi
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupptv Test - Xtreme
-https://paidcodes.albdroid.al/Yupp_TV_APIS/V1_2/api.php?url=jaya-tv&type=xtream
 
