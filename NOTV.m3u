@@ -892,509 +892,67 @@ https://dftkpvamsm0r1.cloudfront.net/out/v1/ee7ba7ef70fc4005a3992a2c0e8336aa/ETV
 https://suntvvodaf-live.s.llnwi.net/SunTV/SunTV.isml/manifest.mpd
 
 
-#EXTM3U x-tvg-url="https://botallen.live/epg.xml.gz"
-#EXTINF:-1 tvg-id="TEN1SD" tvg-name="Ten 1" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/QxHUtaJgRu.png" tvg-chno="672" group-title="English (SonyLIV)",Ten 1
-#EXTVLCOPT:user-agent=SonyLIV
-https://botallen.live/s/TEN1SD/master.m3u8
-#EXTINF:-1 tvg-id="TEN2SD" tvg-name="Ten 2" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/WhoCqXSAFp.png" tvg-chno="673" group-title="English (SonyLIV)",Ten 2
-#EXTVLCOPT:user-agent=SonyLIV
-https://botallen.live/s/TEN2SD/master.m3u8
-#EXTINF:-1 tvg-id="SONYSIXSD" tvg-name="SIX SD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/wMqVmuncqG.png" tvg-chno="675" group-title="English (SonyLIV)",SIX SD
-#EXTVLCOPT:user-agent=SonyLIV
-https://botallen.live/s/SONYSIXSD/master.m3u8
-#EXTINF:-1 tvg-id="SonyBBCEarthHD" tvg-name="Sony BBC Earth HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/fBNPHHCQJS.png" tvg-chno="676" group-title="English (SonyLIV)",Sony BBC Earth HD
-#EXTVLCOPT:user-agent=SonyLIV
-https://botallen.live/s/SonyBBCEarthHD/master.m3u8
-#EXTINF:-1 tvg-id="ts8" tvg-name="STAR Plus HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/RIbBBNnwJc.png" tvg-chno="683" group-title="None (TataSky)",STAR Plus HD
-https://botallen.live/t/8/master.m3u8
-#EXTINF:-1 tvg-id="ts11" tvg-name="TV9 Telugu" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/UgvUxRuvIB.png" tvg-chno="685" group-title="None (TataSky)",TV9 Telugu
-https://botallen.live/t/11/master.m3u8
-#EXTINF:-1 tvg-id="ts12" tvg-name="Big Ganga" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/uMkgOGiuob.png" tvg-chno="686" group-title="None (TataSky)",Big Ganga
-https://botallen.live/t/12/master.m3u8
-#EXTINF:-1 tvg-id="ts15" tvg-name="SET HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/NLsiRqLRYL.png" tvg-chno="688" group-title="None (TataSky)",SET HD
-https://botallen.live/t/15/master.m3u8
-#EXTINF:-1 tvg-id="ts20" tvg-name="Zee Bihar Jharkhand" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/JmuCHFOneA.png" tvg-chno="690" group-title="None (TataSky)",Zee Bihar Jharkhand
-https://botallen.live/t/20/master.m3u8
-#EXTINF:-1 tvg-id="ts23" tvg-name="News18 Bangla" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/hlOIeCwrMI.png" tvg-chno="691" group-title="None (TataSky)",News18 Bangla
-https://botallen.live/t/23/master.m3u8
-#EXTINF:-1 tvg-id="ts24" tvg-name="Star Sports 1 Hindi HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/ohdHWeJtjZ.png" tvg-chno="692" group-title="None (TataSky)",Star Sports 1 Hindi HD
-https://botallen.live/t/24/master.m3u8
-#EXTINF:-1 tvg-id="ts27" tvg-name="IBC 24" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/OYUxXUXlwp.png" tvg-chno="693" group-title="None (TataSky)",IBC 24
-https://botallen.live/t/27/master.m3u8
-#EXTINF:-1 tvg-id="ts30" tvg-name="India News UP UK" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/cYTzTDszDf.png" tvg-chno="694" group-title="None (TataSky)",India News UP UK
-https://botallen.live/t/30/master.m3u8
-#EXTINF:-1 tvg-id="ts40" tvg-name="&tv HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/CukEOZYJfm.png" tvg-chno="701" group-title="None (TataSky)",&tv HD
-https://botallen.live/t/40/master.m3u8
-#EXTINF:-1 tvg-id="ts45" tvg-name="SONY YAY!" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/nkNRBeLyPj.png" tvg-chno="703" group-title="None (TataSky)",SONY YAY!
-https://botallen.live/t/45/master.m3u8
-#EXTINF:-1 tvg-id="ts48" tvg-name="SAB HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/dtOmhgoMaY.png" tvg-chno="704" group-title="None (TataSky)",SAB HD
-https://botallen.live/t/48/master.m3u8
-#EXTINF:-1 tvg-id="ts54" tvg-name="The Q" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/fXztuBLQPO.png" tvg-chno="709" group-title="None (TataSky)",The Q
-https://botallen.live/t/54/master.m3u8
-#EXTINF:-1 tvg-id="ts65" tvg-name="TV5 Monde Asie" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/URuVPaTaJA.png" tvg-chno="715" group-title="None (TataSky)",TV5 Monde Asie
-https://botallen.live/t/65/master.m3u8
-#EXTINF:-1 tvg-id="ts78" tvg-name="Star Sports 1 HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/hgnawhPYzD.png" tvg-chno="718" group-title="None (TataSky)",Star Sports 1 HD
-https://botallen.live/t/78/master.m3u8
-#EXTINF:-1 tvg-id="ts79" tvg-name="News18 Uttar Pradesh Uttarakhand" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/RpSpLAXeBt.png" tvg-chno="719" group-title="None (TataSky)",News18 Uttar Pradesh Uttarakhand
-https://botallen.live/t/79/master.m3u8
-#EXTINF:-1 tvg-id="ts81" tvg-name="SONY TEN 1 HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/iHqZzojWDH.png" tvg-chno="721" group-title="None (TataSky)",SONY TEN 1 HD
-https://botallen.live/t/81/master.m3u8
-#EXTINF:-1 tvg-id="ts83" tvg-name="ETV Telengana" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/nyxxAvOuPR.png" tvg-chno="722" group-title="None (TataSky)",ETV Telengana
-https://botallen.live/t/83/master.m3u8
-#EXTINF:-1 tvg-id="ts88" tvg-name="ET NOW" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/tykULfGsvL.png" tvg-chno="723" group-title="None (TataSky)",ET NOW
-https://botallen.live/t/88/master.m3u8
-#EXTINF:-1 tvg-id="ts93" tvg-name="NDTV Profit Prime" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/EORtCwhIgp.png" tvg-chno="724" group-title="None (TataSky)",NDTV Profit Prime
-https://botallen.live/t/93/master.m3u8
-#EXTINF:-1 tvg-id="ts96" tvg-name="Zoom" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/GgmrFtvfzy.png" tvg-chno="725" group-title="None (TataSky)",Zoom
-https://botallen.live/t/96/master.m3u8
-#EXTINF:-1 tvg-id="ts97" tvg-name="TV9 Marathi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/eHkyOMNQFz.png" tvg-chno="726" group-title="None (TataSky)",TV9 Marathi
-https://botallen.live/t/97/master.m3u8
-#EXTINF:-1 tvg-id="ts98" tvg-name="Russia Today" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/juTqHZjIjq.png" tvg-chno="727" group-title="None (TataSky)",Russia Today
-https://botallen.live/t/98/master.m3u8
-#EXTINF:-1 tvg-id="ts105" tvg-name="Australia Plus" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/qYlHfEdyEL.png" tvg-chno="731" group-title="None (TataSky)",Australia Plus
-https://botallen.live/t/105/master.m3u8
-#EXTINF:-1 tvg-id="ts106" tvg-name="News18 India" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/MKOcsZYuec.png" tvg-chno="732" group-title="None (TataSky)",News18 India
-https://botallen.live/t/106/master.m3u8
-#EXTINF:-1 tvg-id="ts110" tvg-name="NHK World" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/YMjQGenkxK.png" tvg-chno="733" group-title="None (TataSky)",NHK World
-https://botallen.live/t/110/master.m3u8
-#EXTINF:-1 tvg-id="ts114" tvg-name="Disney" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/whcNdqxkqA.png" tvg-chno="735" group-title="None (TataSky)",Disney
-https://botallen.live/t/114/master.m3u8
-#EXTINF:-1 tvg-id="ts118" tvg-name="Nick Jr" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/KeOhAplege.png" tvg-chno="737" group-title="None (TataSky)",Nick Jr
-https://botallen.live/t/118/master.m3u8
-#EXTINF:-1 tvg-id="ts119" tvg-name="Discovery Kids" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/OOoVoRtffC.png" tvg-chno="738" group-title="None (TataSky)",Discovery Kids
-https://botallen.live/t/119/master.m3u8
-#EXTINF:-1 tvg-id="ts120" tvg-name="SONY MAX 2" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/yDfFXmGdit.png" tvg-chno="739" group-title="None (TataSky)",SONY MAX 2
-https://botallen.live/t/120/master.m3u8
-#EXTINF:-1 tvg-id="ts127" tvg-name="Sonic Nickelodeon" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/sQCDeLmaBK.png" tvg-chno="742" group-title="None (TataSky)",Sonic Nickelodeon
-https://botallen.live/t/127/master.m3u8
-#EXTINF:-1 tvg-id="ts129" tvg-name="Aakaash Aath" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/NDYHPNbNQd.png" tvg-chno="744" group-title="None (TataSky)",Aakaash Aath
-https://botallen.live/t/129/master.m3u8
-#EXTINF:-1 tvg-id="ts132" tvg-name="SONY  MAX" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/dHiamawVFo.png" tvg-chno="746" group-title="None (TataSky)",SONY  MAX
-https://botallen.live/t/132/master.m3u8
-#EXTINF:-1 tvg-id="ts136" tvg-name="GOOD TiMES" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/KyMUswDLBs.png" tvg-chno="747" group-title="None (TataSky)",GOOD TiMES
-https://botallen.live/t/136/master.m3u8
-#EXTINF:-1 tvg-id="ts138" tvg-name="Nick" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/bwFHqlCGNT.png" tvg-chno="748" group-title="None (TataSky)",Nick
-https://botallen.live/t/138/master.m3u8
-#EXTINF:-1 tvg-id="ts140" tvg-name="News18 Lokmat" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/KQBlSOUrRN.png" tvg-chno="750" group-title="None (TataSky)",News18 Lokmat
-https://botallen.live/t/140/master.m3u8
-#EXTINF:-1 tvg-id="ts142" tvg-name="UTV Bindass" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/QTilTJPHwc.png" tvg-chno="751" group-title="None (TataSky)",UTV Bindass
-https://botallen.live/t/142/master.m3u8
-#EXTINF:-1 tvg-id="ts144" tvg-name="Disney Junior" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/VwDdnSCEDw.png" tvg-chno="752" group-title="None (TataSky)",Disney Junior
-https://botallen.live/t/144/master.m3u8
-#EXTINF:-1 tvg-id="ts148" tvg-name="&pictures" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/zmMGXNQsCV.png" tvg-chno="754" group-title="None (TataSky)",&pictures
-https://botallen.live/t/148/master.m3u8
-#EXTINF:-1 tvg-id="ts151" tvg-name="Siddhivinayak Temple, Mumbai" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/XIxiCjmqsw.png" tvg-chno="755" group-title="None (TataSky)", Mumbai
-https://botallen.live/t/151/master.m3u8
-#EXTINF:-1 tvg-id="ts157" tvg-name="Channel News Asia" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/SFFJSZSBnp.png" tvg-chno="758" group-title="None (TataSky)",Channel News Asia
-https://botallen.live/t/157/master.m3u8
-#EXTINF:-1 tvg-id="ts160" tvg-name="NTV Telugu" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/HEdEZJcXeu.png" tvg-chno="759" group-title="None (TataSky)",NTV Telugu
-https://botallen.live/t/160/master.m3u8
-#EXTINF:-1 tvg-id="ts166" tvg-name="News18 Bihar Jharkhand" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/ZAkmFeuUrE.png" tvg-chno="760" group-title="None (TataSky)",News18 Bihar Jharkhand
-https://botallen.live/t/166/master.m3u8
-#EXTINF:-1 tvg-id="ts168" tvg-name="CNBC-TV18" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/uqnkjWwRZf.png" tvg-chno="761" group-title="None (TataSky)",CNBC-TV18
-https://botallen.live/t/168/master.m3u8
-#EXTINF:-1 tvg-id="ts177" tvg-name="ABP News" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/hHazuIHVFn.png" tvg-chno="763" group-title="None (TataSky)",ABP News
-https://botallen.live/t/177/master.m3u8
-#EXTINF:-1 tvg-id="ts179" tvg-name="NDTV India" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/NvVRhVCqWh.png" tvg-chno="764" group-title="None (TataSky)",NDTV India
-https://botallen.live/t/179/master.m3u8
-#EXTINF:-1 tvg-id="ts182" tvg-name="Cinema TV India" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/NXpQDaETmw.png" tvg-chno="766" group-title="None (TataSky)",Cinema TV India
-https://botallen.live/t/182/master.m3u8
-#EXTINF:-1 tvg-id="ts188" tvg-name="BBC World" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/PiJALIqnPz.png" tvg-chno="769" group-title="None (TataSky)",BBC World
-https://botallen.live/t/188/master.m3u8
-#EXTINF:-1 tvg-id="ts189" tvg-name="NewsX" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/BmIuBDBoEv.png" tvg-chno="770" group-title="None (TataSky)",NewsX
-https://botallen.live/t/189/master.m3u8
-#EXTINF:-1 tvg-id="ts194" tvg-name="Enterr10 Movies" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/BYymWnmPPV.png" tvg-chno="774" group-title="None (TataSky)",Enterr10 Movies
-https://botallen.live/t/194/master.m3u8
-#EXTINF:-1 tvg-id="ts200" tvg-name="Kalaignar TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/XPsjGLDbJH.png" tvg-chno="775" group-title="Tamil (TataSky)",Kalaignar TV
-https://botallen.live/t/200/master.m3u8
-#EXTINF:-1 tvg-id="ts203" tvg-name="News18 Madhya Pradesh Chhattisgarh" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/xvkFpUFSZq.png" tvg-chno="776" group-title="None (TataSky)",News18 Madhya Pradesh Chhattisgarh
-https://botallen.live/t/203/master.m3u8
-#EXTINF:-1 tvg-id="ts206" tvg-name="CNN News18" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/LPvnYkvPma.png" tvg-chno="779" group-title="None (TataSky)",CNN News18
-https://botallen.live/t/206/master.m3u8
-#EXTINF:-1 tvg-id="ts207" tvg-name="News Time Bangla" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/uNlznCJIiX.png" tvg-chno="780" group-title="None (TataSky)",News Time Bangla
-https://botallen.live/t/207/master.m3u8
-#EXTINF:-1 tvg-id="ts208" tvg-name="NDTV 24x7" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/hWNEkIunOr.png" tvg-chno="781" group-title="None (TataSky)",NDTV 24x7
-https://botallen.live/t/208/master.m3u8
-#EXTINF:-1 tvg-id="ts210" tvg-name="MN+ HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/TGQwxcNxIF.png" tvg-chno="783" group-title="None (TataSky)",MN+ HD
-https://botallen.live/t/210/master.m3u8
-#EXTINF:-1 tvg-id="ts212" tvg-name="Rajya Sabha" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/fUbufkGQJa.png" tvg-chno="784" group-title="None (TataSky)",Rajya Sabha
-https://botallen.live/t/212/master.m3u8
-#EXTINF:-1 tvg-id="ts213" tvg-name="Lok Sabha TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/igFsRhJriq.png" tvg-chno="785" group-title="None (TataSky)",Lok Sabha TV
-https://botallen.live/t/213/master.m3u8
-#EXTINF:-1 tvg-id="ts222" tvg-name="India News MP CH" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/hwRlhfnCov.png" tvg-chno="788" group-title="None (TataSky)",India News MP CH
-https://botallen.live/t/222/master.m3u8
-#EXTINF:-1 tvg-id="ts225" tvg-name="ABN Andhra Jyothy" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/wbAmfWgLEd.png" tvg-chno="790" group-title="None (TataSky)",ABN Andhra Jyothy
-https://botallen.live/t/225/master.m3u8
-#EXTINF:-1 tvg-id="ts227" tvg-name="Fashion TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/mXJYXEiwwe.png" tvg-chno="791" group-title="None (TataSky)",Fashion TV
-https://botallen.live/t/227/master.m3u8
-#EXTINF:-1 tvg-id="ts235" tvg-name="Star Sports 2 HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/BFrSSMWxab.png" tvg-chno="793" group-title="None (TataSky)",Star Sports 2 HD
-https://botallen.live/t/235/master.m3u8
-#EXTINF:-1 tvg-id="ts238" tvg-name="Cartoon Network" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/qbaQnQTKeL.png" tvg-chno="794" group-title="None (TataSky)",Cartoon Network
-https://botallen.live/t/238/master.m3u8
-#EXTINF:-1 tvg-id="ts239" tvg-name="Pogo" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/ptkXFADQVO.png" tvg-chno="795" group-title="None (TataSky)",Pogo
-https://botallen.live/t/239/master.m3u8
-#EXTINF:-1 tvg-id="ts244" tvg-name="Star Bharat HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/dSqftIllAK.png" tvg-chno="798" group-title="None (TataSky)",Star Bharat HD
-https://botallen.live/t/244/master.m3u8
-#EXTINF:-1 tvg-id="ts246" tvg-name="Star Sports Select 1 HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/MfcsBUhXQx.png" tvg-chno="799" group-title="None (TataSky)",Star Sports Select 1 HD
-https://botallen.live/t/246/master.m3u8
-#EXTINF:-1 tvg-id="ts258" tvg-name="Zee 24 Ghanta" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/BXVcBjlRkr.png" tvg-chno="803" group-title="None (TataSky)",Zee 24 Ghanta
-https://botallen.live/t/258/master.m3u8
-#EXTINF:-1 tvg-id="ts267" tvg-name="&pictures HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/SgriYijZDr.png" tvg-chno="807" group-title="None (TataSky)",&pictures HD
-https://botallen.live/t/267/master.m3u8
-#EXTINF:-1 tvg-id="ts272" tvg-name="Polimer TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/lZOBIEHUhw.png" tvg-chno="809" group-title="Tamil (TataSky)",Polimer TV
-https://botallen.live/t/272/master.m3u8
-#EXTINF:-1 tvg-id="ts286" tvg-name="APN News" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/dHCVsJFsGY.png" tvg-chno="813" group-title="None (TataSky)",APN News
-https://botallen.live/t/286/master.m3u8
-#EXTINF:-1 tvg-id="ts288" tvg-name="Arihant" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/GAnRXlozvM.png" tvg-chno="815" group-title="None (TataSky)",Arihant
-https://botallen.live/t/288/master.m3u8
-#EXTINF:-1 tvg-id="ts291" tvg-name="Bharat Samachar" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/lfDTtcpZEx.png" tvg-chno="817" group-title="None (TataSky)",Bharat Samachar
-https://botallen.live/t/291/master.m3u8
-#EXTINF:-1 tvg-id="ts298" tvg-name="Baby TV HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/nsafMKpLvj.png" tvg-chno="818" group-title="None (TataSky)",Baby TV HD
-https://botallen.live/t/298/master.m3u8
-#EXTINF:-1 tvg-id="ts305" tvg-name="Colors Bangla HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/ubKSqdMVwP.png" tvg-chno="819" group-title="None (TataSky)",Colors Bangla HD
-https://botallen.live/t/305/master.m3u8
-#EXTINF:-1 tvg-id="ts314" tvg-name="DD Bangla" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/gMNPvREtSv.png" tvg-chno="822" group-title="None (TataSky)",DD Bangla
-https://botallen.live/t/314/master.m3u8
-#EXTINF:-1 tvg-id="ts320" tvg-name="TV5 News" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/RiJPOduGTK.png" tvg-chno="823" group-title="None (TataSky)",TV5 News
-https://botallen.live/t/320/master.m3u8
-#EXTINF:-1 tvg-id="ts355" tvg-name="Gemini TV HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/JGqZMmnBSk.png" tvg-chno="832" group-title="None (TataSky)",Gemini TV HD
-https://botallen.live/t/355/master.m3u8
-#EXTINF:-1 tvg-id="ts359" tvg-name="ETV HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/tCVjbyYpKl.png" tvg-chno="834" group-title="None (TataSky)",ETV HD
-https://botallen.live/t/359/master.m3u8
-#EXTINF:-1 tvg-id="ts362" tvg-name="Gemini Movies HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/CZaJijsFez.png" tvg-chno="835" group-title="None (TataSky)",Gemini Movies HD
-https://botallen.live/t/362/master.m3u8
-#EXTINF:-1 tvg-id="ts379" tvg-name="Khushboo Bangla" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/rrekBcIMUK.png" tvg-chno="836" group-title="None (TataSky)",Khushboo Bangla
-https://botallen.live/t/379/master.m3u8
-#EXTINF:-1 tvg-id="ts387" tvg-name="Star Maa Movies HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/zJLDtYvFFc.png" tvg-chno="838" group-title="None (TataSky)",Star Maa Movies HD
-https://botallen.live/t/387/master.m3u8
-#EXTINF:-1 tvg-id="ts388" tvg-name="Star Maa Gold" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/FOdLwsGxFo.png" tvg-chno="839" group-title="None (TataSky)",Star Maa Gold
-https://botallen.live/t/388/master.m3u8
-#EXTINF:-1 tvg-id="ts415" tvg-name="News11 Bharat" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/qvqNHEsZzg.png" tvg-chno="840" group-title="None (TataSky)",News11 Bharat
-https://botallen.live/t/415/master.m3u8
-#EXTINF:-1 tvg-id="ts437" tvg-name="Romedy Now HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/tDrHWKGrRb.png" tvg-chno="842" group-title="None (TataSky)",Romedy Now HD
-https://botallen.live/t/437/master.m3u8
-#EXTINF:-1 tvg-id="ts447" tvg-name="Sadhna TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/tMRvLjUgVD.png" tvg-chno="844" group-title="None (TataSky)",Sadhna TV
-https://botallen.live/t/447/master.m3u8
-#EXTINF:-1 tvg-id="ts464" tvg-name="SONY TEN 3 HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/OigxXEVzVf.png" tvg-chno="846" group-title="None (TataSky)",SONY TEN 3 HD
-https://botallen.live/t/464/master.m3u8
-#EXTINF:-1 tvg-id="ts468" tvg-name="Star Jalsha HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/tpezvnuqDS.png" tvg-chno="847" group-title="None (TataSky)",Star Jalsha HD
-https://botallen.live/t/468/master.m3u8
-#EXTINF:-1 tvg-id="ts496" tvg-name="Star Vijay HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/psMBUuKRVi.png" tvg-chno="849" group-title="None (TataSky)",Star Vijay HD
-https://botallen.live/t/496/master.m3u8
-#EXTINF:-1 tvg-id="ts501" tvg-name="Zee Marathi HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/JmrVEMRHuG.png" tvg-chno="850" group-title="None (TataSky)",Zee Marathi HD
-https://botallen.live/t/501/master.m3u8
-#EXTINF:-1 tvg-id="ts509" tvg-name="Polimer News" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/rRqzuPWfjH.png" tvg-chno="852" group-title="Tamil (TataSky)",Polimer News
-https://botallen.live/t/509/master.m3u8
-#EXTINF:-1 tvg-id="ts515" tvg-name="Zee Talkies HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/pTtsCscDLW.png" tvg-chno="854" group-title="None (TataSky)",Zee Talkies HD
-https://botallen.live/t/515/master.m3u8
-#EXTINF:-1 tvg-id="ts516" tvg-name="STAR Maa HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/XCOkItPxdk.png" tvg-chno="855" group-title="None (TataSky)",STAR Maa HD
-https://botallen.live/t/516/master.m3u8
-#EXTINF:-1 tvg-id="ts521" tvg-name="Sun TV HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/BygZggamef.png" tvg-chno="856" group-title="None (TataSky)",Sun TV HD
-https://botallen.live/t/521/master.m3u8
-#EXTINF:-1 tvg-id="ts522" tvg-name="Zee Bangla HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/JanUuytxgE.png" tvg-chno="857" group-title="None (TataSky)",Zee Bangla HD
-https://botallen.live/t/522/master.m3u8
-#EXTINF:-1 tvg-id="ts524" tvg-name="Thanthi TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/HcStvxvWqz.png" tvg-chno="858" group-title="Tamil (TataSky)",Thanthi TV
-https://botallen.live/t/524/master.m3u8
-#EXTINF:-1 tvg-id="ts537" tvg-name="Jalsha Movies HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/zSsmeBIqsv.png" tvg-chno="859" group-title="None (TataSky)",Jalsha Movies HD
-https://botallen.live/t/537/master.m3u8
-#EXTINF:-1 tvg-id="ts547" tvg-name="Times Now World" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/TrcHcPYfAL.png" tvg-chno="860" group-title="None (TataSky)",Times Now World
-https://botallen.live/t/547/master.m3u8
-#EXTINF:-1 tvg-id="ts557" tvg-name="Zee TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/gQBvJmwEAR.png" tvg-chno="861" group-title="None (TataSky)",Zee TV
-https://botallen.live/t/557/master.m3u8
-#EXTINF:-1 tvg-id="ts572" tvg-name="Jalsha Movies" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/JuoLJnTTkh.png" tvg-chno="862" group-title="None (TataSky)",Jalsha Movies
-https://botallen.live/t/572/master.m3u8
-#EXTINF:-1 tvg-id="ts587" tvg-name="MARVEL HQ" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/BLdKdDwPfD.png" tvg-chno="863" group-title="None (TataSky)",MARVEL HQ
-https://botallen.live/t/587/master.m3u8
-#EXTINF:-1 tvg-id="ts591" tvg-name="MIRROR NOW" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/pXGLujlyaN.png" tvg-chno="864" group-title="None (TataSky)",MIRROR NOW
-https://botallen.live/t/591/master.m3u8
-#EXTINF:-1 tvg-id="ts599" tvg-name="MNX HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/zmKkSONrMb.png" tvg-chno="866" group-title="None (TataSky)",MNX HD
-https://botallen.live/t/599/master.m3u8
-#EXTINF:-1 tvg-id="ts605" tvg-name="National Geographic HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/raRMhafJrd.png" tvg-chno="867" group-title="None (TataSky)",National Geographic HD
-https://botallen.live/t/605/master.m3u8
-#EXTINF:-1 tvg-id="ts613" tvg-name="News State UP Uttarakhand" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/BWweBGUVNf.png" tvg-chno="868" group-title="None (TataSky)",News State UP Uttarakhand
-https://botallen.live/t/613/master.m3u8
-#EXTINF:-1 tvg-id="ts630" tvg-name="Hindu Dharmam" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/qCyGVjVrlU.png" tvg-chno="869" group-title="None (TataSky)",Hindu Dharmam
-https://botallen.live/t/630/master.m3u8
-#EXTINF:-1 tvg-id="ts632" tvg-name="Star GOLD HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/rQiIFTwapw.png" tvg-chno="870" group-title="None (TataSky)",Star GOLD HD
-https://botallen.live/t/632/master.m3u8
-#EXTINF:-1 tvg-id="ts635" tvg-name="Zee Telugu HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/mxahkHnOuL.png" tvg-chno="872" group-title="None (TataSky)",Zee Telugu HD
-https://botallen.live/t/635/master.m3u8
-#EXTINF:-1 tvg-id="ts636" tvg-name="Zee Cinemalu HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/rhvXhqicvI.png" tvg-chno="873" group-title="None (TataSky)",Zee Cinemalu HD
-https://botallen.live/t/636/master.m3u8
-#EXTINF:-1 tvg-id="ts637" tvg-name="Zee Uttar Pradesh Uttarakhand" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/xnsZgJkJtx.png" tvg-chno="874" group-title="None (TataSky)",Zee Uttar Pradesh Uttarakhand
-https://botallen.live/t/637/master.m3u8
-#EXTINF:-1 tvg-id="ts639" tvg-name="Tata Sky Show Bizz" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/rTEAYnIOHH.png" tvg-chno="875" group-title="None (TataSky)",Tata Sky Show Bizz
-https://botallen.live/t/639/master.m3u8
-#EXTINF:-1 tvg-id="ts643" tvg-name="News State MP CG" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/UlpvNRgbCo.png" tvg-chno="876" group-title="None (TataSky)",News State MP CG
-https://botallen.live/t/643/master.m3u8
-#EXTINF:-1 tvg-id="ts647" tvg-name="Isaiaruvi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/VbKCYWNaic.png" tvg-chno="877" group-title="None (TataSky)",Isaiaruvi
-https://botallen.live/t/647/master.m3u8
-#EXTINF:-1 tvg-id="ts650" tvg-name="First India Rajasthan" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/ceYWCkEwSh.png" tvg-chno="879" group-title="None (TataSky)",First India Rajasthan
-https://botallen.live/t/650/master.m3u8
-#EXTINF:-1 tvg-id="ts658" tvg-name="SONY MARATHI" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/mIrPTFAuFY.png" tvg-chno="880" group-title="None (TataSky)",SONY MARATHI
-https://botallen.live/t/658/master.m3u8
-#EXTINF:-1 tvg-id="ts665" tvg-name="Tata Sky Bhojpuri Sanima" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/rzRzDNVuwQ.png" tvg-chno="881" group-title="None (TataSky)",Tata Sky Bhojpuri Sanima
-https://botallen.live/t/665/master.m3u8
-#EXTINF:-1 tvg-id="ts681" tvg-name="Cartoon Network HD+" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/IsScNhCCed.png" tvg-chno="883" group-title="None (TataSky)",Cartoon Network HD+
-https://botallen.live/t/681/master.m3u8
-#EXTINF:-1 tvg-id="ts689" tvg-name="Aaj Tak HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/LEQpFheOkj.png" tvg-chno="885" group-title="None (TataSky)",Aaj Tak HD
-https://botallen.live/t/689/master.m3u8
-#EXTINF:-1 tvg-id="ts696" tvg-name="R.Bharat" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/MKSDHIAdZB.png" tvg-chno="887" group-title="None (TataSky)",R.Bharat
-https://botallen.live/t/696/master.m3u8
-#EXTINF:-1 tvg-id="ts698" tvg-name="INH 24X7" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/kureDEdssJ.png" tvg-chno="888" group-title="None (TataSky)",INH 24X7
-https://botallen.live/t/698/master.m3u8
-#EXTINF:-1 tvg-id="ts701" tvg-name="Jantantra" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/ualRUqpNkE.png" tvg-chno="889" group-title="None (TataSky)",Jantantra
-https://botallen.live/t/701/master.m3u8
-#EXTINF:-1 tvg-id="ts708" tvg-name="Jaya TV HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/LiZYrlEMbQ.png" tvg-chno="891" group-title="Tamil (TataSky)",Jaya TV HD
-https://botallen.live/t/708/master.m3u8
-#EXTINF:-1 tvg-id="ts727" tvg-name="Zee Classic" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/YFJwbRLFyy.png" tvg-chno="892" group-title="None (TataSky)",Zee Classic
-https://botallen.live/t/727/master.m3u8
-#EXTINF:-1 tvg-id="ts728" tvg-name="Subharti TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/EuVtWFLueO.png" tvg-chno="893" group-title="None (TataSky)",Subharti TV
-https://botallen.live/t/728/master.m3u8
-#EXTINF:-1 tvg-id="ts733" tvg-name="Showbox" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/ypDGUIXbnP.png" tvg-chno="895" group-title="None (TataSky)",Showbox
-https://botallen.live/t/733/master.m3u8
-#EXTINF:-1 tvg-id="ts774" tvg-name="4tv News" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/jDfUZtrjIO.png" tvg-chno="896" group-title="None (TataSky)",4tv News
-https://botallen.live/t/774/master.m3u8
-#EXTINF:-1 tvg-id="ts775" tvg-name="DIVYA" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/xAqluBKPhI.png" tvg-chno="897" group-title="None (TataSky)",DIVYA
-https://botallen.live/t/775/master.m3u8
-#EXTINF:-1 tvg-id="ts781" tvg-name="Prudent" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/oUsUCDeYOy.png" tvg-chno="899" group-title="None (TataSky)",Prudent
-https://botallen.live/t/781/master.m3u8
-#EXTINF:-1 tvg-id="ts790" tvg-name="Ek Onkar" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/BfzteoGGnt.png" tvg-chno="900" group-title="None (TataSky)",Ek Onkar
-https://botallen.live/t/790/master.m3u8
-#EXTINF:-1 tvg-id="ts791" tvg-name="Fateh TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/UIqPAahvCe.png" tvg-chno="901" group-title="None (TataSky)",Fateh TV
-https://botallen.live/t/791/master.m3u8
-#EXTINF:-1 tvg-id="ts797" tvg-name="Zee Thirai" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/fkvGbgydOk.png" tvg-chno="902" group-title="None (TataSky)",Zee Thirai
-https://botallen.live/t/797/master.m3u8
-#EXTINF:-1 tvg-id="ts800" tvg-name="Shemaroo MarathiBana" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/DLwGPEMcen.png" tvg-chno="903" group-title="None (TataSky)",Shemaroo MarathiBana
-https://botallen.live/t/800/master.m3u8
-#EXTINF:-1 tvg-id="ts814" tvg-name="Zee Biskope" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/QzUasoWiYh.png" tvg-chno="905" group-title="None (TataSky)",Zee Biskope
-https://botallen.live/t/814/master.m3u8
-#EXTINF:-1 tvg-id="ts816" tvg-name="CBeeBies" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/vWmcygdqnR.png" tvg-chno="907" group-title="None (TataSky)",CBeeBies
-https://botallen.live/t/816/master.m3u8
-#EXTINF:-1 tvg-id="ts817" tvg-name="DD Retro" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/rRCzoCkYcp.png" tvg-chno="908" group-title="None (TataSky)",DD Retro
-https://botallen.live/t/817/master.m3u8
-#EXTINF:-1 tvg-id="ts818" tvg-name="Shemaroo TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/VvxzRXnuZH.png" tvg-chno="909" group-title="None (TataSky)",Shemaroo TV
-https://botallen.live/t/818/master.m3u8
-#EXTINF:-1 tvg-id="ts823" tvg-name="Dhinchaak" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/ZimNGRWSUB.png" tvg-chno="910" group-title="None (TataSky)",Dhinchaak
-https://botallen.live/t/823/master.m3u8
-#EXTINF:-1 tvg-id="ts840" tvg-name="Shirdi Sai Baba" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/zYGQfQsDMV.png" tvg-chno="911" group-title="None (TataSky)",Shirdi Sai Baba
-https://botallen.live/t/840/master.m3u8
-#EXTINF:-1 tvg-id="ts841" tvg-name="Mahakaleshwar Temple, Ujjain" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/PZHyYhRIDh.png" tvg-chno="912" group-title="None (TataSky)", Ujjain
-https://botallen.live/t/841/master.m3u8
-#EXTINF:-1 tvg-id="ts842" tvg-name="Somnath Temple" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/znKaFeewJi.png" tvg-chno="913" group-title="None (TataSky)",Somnath Temple
-https://botallen.live/t/842/master.m3u8
-#EXTINF:-1 tvg-id="ts843" tvg-name="ISKCON Mumbai" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/AUfPRHiMmH.png" tvg-chno="914" group-title="None (TataSky)",ISKCON Mumbai
-https://botallen.live/t/843/master.m3u8
-#EXTINF:-1 tvg-id="ts849" tvg-name="Kashi Vishwanath Temple, Varanasi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/cmyBZfznWX.png" tvg-chno="915" group-title="None (TataSky)", Varanasi
-https://botallen.live/t/849/master.m3u8
-#EXTINF:-1 tvg-id="ts864" tvg-name="Tata Sky CuriosityStream" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/fNpLnJHZEo.png" tvg-chno="916" group-title="None (TataSky)",Tata Sky CuriosityStream
-https://botallen.live/t/864/master.m3u8
-#EXTINF:-1 tvg-id="ts866" tvg-name="Tara News" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/lxZyLmtyTN.png" tvg-chno="917" group-title="None (TataSky)",Tara News
-https://botallen.live/t/866/master.m3u8
-#EXTINF:-1 tvg-id="ts6" tvg-name="News18 Gujarati" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/XwmKpkFoWR.png" tvg-chno="918" group-title="None (TataSky)",News18 Gujarati
-https://botallen.live/t/6/master.m3u8
-#EXTINF:-1 tvg-id="ts10" tvg-name="Flowers" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/hlWvpFyiEx.png" tvg-chno="919" group-title="None (TataSky)",Flowers
-https://botallen.live/t/10/master.m3u8
-#EXTINF:-1 tvg-id="ts21" tvg-name="News 7 Tamil" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/HXFdlfpIUz.png" tvg-chno="920" group-title="None (TataSky)",News 7 Tamil
-https://botallen.live/t/21/master.m3u8
-#EXTINF:-1 tvg-id="ts28" tvg-name="Alankar" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/nqfEuiwtjZ.png" tvg-chno="922" group-title="None (TataSky)",Alankar
-https://botallen.live/t/28/master.m3u8
-#EXTINF:-1 tvg-id="ts37" tvg-name="Mega TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/DUHXrcRzqQ.png" tvg-chno="924" group-title="None (TataSky)",Mega TV
-https://botallen.live/t/37/master.m3u8
-#EXTINF:-1 tvg-id="ts41" tvg-name="News18 Odia" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/PPKLYOTyzH.png" tvg-chno="925" group-title="None (TataSky)",News18 Odia
-https://botallen.live/t/41/master.m3u8
-#EXTINF:-1 tvg-id="ts58" tvg-name="News18 Tamil Nadu" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/xaOrItUYFc.png" tvg-chno="927" group-title="None (TataSky)",News18 Tamil Nadu
-https://botallen.live/t/58/master.m3u8
-#EXTINF:-1 tvg-id="ts66" tvg-name="News18 Kerala" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/HCRJvBQfqe.png" tvg-chno="929" group-title="None (TataSky)",News18 Kerala
-https://botallen.live/t/66/master.m3u8
-#EXTINF:-1 tvg-id="ts68" tvg-name="News18 Assam North East" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/OFbPNdlLDQ.png" tvg-chno="930" group-title="None (TataSky)",News18 Assam North East
-https://botallen.live/t/68/master.m3u8
-#EXTINF:-1 tvg-id="ts73" tvg-name="ABP Asmita" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/cwVldHmtCR.png" tvg-chno="931" group-title="None (TataSky)",ABP Asmita
-https://botallen.live/t/73/master.m3u8
-#EXTINF:-1 tvg-id="ts85" tvg-name="News18 Kannada" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/BUyqLbcFuN.png" tvg-chno="932" group-title="None (TataSky)",News18 Kannada
-https://botallen.live/t/85/master.m3u8
-#EXTINF:-1 tvg-id="ts99" tvg-name="D Tamil" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/kygIHzBclw.png" tvg-chno="936" group-title="Tamil (TataSky)",D Tamil
-https://botallen.live/t/99/master.m3u8
-#EXTINF:-1 tvg-id="ts152" tvg-name="TV9 Kannada" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/QJVYeoJNHS.png" tvg-chno="941" group-title="None (TataSky)",TV9 Kannada
-https://botallen.live/t/152/master.m3u8
-#EXTINF:-1 tvg-id="ts196" tvg-name="Kasthuri" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/uQcKfcunYx.png" tvg-chno="944" group-title="None (TataSky)",Kasthuri
-https://botallen.live/t/196/master.m3u8
-#EXTINF:-1 tvg-id="ts198" tvg-name="Jaya Plus" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/DKmfzYAadr.png" tvg-chno="945" group-title="Tamil (TataSky)",Jaya Plus
-https://botallen.live/t/198/master.m3u8
-#EXTINF:-1 tvg-id="ts199" tvg-name="Jaya Max" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/vAyKfxJcEt.png" tvg-chno="946" group-title="Tamil (TataSky)",Jaya Max
-https://botallen.live/t/199/master.m3u8
-#EXTINF:-1 tvg-id="ts201" tvg-name="J Movies" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/SZMqRwhsKx.png" tvg-chno="947" group-title="Tamil (TataSky)",J Movies
-https://botallen.live/t/201/master.m3u8
-#EXTINF:-1 tvg-id="ts214" tvg-name="Rengoni TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/HgYUQsWGuZ.png" tvg-chno="949" group-title="None (TataSky)",Rengoni TV
-https://botallen.live/t/214/master.m3u8
-#EXTINF:-1 tvg-id="ts218" tvg-name="SVBC Telugu" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/mqXeDWzqlE.png" tvg-chno="950" group-title="None (TataSky)",SVBC Telugu
-https://botallen.live/t/218/master.m3u8
-#EXTINF:-1 tvg-id="ts221" tvg-name="Protidin Time" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/pgfbGqoJrC.png" tvg-chno="951" group-title="None (TataSky)",Protidin Time
-https://botallen.live/t/221/master.m3u8
-#EXTINF:-1 tvg-id="ts224" tvg-name="E24" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/fdgFbKURIB.png" tvg-chno="952" group-title="None (TataSky)",E24
-https://botallen.live/t/224/master.m3u8
-#EXTINF:-1 tvg-id="ts226" tvg-name="News Live" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/LnnJBAupXR.png" tvg-chno="953" group-title="None (TataSky)",News Live
-https://botallen.live/t/226/master.m3u8
-#EXTINF:-1 tvg-id="ts229" tvg-name="Surya Movies" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/dpEASvFhUn.png" tvg-chno="954" group-title="None (TataSky)",Surya Movies
-https://botallen.live/t/229/master.m3u8
-#EXTINF:-1 tvg-id="ts230" tvg-name="Surya TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/kvCmkpJZQW.png" tvg-chno="955" group-title="None (TataSky)",Surya TV
-https://botallen.live/t/230/master.m3u8
-#EXTINF:-1 tvg-id="ts231" tvg-name="Udaya Movies" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/uDGyFajqjs.png" tvg-chno="956" group-title="None (TataSky)",Udaya Movies
-https://botallen.live/t/231/master.m3u8
-#EXTINF:-1 tvg-id="ts232" tvg-name="News18 Punjab Haryana Himachal" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/CCsVVLrCec.png" tvg-chno="957" group-title="None (TataSky)",News18 Punjab Haryana Himachal
-https://botallen.live/t/232/master.m3u8
-#EXTINF:-1 tvg-id="ts292" tvg-name="Asianet HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/rPNBLXeOjT.png" tvg-chno="961" group-title="None (TataSky)",Asianet HD
-https://botallen.live/t/292/master.m3u8
-#EXTINF:-1 tvg-id="ts293" tvg-name="Asianet Movies" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/TpRBzTmKyy.png" tvg-chno="962" group-title="None (TataSky)",Asianet Movies
-https://botallen.live/t/293/master.m3u8
-#EXTINF:-1 tvg-id="ts294" tvg-name="Asianet Plus" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/lqRSENYJfE.png" tvg-chno="963" group-title="None (TataSky)",Asianet Plus
-https://botallen.live/t/294/master.m3u8
-#EXTINF:-1 tvg-id="ts297" tvg-name="Big Magic" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/Njkuahoeuz.png" tvg-chno="965" group-title="None (TataSky)",Big Magic
-https://botallen.live/t/297/master.m3u8
-#EXTINF:-1 tvg-id="ts303" tvg-name="CNBC Bajaar" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/yrlqLrvVyN.png" tvg-chno="966" group-title="None (TataSky)",CNBC Bajaar
-https://botallen.live/t/303/master.m3u8
-#EXTINF:-1 tvg-id="ts321" tvg-name="DD Chandana" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/NFlukgFYJf.png" tvg-chno="969" group-title="None (TataSky)",DD Chandana
-https://botallen.live/t/321/master.m3u8
-#EXTINF:-1 tvg-id="ts325" tvg-name="DD Kashir" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/SmxxRLCAhq.png" tvg-chno="972" group-title="None (TataSky)",DD Kashir
-https://botallen.live/t/325/master.m3u8
-#EXTINF:-1 tvg-id="ts328" tvg-name="DD Malayalam" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/MiwsuVRESd.png" tvg-chno="974" group-title="None (TataSky)",DD Malayalam
-https://botallen.live/t/328/master.m3u8
-#EXTINF:-1 tvg-id="ts331" tvg-name="DD North East" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/VQIKweQSJD.png" tvg-chno="975" group-title="None (TataSky)",DD North East
-https://botallen.live/t/331/master.m3u8
-#EXTINF:-1 tvg-id="ts332" tvg-name="DD Rajasthan" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/ImJpuyUJJB.png" tvg-chno="976" group-title="None (TataSky)",DD Rajasthan
-https://botallen.live/t/332/master.m3u8
-#EXTINF:-1 tvg-id="ts333" tvg-name="DD Odia" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/VdcNiHUGhh.png" tvg-chno="977" group-title="None (TataSky)",DD Odia
-https://botallen.live/t/333/master.m3u8
-#EXTINF:-1 tvg-id="ts334" tvg-name="DD Podhigai" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/cLDZZbmdTt.png" tvg-chno="978" group-title="None (TataSky)",DD Podhigai
-https://botallen.live/t/334/master.m3u8
-#EXTINF:-1 tvg-id="ts336" tvg-name="DD Sahyadri" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/moKwdbpSct.png" tvg-chno="980" group-title="None (TataSky)",DD Sahyadri
-https://botallen.live/t/336/master.m3u8
-#EXTINF:-1 tvg-id="ts339" tvg-name="DD Uttar Pradesh" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/eywBjUeahC.png" tvg-chno="981" group-title="None (TataSky)",DD Uttar Pradesh
-https://botallen.live/t/339/master.m3u8
-#EXTINF:-1 tvg-id="ts350" tvg-name="Dishum" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/ujzGFEiInr.png" tvg-chno="983" group-title="None (TataSky)",Dishum
-https://botallen.live/t/350/master.m3u8
-#EXTINF:-1 tvg-id="ts366" tvg-name="India News Punjab" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/vjlzFsgKgj.png" tvg-chno="985" group-title="None (TataSky)",India News Punjab
-https://botallen.live/t/366/master.m3u8
-#EXTINF:-1 tvg-id="ts367" tvg-name="FOX Life HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/gVwcWNjtNp.png" tvg-chno="986" group-title="None (TataSky)",FOX Life HD
-https://botallen.live/t/367/master.m3u8
-#EXTINF:-1 tvg-id="ts368" tvg-name="Indradhanu" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/sDTyHrjUDg.png" tvg-chno="987" group-title="None (TataSky)",Indradhanu
-https://botallen.live/t/368/master.m3u8
-#EXTINF:-1 tvg-id="ts380" tvg-name="KTV HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/iuIOuFUfZu.png" tvg-chno="991" group-title="None (TataSky)",KTV HD
-https://botallen.live/t/380/master.m3u8
-#EXTINF:-1 tvg-id="ts391" tvg-name="MalaiMurasu Seithigal" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/BYBjgJufnm.png" tvg-chno="992" group-title="None (TataSky)",MalaiMurasu Seithigal
-https://botallen.live/t/391/master.m3u8
-#EXTINF:-1 tvg-id="ts392" tvg-name="Makkal TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/bwNCBVqCav.png" tvg-chno="993" group-title="Tamil (TataSky)",Makkal TV
-https://botallen.live/t/392/master.m3u8
-#EXTINF:-1 tvg-id="ts395" tvg-name="Mazhavil Manorama HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/WYYWyNWeUy.png" tvg-chno="995" group-title="None (TataSky)",Mazhavil Manorama HD
-https://botallen.live/t/395/master.m3u8
-#EXTINF:-1 tvg-id="ts397" tvg-name="MH One Shraddha" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/acSRCtAubK.png" tvg-chno="996" group-title="None (TataSky)",MH One Shraddha
-https://botallen.live/t/397/master.m3u8
-#EXTINF:-1 tvg-id="ts399" tvg-name="MH One" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/RzoCRlrGgz.png" tvg-chno="997" group-title="None (TataSky)",MH One
-https://botallen.live/t/399/master.m3u8
-#EXTINF:-1 tvg-id="ts406" tvg-name="MTV HD+" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/rqBZsmCajP.png" tvg-chno="1000" group-title="None (TataSky)",MTV HD+
-https://botallen.live/t/406/master.m3u8
-#EXTINF:-1 tvg-id="ts411" tvg-name="Murasu TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/NIotWHpYiW.png" tvg-chno="1001" group-title="None (TataSky)",Murasu TV
-https://botallen.live/t/411/master.m3u8
-#EXTINF:-1 tvg-id="ts413" tvg-name="Nat Geo Wild HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/dImnGOPnXd.png" tvg-chno="1002" group-title="None (TataSky)",Nat Geo Wild HD
-https://botallen.live/t/413/master.m3u8
-#EXTINF:-1 tvg-id="ts418" tvg-name="Colors Tamil" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/yhTaJVsGfs.png" tvg-chno="1004" group-title="None (TataSky)",Colors Tamil
-https://botallen.live/t/418/master.m3u8
-#EXTINF:-1 tvg-id="ts419" tvg-name="OTV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/hRgnxJVgbR.png" tvg-chno="1005" group-title="None (TataSky)",OTV
-https://botallen.live/t/419/master.m3u8
-#EXTINF:-1 tvg-id="ts421" tvg-name="Peppers TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/qtNnoywpQx.png" tvg-chno="1007" group-title="None (TataSky)",Peppers TV
-https://botallen.live/t/421/master.m3u8
-#EXTINF:-1 tvg-id="ts423" tvg-name="Prag News" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/clLDXjwpUC.png" tvg-chno="1008" group-title="None (TataSky)",Prag News
-https://botallen.live/t/423/master.m3u8
-#EXTINF:-1 tvg-id="ts426" tvg-name="Raj Digital Plus" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/DKfrgfgKJZ.png" tvg-chno="1010" group-title="Tamil (TataSky)",Raj Digital Plus
-https://botallen.live/t/426/master.m3u8
-#EXTINF:-1 tvg-id="ts427" tvg-name="Raj Musix Kannada" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/RqNqTVfDAG.png" tvg-chno="1011" group-title="None (TataSky)",Raj Musix Kannada
-https://botallen.live/t/427/master.m3u8
-#EXTINF:-1 tvg-id="ts429" tvg-name="Raj Musix Telugu" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/ardESIXoDX.png" tvg-chno="1013" group-title="None (TataSky)",Raj Musix Telugu
-https://botallen.live/t/429/master.m3u8
-#EXTINF:-1 tvg-id="ts439" tvg-name="Raj TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/bDRFIbhzHD.png" tvg-chno="1015" group-title="Tamil (TataSky)",Raj TV
-https://botallen.live/t/439/master.m3u8
-#EXTINF:-1 tvg-id="ts444" tvg-name="Travelxp Tamil" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/DbiPZPQaEb.png" tvg-chno="1016" group-title="None (TataSky)",Travelxp Tamil
-https://botallen.live/t/444/master.m3u8
-#EXTINF:-1 tvg-id="ts457" tvg-name="Shalom TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/ahLsTobOLL.png" tvg-chno="1018" group-title="None (TataSky)",Shalom TV
-https://botallen.live/t/457/master.m3u8
-#EXTINF:-1 tvg-id="ts462" tvg-name="SONY TEN 2 HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/SEVdYDgbJg.png" tvg-chno="1020" group-title="None (TataSky)",SONY TEN 2 HD
-https://botallen.live/t/462/master.m3u8
-#EXTINF:-1 tvg-id="ts463" tvg-name="Star Sports Select 2 HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/yTiRZUJMgP.png" tvg-chno="1021" group-title="None (TataSky)",Star Sports Select 2 HD
-https://botallen.live/t/463/master.m3u8
-#EXTINF:-1 tvg-id="ts467" tvg-name="Star Suvarna HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/YCqERLuyjD.png" tvg-chno="1022" group-title="None (TataSky)",Star Suvarna HD
-https://botallen.live/t/467/master.m3u8
-#EXTINF:-1 tvg-id="ts469" tvg-name="Star Pravah HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/kNADLuFkeu.png" tvg-chno="1023" group-title="None (TataSky)",Star Pravah HD
-https://botallen.live/t/469/master.m3u8
-#EXTINF:-1 tvg-id="ts475" tvg-name="Sudarshan News" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/MRdZbCkNgz.png" tvg-chno="1024" group-title="None (TataSky)",Sudarshan News
-https://botallen.live/t/475/master.m3u8
-#EXTINF:-1 tvg-id="ts477" tvg-name="Sri Sankara TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/ZZcJOqokHc.png" tvg-chno="1025" group-title="None (TataSky)",Sri Sankara TV
-https://botallen.live/t/477/master.m3u8
-#EXTINF:-1 tvg-id="ts484" tvg-name="Travelxp HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/BzdtTTgGiO.png" tvg-chno="1026" group-title="None (TataSky)",Travelxp HD
-https://botallen.live/t/484/master.m3u8
-#EXTINF:-1 tvg-id="ts489" tvg-name="TV9 Gujarati" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/TSHVBHaVos.png" tvg-chno="1027" group-title="None (TataSky)",TV9 Gujarati
-https://botallen.live/t/489/master.m3u8
-#EXTINF:-1 tvg-id="ts490" tvg-name="SVBC 2" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/jWSrEeSNSF.png" tvg-chno="1028" group-title="None (TataSky)",SVBC 2
-https://botallen.live/t/490/master.m3u8
-#EXTINF:-1 tvg-id="ts492" tvg-name="Udaya TV HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/MBsaoAsMiK.png" tvg-chno="1029" group-title="None (TataSky)",Udaya TV HD
-https://botallen.live/t/492/master.m3u8
-#EXTINF:-1 tvg-id="ts499" tvg-name="Vasanth TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/rBaKsARMIN.png" tvg-chno="1031" group-title="Tamil (TataSky)",Vasanth TV
-https://botallen.live/t/499/master.m3u8
-#EXTINF:-1 tvg-id="ts500" tvg-name="Vedic" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/dyDvFzZYIl.png" tvg-chno="1032" group-title="None (TataSky)",Vedic
-https://botallen.live/t/500/master.m3u8
-#EXTINF:-1 tvg-id="ts512" tvg-name="Zee Madhya Pradesh Chattisgarh" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/PGtVoKTWGn.png" tvg-chno="1035" group-title="None (TataSky)",Zee Madhya Pradesh Chattisgarh
-https://botallen.live/t/512/master.m3u8
-#EXTINF:-1 tvg-id="ts532" tvg-name="Asianet News" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/jSQkoqzlWd.png" tvg-chno="1037" group-title="None (TataSky)",Asianet News
-https://botallen.live/t/532/master.m3u8
-#EXTINF:-1 tvg-id="ts540" tvg-name="Star Suvarna Plus" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/ztfJNjxhyO.png" tvg-chno="1039" group-title="None (TataSky)",Star Suvarna Plus
-https://botallen.live/t/540/master.m3u8
-#EXTINF:-1 tvg-id="ts541" tvg-name="Raj Musix Malayalam" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/FHaKtQewla.png" tvg-chno="1040" group-title="None (TataSky)",Raj Musix Malayalam
-https://botallen.live/t/541/master.m3u8
-#EXTINF:-1 tvg-id="ts548" tvg-name="DD Yadagiri" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/lbUIlyOVja.png" tvg-chno="1042" group-title="None (TataSky)",DD Yadagiri
-https://botallen.live/t/548/master.m3u8
-#EXTINF:-1 tvg-id="ts552" tvg-name="Gujarat Samachar TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/MvBqmxYXbF.png" tvg-chno="1043" group-title="None (TataSky)",Gujarat Samachar TV
-https://botallen.live/t/552/master.m3u8
-#EXTINF:-1 tvg-id="ts553" tvg-name="We TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/LhcydcVHoN.png" tvg-chno="1044" group-title="None (TataSky)",We TV
-https://botallen.live/t/553/master.m3u8
-#EXTINF:-1 tvg-id="ts562" tvg-name="Movies Now HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/UxDqBXGiUV.png" tvg-chno="1045" group-title="None (TataSky)",Movies Now HD
-https://botallen.live/t/562/master.m3u8
-#EXTINF:-1 tvg-id="ts567" tvg-name="Nepal 1" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/JQxnxWTPIq.png" tvg-chno="1046" group-title="None (TataSky)",Nepal 1
-https://botallen.live/t/567/master.m3u8
-#EXTINF:-1 tvg-id="ts568" tvg-name="Prarthana TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/SeeTarrOqO.png" tvg-chno="1047" group-title="None (TataSky)",Prarthana TV
-https://botallen.live/t/568/master.m3u8
-#EXTINF:-1 tvg-id="ts580" tvg-name="Zee Punjab Haryana Himachal Pradesh" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/RNGfFqiWSC.png" tvg-chno="1048" group-title="None (TataSky)",Zee Punjab Haryana Himachal Pradesh
-https://botallen.live/t/580/master.m3u8
-#EXTINF:-1 tvg-id="ts583" tvg-name="Zee Rajasthan News" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/rAThaOTDfo.png" tvg-chno="1049" group-title="None (TataSky)",Zee Rajasthan News
-https://botallen.live/t/583/master.m3u8
-#EXTINF:-1 tvg-id="ts597" tvg-name="Zee Sarthak" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/VLDDFKbKCC.png" tvg-chno="1051" group-title="None (TataSky)",Zee Sarthak
-https://botallen.live/t/597/master.m3u8
-#EXTINF:-1 tvg-id="ts608" tvg-name="Zee Tamil HD" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/iSfzklDZMR.png" tvg-chno="1052" group-title="None (TataSky)",Zee Tamil HD
-https://botallen.live/t/608/master.m3u8
-#EXTINF:-1 tvg-id="ts611" tvg-name="Sirippoli" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/FAMjNEcYWC.png" tvg-chno="1053" group-title="None (TataSky)",Sirippoli
-https://botallen.live/t/611/master.m3u8
-#EXTINF:-1 tvg-id="ts624" tvg-name="Pitaara TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/jALdLxvQfp.png" tvg-chno="1055" group-title="None (TataSky)",Pitaara TV
-https://botallen.live/t/624/master.m3u8
-#EXTINF:-1 tvg-id="ts629" tvg-name="TV5 Kannada" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/ZKYMoQlIaU.png" tvg-chno="1057" group-title="None (TataSky)",TV5 Kannada
-https://botallen.live/t/629/master.m3u8
-#EXTINF:-1 tvg-id="ts654" tvg-name="India News Gujarat" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/vKdSlUvqsK.png" tvg-chno="1058" group-title="None (TataSky)",India News Gujarat
-https://botallen.live/t/654/master.m3u8
-#EXTINF:-1 tvg-id="ts662" tvg-name="Tata Sky Family Health" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/iMhpBoQOVL.png" tvg-chno="1059" group-title="None (TataSky)",Tata Sky Family Health
-https://botallen.live/t/662/master.m3u8
-#EXTINF:-1 tvg-id="ts667" tvg-name="Colors Kannada Cinema" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/rTqvpGZBrv.png" tvg-chno="1060" group-title="None (TataSky)",Colors Kannada Cinema
-https://botallen.live/t/667/master.m3u8
-#EXTINF:-1 tvg-id="ts684" tvg-name="Zee Keralam" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/vNAQCiPwAl.png" tvg-chno="1062" group-title="None (TataSky)",Zee Keralam
-https://botallen.live/t/684/master.m3u8
-#EXTINF:-1 tvg-id="ts692" tvg-name="Colors Gujarati Cinema" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/cbODzCwevs.png" tvg-chno="1063" group-title="None (TataSky)",Colors Gujarati Cinema
-https://botallen.live/t/692/master.m3u8
-#EXTINF:-1 tvg-id="ts782" tvg-name="Namma TV" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/VKzvOggLCG.png" tvg-chno="1064" group-title="None (TataSky)",Namma TV
-https://botallen.live/t/782/master.m3u8
-#EXTINF:-1 tvg-id="ts794" tvg-name="PTC Punjabi Gold" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/dwblTCSGEP.png" tvg-chno="1066" group-title="None (TataSky)",PTC Punjabi Gold
-https://botallen.live/t/794/master.m3u8
-#EXTINF:-1 tvg-id="ts796" tvg-name="Zee Punjabi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/YhJVFtjzge.png" tvg-chno="1067" group-title="None (TataSky)",Zee Punjabi
-https://botallen.live/t/796/master.m3u8
-#EXTINF:-1 tvg-id="ts806" tvg-name="Boogle Bollywood" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/qQTSRxZfUA.png" tvg-chno="1068" group-title="None (TataSky)",Boogle Bollywood
-https://botallen.live/t/806/master.m3u8
-#EXTINF:-1 tvg-id="ts810" tvg-name="Zee Picchar" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/KwVkRCqYbf.png" tvg-chno="1069" group-title="None (TataSky)",Zee Picchar
-https://botallen.live/t/810/master.m3u8
-#EXTINF:-1 tvg-id="ts822" tvg-name="Manjari" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/LkFsgBQFUY.png" tvg-chno="1070" group-title="None (TataSky)",Manjari
-https://botallen.live/t/822/master.m3u8
-
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/14020/500x750_SunTVHD_14020_6c8b0d77-dfb1-4456-8af8-6b219c28885d.jpg" group-title="SUNNXT-LIVE",SUN TV HD
+http://193.161.193.99:49103/szs/trial/sun.php?c=14020
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/38926/500x750_SunNews_38926_d9234353-be56-4e69-8bbd-c3b15378e7cb.jpg" group-title="SUNNXT-LIVE",SUN NEWS
+http://193.161.193.99:49103/szs/trial/sun.php?c=38926
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26566/500x750_KTVHD_26566_3f1d6cd3-6142-43b8-b78c-860477a91b90.jpg" group-title="SUNNXT-LIVE",KTV HD
+http://193.161.193.99:49103/szs/trial/sun.php?c=26566
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9013/500x750_SunMusicHD_9013_a1f6d6ac-015b-4e0f-b756-bc331824e590.jpg" group-title="SUNNXT-LIVE",SUN MUSIC HD
+http://193.161.193.99:49103/szs/trial/sun.php?c=9013
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26569/500x750_SunLife_26569_b149631f-04c2-41f5-bb30-c23d0127336b.jpg" group-title="SUNNXT-LIVE",SUN LIFE
+http://193.161.193.99:49103/szs/trial/sun.php?c=26569
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9023/500x750_AdithyaTV_9023_8d1754a9-b044-4782-9bf6-f8eec1c7a165.jpg" group-title="SUNNXT-LIVE",ADITHYA TV
+http://193.161.193.99:49103/szs/trial/sun.php?c=9023
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26567/500x750_ChuttiTV_26567_f5c8f413-9a9c-4e75-ab9c-ae52e44230bf.jpg" group-title="SUNNXT-LIVE",CHUTTI TV
+http://193.161.193.99:49103/szs/trial/sun.php?c=26567
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9016/500x750_SunTV_9016_2f6432cf-c588-4fe3-a7d8-76ca4abe64b4.jpg" group-title="SUNNXT-LIVE",SUN TV
+http://193.161.193.99:49103/szs/trial/sun.php?c=9016
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/32138/500x750_KTV_32138_d242116d-02e1-44d3-ae76-0e2096c8667d.jpg" group-title="SUNNXT-LIVE",KTV
+http://193.161.193.99:49103/szs/trial/sun.php?c=32138
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9025/500x750_SunMusic_9025_ce616d71-a7be-4895-9c88-26f6fb8e796f.jpg" group-title="SUNNXT-LIVE",SUN MUSIC
+http://193.161.193.99:49103/szs/trial/sun.php?c=9025
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/14019/500x750_GeminiTVHD_14019_5fa8aaf5-5e27-464c-872c-7e1bf293cf93.jpg" group-title="SUNNXT-LIVE",GEMINI TV HD
+http://193.161.193.99:49103/szs/trial/sun.php?c=14019
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26570/500x750_GeminiMoviesHD_26570_743fe85a-9e51-4507-b702-c63590daa3d2.jpg" group-title="SUNNXT-LIVE",GEMINI MOVIES HD
+http://193.161.193.99:49103/szs/trial/sun.php?c=26570
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26568/500x750_GeminiMusicHD_26568_cbcdc74e-84c6-45a0-b5ed-a5c0059464e1.jpg" group-title="SUNNXT-LIVE",GEMINI MUSIC HD
+http://193.161.193.99:49103/szs/trial/sun.php?c=26568
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9027/500x750_GeminiComedy_9027_d7c77356-6721-41c4-825a-8755000b40db.jpg" group-title="SUNNXT-LIVE",GEMINI COMEDY
+http://193.161.193.99:49103/szs/trial/sun.php?c=9027
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26572/500x750_GeminiLife_26572_5e588a65-6d80-4abe-a788-dd8e43f5fe14.jpg" group-title="SUNNXT-LIVE",GEMINI LIFE
+http://193.161.193.99:49103/szs/trial/sun.php?c=26572
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26571/500x750_KushiTV_26571_6a972e5a-f624-4e0e-ac68-1689dab237db.jpg" group-title="SUNNXT-LIVE",KUSHI TV
+http://193.161.193.99:49103/szs/trial/sun.php?c=26571
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9017/500x750_GeminiTV_9017_4f62fbf5-46da-4d56-8998-0c2deb3b3797.jpg" group-title="SUNNXT-LIVE",GEMINI TV
+http://193.161.193.99:49103/szs/trial/sun.php?c=9017
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9015/500x750_GeminiMovies_9015_59935728-bfc4-4dd1-ba3e-3f4c50c49bc6.jpg" group-title="SUNNXT-LIVE",GEMINI MOVIES
+http://193.161.193.99:49103/szs/trial/sun.php?c=9015
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9026/500x750_GeminiMusic_9026_ca0989a9-1c19-4bf7-a9a0-fcd7a85f13f7.jpg" group-title="SUNNXT-LIVE",GEMINI MUSIC
+http://193.161.193.99:49103/szs/trial/sun.php?c=9026
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26574/500x750_SuryaTVHD_26574_432e86f2-b88c-4244-921d-25fabf02be77.jpg" group-title="SUNNXT-LIVE",SURYA TV HD
+http://193.161.193.99:49103/szs/trial/sun.php?c=26574
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9019/500x750_SuryaMovies_9019_5ec863e8-1c9e-4d68-9586-eea3d54869c3.jpg" group-title="SUNNXT-LIVE",SURYA MOVIES
+http://193.161.193.99:49103/szs/trial/sun.php?c=9019
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26575/500x750_SuryaMusic_26575_cc1fcfcf-7931-4b87-9ef7-1f74e60d00f7.jpg" group-title="SUNNXT-LIVE",SURYA MUSIC
+http://193.161.193.99:49103/szs/trial/sun.php?c=26575
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/30835/500x750_SuryaComedy_30835_4e038a42-fb24-467e-a388-4fd9ec1b108d.jpg" group-title="SUNNXT-LIVE",SURYA COMEDY
+http://193.161.193.99:49103/szs/trial/sun.php?c=30835
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26573/500x750_KochuTV_26573_b37e2b98-bc82-40b5-8e4d-e1a451d7411f.jpg" group-title="SUNNXT-LIVE",KOCHU TV
+http://193.161.193.99:49103/szs/trial/sun.php?c=26573
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9018/500x750_SuryaTV_9018_c8f09032-8b77-4cb7-98e6-6ecd2ed61aa1.jpg" group-title="SUNNXT-LIVE",SURYA YV
+http://193.161.193.99:49103/szs/trial/sun.php?c=9018
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/30846/500x750_UdayaTVHD_30846_5192365f-e16e-41b0-9b55-cd371ca41318.jpg" group-title="SUNNXT-LIVE",UDAYA TV HD
+http://193.161.193.99:49103/szs/trial/sun.php?c=30846
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26576/500x750_UdayaMovies_26576_3f01331f-a95e-444d-b25e-d386182b5d8c.jpg" group-title="SUNNXT-LIVE",UDAYA MOVIES
+http://193.161.193.99:49103/szs/trial/sun.php?c=26576
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9022/500x750_UdayaMusic_9022_e8012abd-c6b2-417c-8d3b-9f72167dab62.jpg" group-title="SUNNXT-LIVE",UDAYA MUSIC
+http://193.161.193.99:49103/szs/trial/sun.php?c=9022
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9014/500x750_UdayaComedy_9014_53e7de60-92f7-4e4c-bc84-01ca4becf6cc.jpg" group-title="SUNNXT-LIVE",UDAYA COMEDY
+http://193.161.193.99:49103/szs/trial/sun.php?c=9014
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26577/500x750_ChintuTV_26577_a6c3b102-c153-4752-bf8b-3699496028e6.jpg" group-title="SUNNXT-LIVE",CHINTU TV
+http://193.161.193.99:49103/szs/trial/sun.php?c=26577
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9029/500x750_UdayaTV_9029_f4558ad3-730e-4d51-b2b1-4620bf69adac.jpg" group-title="SUNNXT-LIVE",UDAYA TV
+http://193.161.193.99:49103/szs/trial/sun.php?c=9029
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/75117/500x750_SunBangla_75117_19765610-bfa4-4280-8a98-e28feddb3382.jpg" group-title="SUNNXT-LIVE",SUN BANGLA
+http://193.161.193.99:49103/szs/trial/sun.php?c=75117
