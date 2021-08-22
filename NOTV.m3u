@@ -888,7 +888,8 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Vendhar NEWS
 https://dftkpvamsm0r1.cloudfront.net/out/v1/ee7ba7ef70fc4005a3992a2c0e8336aa/ETVB_CF_TN_NewsTime.m3u8
 
-
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sun TV
+https://suntvvodaf-live.s.llnwi.net/SunTV/SunTV.isml/manifest.mpd
 
 
 #EXTM3U x-tvg-url="https://botallen.live/epg.xml.gz"
