@@ -944,3 +944,7 @@ http://dx3.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", ASTRO CRICKET
 http://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", COLORS HD
+http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
+
