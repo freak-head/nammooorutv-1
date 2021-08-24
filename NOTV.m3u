@@ -906,16 +906,16 @@ http://indo51.gcdn.co/BEINSPORTSES/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",BEINSPORTSMAX4 
 http://indo51.gcdn.co/BEINSPORTSMAX4/index.m3u8 
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", Sony HD
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/517px-SET_India_logo.svg.png"group-title="Test", Sony HD
 http://indo51.gcdn.co/hindi-SONYHD/index.m3u8
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", SONY SAB HD
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.epg.best/in/SonySAB.in.png"group-title="Test", SONY SAB HD
 http://indo51.gcdn.co/hindi-SONYSABHD/index.m3u8
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", SONY PAL
 http://indo51.gcdn.co/hindi-SONYPAL/index.m3u8
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", STAR BHARAT HD
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.epg.best/in/StarBharat.in.png"group-title="Test", STAR BHARAT HD
 http://indo51.gcdn.co/hindi-STARBHARATHD/index.m3u8
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", STAR PLUS HD
