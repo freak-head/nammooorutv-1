@@ -886,10 +886,40 @@ http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.ts
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Surya Tv HD
-
 https://indo51.gcdn.co/MALYLAM-SuryaHD/index.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupp Thirai
+http://119.81.82.28/encoded/yuppthirai_800/chunklist.m3u8
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sun TV
 https://suntvvodaf-live.s.llnwi.net/SunTV/SunTV.isml/manifest.mpd
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",BEINSPORTS1FR 
+http://indo51.gcdn.co/BEINSPORTS1FR/index.m3u8 
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",BEINSPORTS2FR
+http://indo51.gcdn.co/BEINSPORTS2FR/index.m3u8 
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",BEINSPORTSES 
+http://indo51.gcdn.co/BEINSPORTSES/index.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",BEINSPORTSMAX4 
+http://indo51.gcdn.co/BEINSPORTSMAX4/index.m3u8 
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", Sony HD
+http://indo51.gcdn.co/hindi-SONYHD/index.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", SONY SAB HD
+http://indo51.gcdn.co/hindi-SONYSABHD/index.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", SONY PAL
+http://indo51.gcdn.co/hindi-SONYPAL/index.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", STAR BHARAT HD
+http://indo51.gcdn.co/hindi-STARBHARATHD/index.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", STAR PLUS HD
+http://indo51.gcdn.co/hindi-STARPLUSHD/index.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", STAR GOLD HD
+http://indo51.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
