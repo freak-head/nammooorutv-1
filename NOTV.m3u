@@ -77,6 +77,62 @@ https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/mayatv_low/index.m3
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/06/Jay.jpg"group-title="Tamil Cable TV",Jay TV
 http://livematrix.in:1935/live/jaytv/playlist.m3u8
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed%20(8).png"group-title="Tamil Cable TV",Aus Tamil TV
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/images%20-%202020-09-08T133529.542.jpeg"group-title="Tamil Cable TV",Three Tamil
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",JCV TV
+http://account11.livebox.co.in/jcvtvhls/live.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="blob:https://imgur.com/e7dffed9-9f88-48cf-8c6a-b1c465205bf1"group-title="Tamil Cable TV",MONTAMIL CINEMA
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Jay TV
+http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/07/krishna.jpg"group-title="Tamil Cable TV",Krishna Media
+http://stream.singamcloud.in:1935/krishnamedia/krishnamedia/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200710-WA0012.jpg"group-title="Tamil Cable TV",ACN Cinema
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",ANALAI MOVIE
+http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",JAYTV
+http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",JVISION
+http://198.144.149.82:8080/DINESH/JVISION/index.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/07/jos.jpg"group-title="Tamil Cable TV",JOS TV
+http://stream.singamcloud.in:1935/jostv/jostv/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Jawahar TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="blob:https://imgur.com/f3cad7ec-00f9-4d67-b782-a2365f31b271"group-title="Tamil Cable TV",Adutha Thalaimurai
+http://singamcloud.in:1935/aduthathalaimurai/aduthathalaimurai/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/MSNTV.jpg"group-title="Tamil Cable TV",MSN TV Cuddalore
+http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/Ramtv.jpg"group-title="Tamil Cable TV",Ram TV
+http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/SUBINTV.png"group-title="Tamil Cable TV",Subin TV
+http://stream.singamcloud.in:1935/subintv/subintv/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/Annai-Media.jpg"group-title="Tamil Cable TV",Annai Media
+http://annaitv.livebox.co.in/annailivehls/live.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/Amma-TV.jpg"group-title="Tamil Cable TV",Amma TV
+http://annaitv.livebox.co.in/ammatvhls/live.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/jjtv.jpg"group-title="Tamil Cable TV",JJ TV
+http://jaaltv.livebox.co.in/jjtvhls/live.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/Ever-Green-Tv.jpg"group-title="Tamil Cable TV",Ever Green Tv
+http://shinestream.in:1935/evergreen/evergreen/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/ApBLPPe.jpg"group-title="Tamil Cable TV",Palar TV
+http://account13.livebox.co.in/palartvhls/live.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://masspro.ca/wp-content/uploads/2018/06/masstv-300x150.png"group-title="Tamil Cable TV",Mass TV Canada
+https://tv2.massstream.net/Masstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://play-lh.googleusercontent.com/WL_OuJd8QWuy6H--RVAckd3Ed0WTcvLQsgWTnvEi9e_Jzrp1-7aeBhKbBaRs6yw9KQ5f=s180-rw"group-title="Tamil Cable TV",Purple Tv
+http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",SMCV TV
+http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/images%20(26).png"group-title="Tamil Cable TV",World Tamil TV
+http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Erode Krishna TV
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/EET_TV.png"group-title="Tamil Cable TV",EET TV
+https://eu.streamjo.com/eetlive/eettv.m3u8
+
+
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1622188802_rainbow%20hd.png"group-title="Tamil Cable TV",Rainbow 
 http://live.singamcloud.in:1935/rainbowtv/rainbowtv/playlist.m3u8
@@ -88,8 +144,7 @@ http://stream.singamcloud.in:1935/tamilstartv/tamilstartv/playlist.m3u8
 https://ca.streamjo.com/live/samugam.m3u8
 
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/07/krishna.jpg"group-title="Tamil Cable TV",Krishna Media
-http://stream.singamcloud.in:1935/krishnamedia/krishnamedia/playlist.m3u8
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/07/Lucky.jpg"group-title="Tamil Cable TV",Lucky Tv
 http://singamcloud.in:1935/luckytv/luckytv/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/07/SMS.jpg"group-title="Tamil Cable TV",SMS TV Tisaiyanvillai
@@ -106,8 +161,7 @@ http://stream.singamcloud.in:1935/izzathtv/izzathtv/playlist.m3u8
 http://stream.singamcloud.in:1935/hellotv/hellotv/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/07/jeyam.jpg"group-title="Tamil Cable TV",Jeyam Plus
 http://198.144.149.82:8080/NOTV/JEYAMTVPLUS/index.m3u8?token=GTR
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/07/jos.jpg"group-title="Tamil Cable TV",JOS TV
-http://stream.singamcloud.in:1935/jostv/jostv/playlist.m3u8
+
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/07/king.jpg"group-title="Tamil Cable TV",King TV CBE
 http://account24.livebox.co.in/kinghls/king.m3u8
@@ -118,8 +172,7 @@ http://103.98.62.134:8080/hls/selfie.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/T7cnCbi.png"group-title="Tamil Cable TV",Apple Digital Music
 http://live.singamcloud.in:1935/applemusic/applemusic/chunklist_w1765218898.m3u8
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="blob:https://imgur.com/f3cad7ec-00f9-4d67-b782-a2365f31b271"group-title="Tamil Cable TV",Adutha Thalaimurai
-http://singamcloud.in:1935/aduthathalaimurai/aduthathalaimurai/playlist.m3u8
+
 
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/svtv.png"group-title="Tamil Cable TV",SV TV
@@ -131,10 +184,8 @@ http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/mptv.jpg"group-title="Tamil Cable TV",MP TV
 http://nextgeninfotech.ddns.net:8080/mptv/mptv.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/MSNTV.jpg"group-title="Tamil Cable TV",MSN TV Cuddalore
-http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/Ramtv.jpg"group-title="Tamil Cable TV",Ram TV
-http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
+
+
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/skytv.jpg"group-title="Tamil Cable TV",Sky TV
 http://hdserver.7starcloud.com:1935/skytv/skytvkgm/playlist.m3u8
@@ -148,41 +199,27 @@ rtmp://bmlive.net:1935/digitaltv/digitaltv
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/AppleMedia.jpg"group-title="Tamil Cable TV",Apple TV
 rtmp://bmlive.net:1935/appletv/appletv
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/SUBINTV.png"group-title="Tamil Cable TV",Subin TV
-http://stream.singamcloud.in:1935/subintv/subintv/playlist.m3u8
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/21/Baranimedia.jpg"group-title="Tamil Cable TV",Barani Media
 http://live.singamcloud.in:1935/bharanitv/bharanitv/playlist.m3u8
 
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/Annai-Media.jpg"group-title="Tamil Cable TV",Annai Media
-http://annaitv.livebox.co.in/annailivehls/live.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/Amma-TV.jpg"group-title="Tamil Cable TV",Amma TV
-http://annaitv.livebox.co.in/ammatvhls/live.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/jjtv.jpg"group-title="Tamil Cable TV",JJ TV
-http://jaaltv.livebox.co.in/jjtvhls/live.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/Ever-Green-Tv.jpg"group-title="Tamil Cable TV",Ever Green Tv
-http://shinestream.in:1935/evergreen/evergreen/playlist.m3u8
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/Mcv-Tv.jpg"group-title="Tamil Cable TV",Mcv Tv
 http://shinestream.in:1935/mcvtv/mcvtv/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/14/SK-TV.jpg"group-title="Tamil Cable TV",SK TV
 http://shinestream.in:1935/sktv/sktv/playlist.m3u8
 
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed%20(8).png"group-title="Tamil Cable TV",Aus Tamil TV
-https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
+
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.postimg.cc/cLdRLCs9/SRTV.png"group-title="Tamil Cable TV",SR TV
 http://210.18.155.135:1935/live/srtv/chunklist_w29481395.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/ApBLPPe.jpg"group-title="Tamil Cable TV",Palar TV
-http://account13.livebox.co.in/palartvhls/live.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://masspro.ca/wp-content/uploads/2018/06/masstv-300x150.png"group-title="Tamil Cable TV",Mass TV Canada
-https://tv2.massstream.net/Masstv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://play-lh.googleusercontent.com/WL_OuJd8QWuy6H--RVAckd3Ed0WTcvLQsgWTnvEi9e_Jzrp1-7aeBhKbBaRs6yw9KQ5f=s180-rw"group-title="Tamil Cable TV",Purple Tv
-http://singamcloud.in:1935/purpletv/purpletv/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",SMCV TV
-http://singamcloud.in:1935/smcvtv/smcvtv/playlist.m3u8
+
+
+
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://7star.tv/wp-content/uploads/2020/04/logo-small-web2.png"group-title="Tamil Cable TV",7 Star
 http://annaitv.livebox.co.in/sevenstarhls/live.m3u8
@@ -198,13 +235,7 @@ http://198.144.149.82:8080/NOTV/MAXTV/index.m3u8?token=GTR
 http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
 
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/images%20-%202020-09-08T133529.542.jpeg"group-title="Tamil Cable TV",Three Tamil
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",JCV TV
-http://account11.livebox.co.in/jcvtvhls/live.m3u8
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="blob:https://imgur.com/e7dffed9-9f88-48cf-8c6a-b1c465205bf1"group-title="Tamil Cable TV",MONTAMIL CINEMA
-http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Hari Media
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",NEWS80
@@ -218,8 +249,7 @@ http://livematrix.in:1935/live/mirrortv/playlist.m3u8
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/RXsVIOT.jpg"group-title="Tamil Cable TV",Singam TV
 http://singamcloud.in:8080/singamtv/singamtv/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Jay TV
-http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Nine Star
 http://198.144.149.82:8080/NOTV/NINETV/tracks-v1a1/mono.m3u8?token=GTR
 
@@ -239,17 +269,14 @@ http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",VTV
 http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/images%20(26).png"group-title="Tamil Cable TV",World Tamil TV
-http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/download%20(5).png"group-title="Tamil Cable TV",Kanaa
 http://198.144.149.82:8080/NOTV/KANAA/index.m3u8?token=GTR
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200710-WA0012.jpg"group-title="Tamil Cable TV",ACN Cinema
-http://ammacable.com:1935/acn/acncinema/playlist.m3u8
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Tirumalai TV
 http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Jawahar TV
-http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",KalviTV
 http://198.144.149.82:8080/KALVI_GR10/index.m3u8?token=GTR
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",VAGAITV
@@ -259,26 +286,12 @@ http://198.144.149.82:8080/NOTV/VAGAITV/index.m3u8?token=GTR
 http://7starcloud.com:1935/live/arunaitv/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",SAI TV
 http://198.144.149.82:8080/NOTV/SAITVMD/index.m3u8?token=GTR
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",ANALAI MOVIE
-http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",JAYTV
-http://198.144.149.82:8080/JAYTV/index.m3u8?token=GTR
-
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Kalvi Solai
 http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Erode Krishna TV
-http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/nakkubetta-1logo.png"group-title="Tamil Cable TV",Nakkubetta TV
 https://nakkubettatv.livebox.co.in/nbtvhls/nbtv.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/EET_TV.png"group-title="Tamil Cable TV",EET TV
-https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/mntv1.png"group-title="Tamil Cable TV",MN TV
 https://mntv.livebox.co.in/mntvhls/mntv.m3u8
-
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",JVISION
-http://198.144.149.82:8080/DINESH/JVISION/index.m3u8?token=GTR
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",Ragam TV
 http://account12.livebox.co.in/ntvhls/ntv.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png"group-title="Tamil Cable TV",UTV
