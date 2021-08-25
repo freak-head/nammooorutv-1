@@ -131,6 +131,22 @@ http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/11/EET_TV.png"group-title="Tamil Cable TV",EET TV
 https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1622178257_satchin.png"group-title="Tamil Cable TV",Sachin Music HD
+http://singamcloud.in:1935/sachinmusichd/sachinmusichd/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1616305753_kanichi.png"group-title="Tamil Cable TV",Kanchi TV
+http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1616319472_shalini max.png"group-title="Tamil Cable TV",Shalini Max
+http://stream.singamcloud.in:1935/shalinimax/shalinimax/playlist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1616320437_yazh.png"group-title="Tamil Cable TV",Yaal TV
+http://198.144.149.82:8080/NOTV/VETRITV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616320869_anu tv.png" group-title="Tamil Cable TV", Anu TV
+http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616321508_vvn.png" group-title="Tamil Cable TV", VVN TV
+http://stream.singamcloud.in:1935/panchayathutv/panchayathutv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616321908_maa tv copy.png" group-title="Tamil Cable TV", Maa TV
+http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://singamcloud.com/tv/upload/1616429439_ROJA TV.png" group-title="Tamil Cable TV", Roja HD
+http://stream.singamcloud.in:1935/rojatv/rojatv/playlist.m3u8
 
 
 
