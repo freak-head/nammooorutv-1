@@ -56,7 +56,7 @@ https://stream.skygaintv.com/LiveApp/streams/841444019223041560075808.m3u8?token
 http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/06/Rishi.jpg"group-title="Tamil Cable TV",Rishi TV Thiruvannamalai
 http://nextgeninfotech.ddns.net:8080/rishi/rishi.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/02/06/download.png"group-title="Tamil Cable TV",Asosa TV
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://asosait.com/img/logo/ic_launcher.png"group-title="Tamil Cable TV",Asosa TV
 http://account15.livebox.co.in/asosatvhls/live.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.ultramaxnet.com/images/utv_720p_d2.png"group-title="Tamil Cable TV",UltraMax
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
