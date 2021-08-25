@@ -1141,6 +1141,9 @@ https://indo51.gcdn.co/MALYLAM-SuryaHD/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupp Thirai
 http://119.81.82.28/encoded/yuppthirai_800/chunklist.m3u8
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Jaya TV (TS)
+http://uk4.zecast.com:1935/star-live/jaya/index.m3u8
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sun TV
 https://suntvvodaf-live.s.llnwi.net/SunTV/SunTV.isml/manifest.mpd
 
