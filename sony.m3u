@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
 
 #EXTINF: -1 tvg-id="162" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="SonyLiv",SONY TEN1 HD
