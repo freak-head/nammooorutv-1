@@ -1234,3 +1234,8 @@ https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",KFG Movies
 https://cdnapisec.kaltura.com/p/1982551/sp/198255100/playManifest/protocol/https/entryId/0_avlcjzzt/format/applehttp/tags/tv/f/a.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZTBiY2UzNWYtNzc5Yi0zZjY5LWFiYTMtYzUzNGQwODRlMTBl
+#EXTINF:-1 group-title="Malaysian Variety" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",Vasandham TV Singapore
+https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
