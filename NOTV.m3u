@@ -976,6 +976,8 @@ https://ayushiz5tv.herokuapp.com?c=0-9-216
 https://ayushiz5tv.herokuapp.com?c=0-9-221
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5",Zee Thirai
 https://ayushiz5tv.herokuapp.com?c=0-9-224
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5",Zee Thirai 2
+https://raw.githubusercontent.com/naveenland4/nammooorutv/main/zeethirai.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5",Zee Zest HD
 https://ayushiz5tv.herokuapp.com?c=0-9-348
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5",News X
