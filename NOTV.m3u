@@ -1360,4 +1360,4 @@ https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd
 https://cdnapisec.kaltura.com/p/1982551/sp/198255100/playManifest/protocol/https/entryId/0_avlcjzzt/format/applehttp/tags/tv/f/a.m3u8
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", SUN TV HD (MHDTV)
-https://mhdtvworld.xyz/delta/planet/max.php?id=35750&e=.m3u8|user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
+https://mhdtvworld.xyz/delta/planet/max.php?id=35750&e=.m3u8?token=mhdtv
