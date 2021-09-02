@@ -371,16 +371,11 @@ http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""https://i.imgur.com/r674RHI.png"group-title="Tamil Free TV",Polimer
 http://cdn.asianetmobiletvplus.com/channels/polimertv_rpvpvdefkpxbafsouzockpitjldtogrr/chunks.m3u8
 
-#EXTINF:-1tvg-id=""tvg-name=""http://singamcloud.com/tv//upload/1622177661_vasantham%20tv.png"group-title="Tamil Free TV",Vasantham Singapore
-http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""https://i.imgur.com/pjZuCvf.png"group-title="Tamil Free TV",Mazhavil Manorama
-http://14.199.164.20:4001/play/a0p9/index.m3u8
-
 #EXTINF:-1tvg-id=""tvg-name=""https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/ktv-HD-white.png"group-title="Tamil Free TV",K TV HD
 http://indo51.gcdn.co/TAMIL-KtvHD/index.m3u8
 
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622187910_yupp.png"group-title="Tamil Free TV",Yupp Thirai
-http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""https://mhdtvworld.xyz/wp-content/uploads/2020/03/sun-music-HD-white.jpg"group-title="Tamil Free TV",Sun Music HD
+https://indo51.gcdn.co/TAMIL-SunmusicHD/index.m3u8
 
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1623067878_jaya%20movie.png"group-title="Tamil Free TV",JAYA Movies
 http://indo51.gcdn.co/TAMIL-JAYAMOVIES/index.m3u8
