@@ -383,6 +383,9 @@ http://indo51.gcdn.co/TAMIL-JAYAMOVIES/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622187760_jaya%20tv.png"group-title="Tamil Free TV",Jaya TV
 http://indo51.gcdn.co/TAMIL-JAYATVHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Free TV",Jaya TV (TS)
+http://uk4.zecast.com:1935/star-live/jaya/index.m3u8
+
 #EXTINF:-1tvg-id=""tvg-name=""https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/ktv-HD-white.png"group-title="Tamil Free TV",ZEE TAMIL HD
 http://143.244.60.10/TAMIL__ZEE_TAMIL_HD/mono.m3u8?token=test
 
@@ -1272,9 +1275,6 @@ https://indo51.gcdn.co/MALYLAM-SuryaHD/index.m3u8
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupp Thirai
 http://119.81.82.28/encoded/yuppthirai_800/chunklist.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Jaya TV (TS)
-http://uk4.zecast.com:1935/star-live/jaya/index.m3u8
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sun TV
 https://suntvvodaf-live.s.llnwi.net/SunTV/SunTV.isml/manifest.mpd
