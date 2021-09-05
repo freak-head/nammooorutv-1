@@ -1155,3 +1155,27 @@ https://cdnapisec.kaltura.com/p/1982551/sp/198255100/playManifest/protocol/https
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", SUN TV HD (MHDTV)
 https://mhdtvworld.xyz/delta/planet/max.php?id=35750&e=.m3u8?token=mhdtv
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png" tvg-id="001", Polimer News
+https://raw.githubusercontent.com/naveenland4/youtube-live/main/live/ch1.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="http://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_797/img_logo_news_7_tamil-2.png" tvg-id="002", News7 Tamil
+https://raw.githubusercontent.com/naveenland4/youtube-live/main/live/ch2.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="http://www.thanthitv.com/Images/TTV-800x800.png" tvg-id="003", Thanthi TV
+https://raw.githubusercontent.com/naveenland4/youtube-live/main/live/ch3.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="http://7starcloud.in/NB.png" tvg-id="004", New18 TamilNadu
+https://raw.githubusercontent.com/naveenland4/youtube-live/main/live/ch4.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ9Nmh3FoESMMTM-P3w9-QMtxJ6o-uEYy4z1QvQAms=s100-c-k-c0x00ffffff-no-rj" tvg-id="005", Puthiya Thalaimurai
+https://raw.githubusercontent.com/naveenland4/youtube-live/main/live/ch6.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://e7.pngegg.com/pngimages/25/365/png-clipart-udaya-tv-sun-tv-network-television-channel-udaya-news-others-television-text-thumbnail.png" tvg-id="006", Sun News
+https://raw.githubusercontent.com/naveenland4/youtube-live/main/live/ch7.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.extraimages.net/images/2021/04/05/logo_login.png" tvg-id="007", NewsJ
+https://raw.githubusercontent.com/naveenland4/youtube-live/main/live/ch8.m3u8
+
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SathiyamFinallogo.png/220px-SathiyamFinallogo.png" tvg-id="008", Sathiyamtv
+https://raw.githubusercontent.com/naveenland4/youtube-live/main/live/ch9.m3u8
