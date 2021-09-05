@@ -60,6 +60,8 @@ http://nextgeninfotech.ddns.net:8080/rishi/rishi.m3u8
 http://198.144.149.82:8080/NOTV/ASOSAKANCHI/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://asosait.com/img/logo/ic_launcher.png"group-title="Tamil Cable TV",Asosa TV
 http://198.144.149.82:8080/NOTV/ASOSATVTAMIL/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://asosait.com/img/logo/ic_launcher.png"group-title="Tamil Cable TV",Vasanth NGL TV
+http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.ultramaxnet.com/images/utv_720p_d2.png"group-title="Tamil Cable TV",UltraMax
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
