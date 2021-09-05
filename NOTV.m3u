@@ -1079,7 +1079,7 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist.m3u8
 https://suntvvodaf-live.s.llnwi.net/SunTV/SunTV.isml/manifest.mpd
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Match live (temp)
-https://fancodelive-a.akamaized.net/hls/live/2028698/78d36bc0-b426-4e2e-a100-6902e4f6b0f8/master.m3u8?hdnea=exp=1630518248~acl=*~id=65444881_H1ruZBI5E5O5VGi7~data=65444881~hmac=103ae63150ae0854bfc3a3a75fd32224785e15bbe1d01b9c2cbf2365dc19d42b&deviceId=Linux%20armv8l
+http://173.199.120.51/hls/tsports.m3u8
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",BEINSPORTS1FR 
 http://indo51.gcdn.co/BEINSPORTS1FR/index.m3u8 
