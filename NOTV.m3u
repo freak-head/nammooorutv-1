@@ -1158,3 +1158,92 @@ https://cdnapisec.kaltura.com/p/1982551/sp/198255100/playManifest/protocol/https
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", SUN TV HD (MHDTV)
 https://mhdtvworld.xyz/delta/planet/media.php?id=35750&media=2021/09/07/18/01/33-06000.ts
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sony Ten 1 HD
+http://ahaohoo.com/.1/tv1/play.php?id=1989&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sony Ten 2 HD
+http://ahaohoo.com/.1/tv1/play.php?id=1990&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sony Ten 1
+http://ahaohoo.com/.1/tv1/play.php?id=1992&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sony Ten 2
+http://ahaohoo.com/.1/tv1/play.php?id=1993&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sony Ten 3
+http://ahaohoo.com/.1/tv1/play.php?id=1994&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Star Sports Select 1
+http://ahaohoo.com/.1/tv1/play.php?id=1996&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Star Sports Select 2
+http://ahaohoo.com/.1/tv1/play.php?id=1997&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Star Sports 1 HD
+http://ahaohoo.com/.1/tv1/play.php?id=1998&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Star Sports 2 HD
+http://ahaohoo.com/.1/tv1/play.php?id=1999&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Star Sports 2 HD
+http://ahaohoo.com/.1/tv1/play.php?id=2002&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Star Sports 2 HD
+http://ahaohoo.com/.1/tv1/play.php?id=2003&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sony Six HD
+http://ahaohoo.com/.1/tv1/play.php?id=2004&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sony Six HD
+http://ahaohoo.com/.1/tv1/play.php?id=2005&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sky Sports Cricket
+http://ahaohoo.com/.1/tv1/play.php?id=2010&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sky Sports NFL
+http://ahaohoo.com/.1/tv1/play.php?id=2014&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sky Sports Golf
+http://ahaohoo.com/.1/tv1/play.php?id=2016&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Utsav Gold HD
+http://ahaohoo.com/.1/tv1/play.php?id=2027&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sky Sports Mix
+http://ahaohoo.com/.1/tv1/play.php?id=2028&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Bein Sports 3
+http://ahaohoo.com/.1/tv1/play.php?id=2057&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Bein Sports 4
+http://ahaohoo.com/.1/tv1/play.php?id=2058&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Bein Sports 5
+http://ahaohoo.com/.1/tv1/play.php?id=2059&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Bein Sports 6
+http://ahaohoo.com/.1/tv1/play.php?id=2060&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Bein Sports 7
+http://ahaohoo.com/.1/tv1/play.php?id=2061&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Bein Sports 1 Premium
+http://ahaohoo.com/.1/tv1/play.php?id=2063&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Bein Sports 2 Premium
+http://ahaohoo.com/.1/tv1/play.php?id=2064&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",BT Sports 1
+http://ahaohoo.com/.1/tv1/play.php?id=2116&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",BT Sports 2 HD
+http://ahaohoo.com/.1/tv1/play.php?id=2117&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sky Sports F1
+http://ahaohoo.com/.1/tv1/play.php?id=2135&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",BT Sports 2 HD
+http://ahaohoo.com/.1/tv1/play.php?id=2138&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Nat Geo Wild HD
+http://ahaohoo.com/.1/tv1/play.php?id=2166&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Hungama Hindi
+http://ahaohoo.com/.1/tv1/play.php?id=2169&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Chutty TV
+http://ahaohoo.com/.1/tv1/play.php?id=2194&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",WB TV
+http://ahaohoo.com/.1/tv1/play.php?id=2306&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Movies Now HD
+http://ahaohoo.com/.1/tv1/play.php?id=2307&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Movies Now HD
+http://ahaohoo.com/.1/tv1/play.php?id=2310&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Zee Tamil HD
+http://ahaohoo.com/.1/tv1/play.php?id=2323&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Polimer
+http://ahaohoo.com/.1/tv1/play.php?id=2325&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sun Life
+http://ahaohoo.com/.1/tv1/play.php?id=2326&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Star Maa
+http://ahaohoo.com/.1/tv1/play.php?id=2327&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",2328
+http://ahaohoo.com/.1/tv1/play.php?id=2328&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",K TV HD
+http://ahaohoo.com/.1/tv1/play.php?id=2335&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sun TV HD
+http://ahaohoo.com/.1/tv1/play.php?id=2336&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Gemini TV HD
+http://ahaohoo.com/.1/tv1/play.php?id=2337&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Surya TV HD
+http://ahaohoo.com/.1/tv1/play.php?id=2338&e=.m3u8
