@@ -362,6 +362,49 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
 
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/izI6v85.png"group-title="Tamil",Sun TV HD
+http://indo51.gcdn.co/TAMIL-SuntvHD/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/izI6v85.png"group-title="Tamil",Sun TV SD
+http://ahaohoo.com/.1/tv1/play.php?id=2833&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1622185952_vijay%20tv.png"group-title="Tamil",Star Vijay HD
+http://indo51.gcdn.co/TAMIL-STARVIJAYindia/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/ccIcC6H.png"group-title="Tamil",K TV HD
+http://indo51.gcdn.co/TAMIL-KtvHD/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622185610_aathiya.png"group-title="Tamil",Adithya TV
+http://indo51.gcdn.co/TAMIL-ADITYATAMIL/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/Gwx3PGZ.gif"group-title="Tamil",Jaya TV
+http://indo51.gcdn.co/TAMIL-JAYATVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/Gwx3PGZ.gif"group-title="Tamil",Jaya TV (TS)
+http://uk4.zecast.com:1935/star-live/jaya/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/b5DS0bu.png"group-title="Tamil",Zee Tamil HD
+http://143.244.60.10/TAMIL__ZEE_TAMIL_HD/mono.m3u8?token=test
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzQiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzdGFtaWxoZF9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRnkzWm1wTkpYV3lKYWp4MjVETVBSWDdSTEp2dlExMzRlX3lhVmhTNTdEYkIyazdvaU1HNlpVa09lTDBKQ0VPQ0NHemRqZDNma2lrbnNVN1QzV1Zrdm5Qcm5RR1FxU2ozYjlYZV9ZblVDX0pYdXFBWmgxelp5aWdwek1wclFhS3BOYzhHeDJEZ3JkUGZaTVB2aHZ6eVl5MkRrU3ZTV3lqaXJHY2wzV2stVlJPQ29nREt4LXRYRFdXZGpjSEc2bVIyNmtfTFAyYjcxNDAybUhfTExfZWdwNkgxWnI5YVU3ZEVwZXkwY2tCOENURHhBLTZoUFZicnNhcElISTFvTkNkQk1ZX2gxU25UXzl0SklpdWVWNU05a1RLZ1ZOT2pMeDNYeVgyUHVHQ0t1Y2xkMTFsMUVqR012V0JEWGZpUnpCREtOZWt2dWlnY3B3ZVlneGpDTEJwblB4Q2l2OGVpaGpDTnJNWkNqc3Q0WDdfWHpkSTJZT24xeU1XTjRUekU1MmZmMFJrUF8zY3dWd0Y5YkdUQmZLZzhFdWNTYkRtaDZld0hUOFowQ1hhWW9GeFBQREc0Uk5WdFUyUGhKc2o0TF94bEdjeHdtMVhGUmlkREFUQlQyMC1PMHVnTDhYemtUcDRsNW05LW92VFB5bXIiLCJ1ZGlkIjoiMmEzYjBlNWNkMDM2NDdjY2E0YTI3Y2M2NzI1YzUyNjYiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=qNGb6wctTmMKCEvcAX%2b1EQf7Cak%3d&sessionId=eac059bb-7168-cf5e-62b4-e54f894e3b1c:d2eff781-ba4e-c8e0-a0c9-c05a7ec3b90e&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLXRhbWlsLWhkLzgwNTk4Ng==
+#EXTINF:-1 tvg-id="429" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Tamil",Colors Tamil HD
+https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd|user-agent="KAIOS"
+
+#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186574_colors%20tamil.png"group-title="Tamil", Colors Tamil
+http://143.244.60.10/TAMIL__COLORS_HD/mono.m3u8?token=test
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/rgSaow9.png"group-title="Tamil",Chutti TV
+http://143.244.60.10/TAMIL__CHUTTI_TV/mono.m3u8?token=test
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/5YcctyX.png"group-title="Tamil",Jaya Max
+http://indo51.gcdn.co/TAMIL-Jayamax/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/YR8WP9N.jpg"group-title="Tamil",Vijay Super
+http://143.244.60.10/TAMIL__VIJAY_SUPER/mono.m3u8?token=test
+#EXTINF:-1tvg-id=""tvg-name=""https://mhdtvworld.xyz/wp-content/uploads/2020/03/sun-music-HD-white.jpg"group-title="Tamil",Sun Music HD
+https://indo51.gcdn.co/TAMIL-SunmusicHD/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1623067878_jaya%20movie.png"group-title="Tamil",JAYA Movies
+http://indo51.gcdn.co/TAMIL-JAYAMOVIES/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil",Zee Thirai
+http://143.244.60.10/TAMIL__ZEE_THIRAI/mono.m3u8?token=test
+#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil",Sun Life
+http://indo51.gcdn.co/TAMIL-Sunlife/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil",D Tamil
+http://idvd.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil",Yupp Thirai
+http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
+
+
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/72/MKTV.png"group-title="Tamil Free TV",MK TV
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
@@ -375,63 +418,66 @@ http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/Stream(01)/ind
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""https://i.imgur.com/r674RHI.png"group-title="Tamil Free TV",Polimer
 http://cdn.asianetmobiletvplus.com/channels/polimertv_rpvpvdefkpxbafsouzockpitjldtogrr/chunks.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/ktv-HD-white.png"group-title="Tamil Free TV",K TV HD
-http://indo51.gcdn.co/TAMIL-KtvHD/index.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""https://mhdtvworld.xyz/wp-content/uploads/2020/03/sun-music-HD-white.jpg"group-title="Tamil Free TV",Sun Music HD
-https://indo51.gcdn.co/TAMIL-SunmusicHD/index.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1623067878_jaya%20movie.png"group-title="Tamil Free TV",JAYA Movies
-http://indo51.gcdn.co/TAMIL-JAYAMOVIES/index.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622187760_jaya%20tv.png"group-title="Tamil Free TV",Jaya TV
-http://indo51.gcdn.co/TAMIL-JAYATVHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Free TV",Jaya TV (TS)
-http://uk4.zecast.com:1935/star-live/jaya/index.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/ktv-HD-white.png"group-title="Tamil Free TV",ZEE TAMIL HD
-http://143.244.60.10/TAMIL__ZEE_TAMIL_HD/mono.m3u8?token=test
-
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622185952_vijay%20tv.png"group-title="Tamil Free TV",Star Vijay HD
-http://indo51.gcdn.co/TAMIL-STARVIJAYindia/index.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622185610_aathiya.png"group-title="Tamil Free TV",Adithya TV
-http://indo51.gcdn.co/TAMIL-ADITYATAMIL/index.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622185413_sun%20tv.png"group-title="Tamil Free TV",Sun TV HD
-http://indo51.gcdn.co/TAMIL-SuntvHD/index.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622185413_sun%20tv.png"group-title="Tamil Free TV",Sun TV SD
-http://ahaohoo.com/.1/tv1/play.php?id=2833&e=.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186574_colors%20tamil.png"group-title="Tamil Free TV", Colors Tamil
-http://143.244.60.10/TAMIL__COLORS_HD/mono.m3u8?token=test
-
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil Free TV",Vijay Super
-http://143.244.60.10/TAMIL__VIJAY_SUPER/mono.m3u8?token=test
-
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil Free TV",Yupp Thirai
-http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil Free TV",Zee Thirai
-http://143.244.60.10/TAMIL__ZEE_THIRAI/mono.m3u8?token=test
-
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil Free TV",Sun Life
-http://indo51.gcdn.co/TAMIL-Sunlife/index.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil Free TV",D Tamil
-http://idvd.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
-
-
-
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622898474_IMG_20210605_183550.jpg"group-title="Tamil Free TV",KBO US
 https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
 
 
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/GNx4txl.jpg"group-title="Malayalam",Asianet HD
+http://indo51.gcdn.co/MALYLAM-AsianetHD/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/DYt2Bce.jpg"group-title="Malayalam",Surya Tv HD
+https://indo51.gcdn.co/MALYLAM-SuryaHD/index.m3u8
 
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/517px-SET_India_logo.svg.png"group-title="Hindi", Sony HD
+http://indo51.gcdn.co/hindi-SONYHD/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.epg.best/in/SonySAB.in.png"group-title="Hindi", SONY SAB HD
+http://indo51.gcdn.co/hindi-SONYSABHD/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Hindi", SONY PAL
+http://indo51.gcdn.co/hindi-SONYPAL/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.epg.best/in/StarBharat.in.png"group-title="Hindi", STAR BHARAT HD
+http://indo51.gcdn.co/hindi-STARBHARATHD/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Hindi", STAR PLUS HD
+http://indo51.gcdn.co/hindi-STARPLUSHD/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Hindi", STAR GOLD HD
+http://indo51.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Hindi", COLORS HD
+http://indo51.gcdn.co/hindi-COLORSHD/index.m3u8
+
+
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Sports", STAR SPORTS HD 1
+http://indo51.gcdn.co/STARSPORTSHD1/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Sports", STAR SPORTS HD 3
+http://indo51.gcdn.co/STARSPORTS3/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Sports", STAR SPORTS HD 2
+http://indo51.gcdn.co/STARSPORTSHD2/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Sports", TEN 1 HD
+http://indo51.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Sports", TEN 2 HD
+http://indo51.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", TEN 3 HD
+http://indo51.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Sports", Sony Six HD
+http://indo51.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/JADCRTe.png"group-title="Sports",Sony Six HD
+http://143.244.60.10/SPORTS__SONY_SIX_HD/index.m3u8?token=test
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/JADCRTe.png"group-title="Sports",Sony Six HD
+http://indo51.gcdn.co/SONYSIXindia/index.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/yxs5ldf.png"group-title="Sports",Sony Ten 1 HD
+http://143.244.60.10/SPORTS__TEN_1_HD/mono.m3u8?token=test
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/pNaqPbw.png"group-title="Sports",Sony Ten 2 HD
+http://143.244.60.10/SPORTS__TEN_2_HD/mono.m3u8?token=test
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/WWHOdnQ.jpg"group-title="Sports",Star Sports 1 HD
+http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/7WLnbte.jpg"group-title="Sports",Sky Sports Cricket HD
+http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=mlivetv
 
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1623068010_SONY%20ten%204.png"group-title="Sports",SONY Ten 4 HD
 https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
@@ -439,10 +485,20 @@ https://dai.google.com/linear/hls/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png"group-title="Sports",SONY Ten 1 HD
 https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 
-
 #EXTINF:-1tvg-id=""tvg-name="https://i.ibb.co/qnQ8X5g/sony.png"group-title="Sports",SONY Ten 2
 https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Sports",BEINSPORTS1FR 
+http://indo51.gcdn.co/BEINSPORTS1FR/index.m3u8 
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Sports",BEINSPORTS2FR
+http://indo51.gcdn.co/BEINSPORTS2FR/index.m3u8 
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Sports",BEINSPORTSES 
+http://indo51.gcdn.co/BEINSPORTSES/index.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Sports",BEINSPORTSMAX4 
+http://indo51.gcdn.co/BEINSPORTSMAX4/index.m3u8 
 
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622639372_sonysix.png"group-title="Sports",SONY SIX HD
 https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
@@ -1100,85 +1156,13 @@ https://utube.arapurayil.com/stream/UCZFMm1mMw0F81Z37aaEzTUA/master.m3u8
 
 
 
-
-
-
-
-
-
-
-
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2020/01/starvijay-1.jpg"group-title="Test",Vijay TV
 http://ky-iptv.com:25461/live/thestuff1/thestuff1/1400716.ts
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",FTV UHD 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Surya Tv HD
-https://indo51.gcdn.co/MALYLAM-SuryaHD/index.m3u8
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Yupp Thirai
-http://119.81.82.28/encoded/yuppthirai_800/chunklist.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sun TV
-https://suntvvodaf-live.s.llnwi.net/SunTV/SunTV.isml/manifest.mpd
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Match live (temp)
-http://173.199.120.51/hls/tsports.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",BEINSPORTS1FR 
-http://indo51.gcdn.co/BEINSPORTS1FR/index.m3u8 
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",BEINSPORTS2FR
-http://indo51.gcdn.co/BEINSPORTS2FR/index.m3u8 
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",BEINSPORTSES 
-http://indo51.gcdn.co/BEINSPORTSES/index.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",BEINSPORTSMAX4 
-http://indo51.gcdn.co/BEINSPORTSMAX4/index.m3u8 
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/517px-SET_India_logo.svg.png"group-title="Test", Sony HD
-http://indo51.gcdn.co/hindi-SONYHD/index.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.epg.best/in/SonySAB.in.png"group-title="Test", SONY SAB HD
-http://indo51.gcdn.co/hindi-SONYSABHD/index.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", SONY PAL
-http://indo51.gcdn.co/hindi-SONYPAL/index.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://static.epg.best/in/StarBharat.in.png"group-title="Test", STAR BHARAT HD
-http://indo51.gcdn.co/hindi-STARBHARATHD/index.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", STAR PLUS HD
-http://indo51.gcdn.co/hindi-STARPLUSHD/index.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", STAR GOLD HD
-http://indo51.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", STAR SPORTS HD 1
-http://indo51.gcdn.co/STARSPORTSHD1/index.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", STAR SPORTS HD 3
-http://indo51.gcdn.co/STARSPORTS3/index.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", STAR SPORTS HD 2
-http://indo51.gcdn.co/STARSPORTSHD2/index.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", TEN 1 HD
-http://indo51.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", TEN 2 HD
-http://indo51.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", TEN 3 HD
-http://indo51.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", ASTRO CRICKET
-http://indo51.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", COLORS HD
-http://indo51.gcdn.co/hindi-COLORSHD/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzQiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzdGFtaWxoZF9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRnkzWm1wTkpYV3lKYWp4MjVETVBSWDdSTEp2dlExMzRlX3lhVmhTNTdEYkIyazdvaU1HNlpVa09lTDBKQ0VPQ0NHemRqZDNma2lrbnNVN1QzV1Zrdm5Qcm5RR1FxU2ozYjlYZV9ZblVDX0pYdXFBWmgxelp5aWdwek1wclFhS3BOYzhHeDJEZ3JkUGZaTVB2aHZ6eVl5MkRrU3ZTV3lqaXJHY2wzV2stVlJPQ29nREt4LXRYRFdXZGpjSEc2bVIyNmtfTFAyYjcxNDAybUhfTExfZWdwNkgxWnI5YVU3ZEVwZXkwY2tCOENURHhBLTZoUFZicnNhcElISTFvTkNkQk1ZX2gxU25UXzl0SklpdWVWNU05a1RLZ1ZOT2pMeDNYeVgyUHVHQ0t1Y2xkMTFsMUVqR012V0JEWGZpUnpCREtOZWt2dWlnY3B3ZVlneGpDTEJwblB4Q2l2OGVpaGpDTnJNWkNqc3Q0WDdfWHpkSTJZT24xeU1XTjRUekU1MmZmMFJrUF8zY3dWd0Y5YkdUQmZLZzhFdWNTYkRtaDZld0hUOFowQ1hhWW9GeFBQREc0Uk5WdFUyUGhKc2o0TF94bEdjeHdtMVhGUmlkREFUQlQyMC1PMHVnTDhYemtUcDRsNW05LW92VFB5bXIiLCJ1ZGlkIjoiMmEzYjBlNWNkMDM2NDdjY2E0YTI3Y2M2NzI1YzUyNjYiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=qNGb6wctTmMKCEvcAX%2b1EQf7Cak%3d&sessionId=eac059bb-7168-cf5e-62b4-e54f894e3b1c:d2eff781-ba4e-c8e0-a0c9-c05a7ec3b90e&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLXRhbWlsLWhkLzgwNTk4Ng==
@@ -1195,14 +1179,6 @@ http://s1jp.rftv.xyz/jit-5545/Vijay_TV_BTS.mpd|user-agent="KAIOS"
 #EXTINF:-1 tvg-id="429" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Test",Colors Tamil HD
 https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",KFG Movies
-https://cdnapisec.kaltura.com/p/1982551/sp/198255100/playManifest/protocol/https/entryId/0_avlcjzzt/format/applehttp/tags/tv/f/a.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test", SUN TV HD (MHDTV)
-https://mhdtvworld.xyz/delta/planet/media.php?id=35750&media=2021/09/07/18/01/33-06000.ts
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sony Ten 1 HD
 http://ahaohoo.com/.1/tv1/play.php?id=1989&e=.m3u8
