@@ -436,6 +436,54 @@ http://142.44.213.115:8888/gta_tamil/index.m3u8
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
 
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Cable TV",Solai TV
+rtmp://singamcloud.in:1935/solaitv
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Cable TV",Mullai TV
+http://bmlive.net:8000/Raja/rajacbe/bms.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Cable TV",Apple Digital
+rtmp://singamcloud.in:1935/rasinetwork
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Cable TV",K Channel
+rtmp://185.105.4.244:1935/live
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Cable TV",Malligai TV
+http://jaaltv.livebox.co.in/malligaihls/live.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Cable TV",Pop TV
+http://media.7starcloud.com:1935/harimedia/poptv/playlist.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Cable TV",VIP TV
+http://media.7starcloud.com:1935/harimedia/viptv/playlist.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Cable TV",S3 TV
+http://media.7starcloud.com:1935/harimedia/live6/playlist.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Cable TV",Jothi TV
+http://live.singamcloud.in:1935/jothitv/jothitv/playlist.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Cable TV",Sai TV
+http://live.singamcloud.in:1935/saitvtvl/saitvtvl/playlist.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Cable TV",KRP TV
+http://live.singamcloud.in:1935/krptv/krptv/playlist.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Cable TV",Yogaa TV
+http://live.singamcloud.in:1935/yogaatv/yogaatv/playlist.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Tamil Cable TV",TN75
+https://cdn.rjdigilink.in/tn75/livetv/playlist.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/u90Gz3R.png"group-title="Tamil Cable TV",Kankaru TV
+http://198.144.149.82:8080/NOTV/KANGARUTV/index.m3u8?token=GTR
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/oM2QvPi.png"group-title="Tamil Cable TV",MRTV
+http://198.144.149.82:8080/NOTV/MRTV/index.m3u8?token=GTR
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/IVbqWku.jpg"group-title="Tamil Cable TV",Kings TV
+http://nextgeninfotech.ddns.net:8080/hls/kings.m3u8
+
 
 
 
