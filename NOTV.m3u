@@ -1447,3 +1447,6 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Gemini TV (YuppTV - MHDTV)
 https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-tv-hd&e=.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Zee tamil test app
+http://143.244.68.18/TAMIL__ZEE_TAMIL_HD/mono.m3u8?token=test
