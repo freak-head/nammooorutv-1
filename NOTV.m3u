@@ -1453,3 +1453,6 @@ https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-tv-hd&e=.m3u8
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Zee tamil test app
 http://143.244.68.18/TAMIL__ZEE_TAMIL_HD/mono.m3u8?token=test
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sun Tv hd test
+http://193.161.193.99:49103/szs/suriya/sun.php?c=14020
