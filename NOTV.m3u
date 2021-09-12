@@ -1567,9 +1567,6 @@ https://utube.arapurayil.com/stream/UCxXlG1CnrD9jkk2-QA2aRUg/master.m3u8
 
 
 
-#EXTM3U
-#Credits to = https:/t.me/livetvtamil
-
 #EXTINF:0 tvg-id="430" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="JIO TV Sports",Jio Cricket HD English
 http://193.161.193.99:49103/jt/suriya/jt.php?c=Jio_Cricket&q=800
 #EXTINF:0 tvg-id="438" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Hindi.png" group-title="JIO TV Sports",Jio Cricket HD Hindi
@@ -1843,8 +1840,6 @@ https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/7008.TV5MondeASIE.in.m3u8
 #EXTINF:-1 tvg-id="KaatyaniTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7009.KaatyaniTV.in/1x1/1x/test_pic1568193158605.jpg" group-title="MX TV",Kaatyani TV
 https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in.m3u8
-#EXTINF:-1 tvg-id="GamingTVEnglish" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8006.GamingTVEG.in/1x1/1x/test_pic1574771149731.jpg" group-title="Sneh Education",Gaming TV English
-https://m-c09-j2apps.s.llnwi.net/hls/8006.GamingTVEG.in.m3u8
 #EXTINF:-1 tvg-id="Mollywood" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8004.Mollywood.in/1x1/1x/test_pic1574771014744.jpg" group-title="MX TV",Mollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8004.Mollywood.in.m3u8
 #EXTINF:-1 tvg-id="TopDJTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8013.TopDJTV.in/1x1/1x/test_pic1574772740007.jpg" group-title="MX TV",Top DJ TV
@@ -1871,8 +1866,6 @@ https://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in.m3u8
 https://m-c09-j2apps.s.llnwi.net/hls/8010.SeriesZone.in.m3u8
 #EXTINF:-1 tvg-id="FightTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8014.FightTV.in/1x1/1x/test_pic1574772178068.jpg" group-title="MX TV",Fight TV
 https://m-c09-j2apps.s.llnwi.net/hls/8014.FightTV.in.m3u8
-#EXTINF:-1 tvg-id="LanguageCourseEnglish" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8020.LanguageCourseEnglish.in/1x1/1x/test_pic1574772507867.jpg" group-title="Sneh Education",Language Course English
-https://m-c09-j2apps.s.llnwi.net/hls/8020.LanguageCourseEnglish.in.m3u8
 #EXTINF:-1 tvg-id="DWEnglish" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8023.DWEnglish.in/1x1/1x/test_pic1572423641700.jpg" group-title="MX TV",DW English
 https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in.m3u8
 #EXTINF:-1 tvg-id="KalyanTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7010.KalyanTV.in/1x1/1x/test_pic1574075076834.jpg" group-title="MX TV",Kalyan TV
