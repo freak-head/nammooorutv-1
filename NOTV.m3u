@@ -808,13 +808,13 @@ http://193.161.193.99:49103/szs/suriya/sun.php?c=75117
 
 
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5",Zee Tamil
-https://ayushiz5tv.herokuapp.com?c=0-9-zeetamil
+https://snehz5tv.herokuapp.com?c=0-9-zeetamil
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5",Zee Thirai
-https://ayushiz5tv.herokuapp.com?c=0-9-224
+https://snehz5tv.herokuapp.com?c=0-9-224
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5",Polimer News
-https://ayushiz5tv.herokuapp.com?c=0-9-203
+https://snehz5tv.herokuapp.com?c=0-9-203
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5",Putiya Thalamurai
-https://ayushiz5tv.herokuapp.com?c=0-9-220
+https://snehz5tv.herokuapp.com?c=0-9-220
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5",Puthyugam TV
 https://ayushiz5tv.herokuapp.com?c=0-9-221
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="ZEE5",Vendhar TV
