@@ -598,6 +598,83 @@ http://indo51.gcdn.co/MALYLAM-AsianetHD/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/DYt2Bce.jpg"group-title="Malayalam",Surya Tv HD
 https://indo51.gcdn.co/MALYLAM-SuryaHD/index.m3u8
 
+#EXTINF:-1 tvg-id="503" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBC-24.png" group-title="Malayalam",IBC 24
+http://193.161.193.99:49103/jt/suriya/jt.php?c=IBC24&q=800
+#EXTINF:-1 tvg-id="563" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png" group-title="Malayalam",Kaumudy TV
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Kaumudy_TV&q=800
+#EXTINF:-1 tvg-id="844" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png" group-title="Malayalam",Mazavali Manorama HD
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Mazavali_Manorama_HD&q=800
+#EXTINF:-1 tvg-id="634" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png" group-title="Malayalam",Flower TV
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Flower_TV&q=800
+#EXTINF:-1 tvg-id="648" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="Malayalam",Mazhavil Manorama
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Mazhavil_Manorama&q=800
+#EXTINF:-1 tvg-id="699" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png" group-title="Malayalam",DD Malayalam
+http://193.161.193.99:49103/jt/suriya/jt.php?c=DD_Malayalam&q=800
+#EXTINF:-1 tvg-id="710" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png" group-title="Malayalam",Kairali TV
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Kairali_TV&q=800
+#EXTINF:-1 tvg-id="723" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="Malayalam",Amrita TV
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Amrita_TV&q=800
+#EXTINF:-1 tvg-id="725" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_People_TV.PNG" group-title="Malayalam",Kairali News
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Kairali_People_TV&q=800
+#EXTINF:-1 tvg-id="731" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" group-title="Malayalam",Kairali WE TV
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Kairali_WE_TV&q=800
+#EXTINF:-1 tvg-id="662" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manorama_News.png" group-title="Malayalam",Manorama News
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Manorama_News&q=800
+#EXTINF:-1 tvg-id="780" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mathrubhumi_News.png" group-title="Malayalam",Mathrubhumi News
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Mathrubhumi_News&q=800
+#EXTINF:-1 tvg-id="786" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Malayalam",Kappa TV
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Kappa_TV&q=800
+#EXTINF:-1 tvg-id="739" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png" group-title="Malayalam",Raj Music Malayalam
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Raj_Music_Malayalam&q=800
+#EXTINF:-1 tvg-id="910" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Media_One_TV.png" group-title="Malayalam",Media One TV
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Media_One_TV&q=800
+#EXTINF:-1 tvg-id="810" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png" group-title="Malayalam",Janam TV
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Janam_TV&q=800
+#EXTINF:-1 tvg-id="965" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png" group-title="Malayalam",News 18 Kerala
+http://193.161.193.99:49103/jt/suriya/jt.php?c=News_18_Kerala&q=800
+#EXTINF:-1 tvg-id="953" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Propex_TV.png" group-title="Malayalam",Propex TV
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Propex_TV&q=800
+#EXTINF:-1 tvg-id="797" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sakhi_TV.png" group-title="Malayalam",testii
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Sakhi_TV&q=800
+#EXTINF:-1 tvg-id="606" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shalom.png" group-title="Malayalam",Shalom
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Shalom&q=800
+#EXTINF:-1 tvg-id="465" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaihind_tv.png" group-title="Malayalam",Jaihind tv
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Jaihind_tv&q=800
+#EXTINF:-1 tvg-id="842" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jeevan_TV.png" group-title="Malayalam",Jeevan TV
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Jeevan_TV&q=800
+#EXTINF:-1 tvg-id="650" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png" group-title="Malayalam",Raj News Malayalam
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Raj_News_Malayalam&q=800
+#EXTINF:-1 tvg-id="443" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet.png" group-title="Malayalam",Asianet HD
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Asianet&q=800
+#EXTINF:-1 tvg-id="181" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Plus.png" group-title="Malayalam",Asianet Plus HD
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Asianet_Plus&q=800
+#EXTINF:-1 tvg-id="459" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png" group-title="Malayalam",Asianet Movies HD
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Asianet_Movies_HD&q=800
+#EXTINF:-1 tvg-id="1340" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="Malayalam",Nick Malayalam
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Nick_Malayalam&q=800
+#EXTINF:-1 tvg-id="1344" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-title="Malayalam",Sonic Malayalam
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Sonic_Malayalam&q=800
+#EXTINF:-1 tvg-id="1429" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KITE_Victers.png" group-title="Malayalam",KITE VICTERS
+http://193.161.193.99:49103/jt/suriya/jt.php?c=KITE_Victers&q=800
+#EXTINF:-1 tvg-id="1552" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Malnadu_TV.png" group-title="Malayalam",Malanadu TV
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Malnadu_TV&q=800
+#EXTINF:-1 tvg-id="1221" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rajyoga_Malayalam.png" group-title="Malayalam",Rajyoga Malayalam
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Rajyoga_Malayalam&q=800
+#EXTINF:-1 tvg-id="1250" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="Malayalam",Twenty Four News
+http://193.161.193.99:49103/jt/suriya/jt.php?c=TWENTY_FOUR_NEWS&q=800
+#EXTINF:-1 tvg-id="1284" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vignesh_TV.PNG" group-title="Malayalam",Vignesh TV
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Vignesh_TV&q=800
+#EXTINF:-1 tvg-id="1408" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Reporter_TV.png" group-title="Malayalam",Reporter TV
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Reporter_TV&q=800
+#EXTINF:-1 tvg-id="1455" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Janapriyam_News.png" group-title="Malayalam",Janapriyam
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Janapriyam_News&q=800
+#EXTINF:-1 tvg-id="1514" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kannur_one.png" group-title="Malayalam",Kannur One
+http://193.161.193.99:49103/jt/suriya/jt.php?c=Kannur_one&q=800
+
+
+
+
+
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/517px-SET_India_logo.svg.png"group-title="Hindi", Sony HD
 http://indo51.gcdn.co/hindi-SONYHD/index.m3u8
