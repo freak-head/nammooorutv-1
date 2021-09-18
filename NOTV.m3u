@@ -14,6 +14,8 @@ http://cdn.yoctoentertainment.com:8081/metro/metro.m3u8
 http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
 
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.ibb.co/RjRF1kQ/images-q-tbn-ANd9-Gc-Rbis-Cd-IFKm6pb21j752b-AR-ZMwuyk-H2r4t3g-usqp-CAU.jpg"group-title="Tamil Cable TV",PakkaTV
+https://pakkatv.tk/Wp/PK-Live.php
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/3HPhrIB.png"group-title="Tamil Cable TV",Rasi Hollywood
 http://singamcloud.in:1935/rasinetworks/rasihollywood/playlist.m3u8
