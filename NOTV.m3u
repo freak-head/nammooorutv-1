@@ -543,8 +543,8 @@ http://ahaohoo.com/.1/tv1/play.php?id=2833&e=.m3u8
 https://tvstream.fun/api/max.php?id=12667&e=.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1622185952_vijay%20tv.png"group-title="Tamil",Star Vijay HD
 http://indo51.gcdn.co/TAMIL-STARVIJAYindia/index.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1622185952_vijay%20tv.png"group-title="Tamil", StarVijay (Test)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0.1; D6502 Build/23.5.A.1.291; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4577.82 Mobile Safari/537.36 Vinebre
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1622185952_vijay%20tv.png"group-title="Tamil", StarVijay (Test)
 https://hses.akamaized.net/videos/hotstar/14545/1000122777/1563752776718/abd2bd7287218db7d409d87bf080b132/media-3/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1622185952_vijay%20tv.png"group-title="Tamil",Star Vijay HD
 https://moviefive.xyz/LiveTV/VijayTv.m3u8
