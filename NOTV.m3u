@@ -772,7 +772,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e
 #EXTINF:-1tvg-id=""tvg-name=""https://i.imgur.com/eOb0Uso.jpg"group-title="Sports", All Elite Wrestling
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
 
-
+#EXTINF:-1tvg-id=""tvg-name="""group-title="Sports", WWE
+http://sptkid.gcdn.co/wwe/tracks-v1a1/mono.m3u8
 
 
 
