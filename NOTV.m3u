@@ -539,6 +539,8 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 http://indo51.gcdn.co/TAMIL-SuntvHD/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/izI6v85.png"group-title="Tamil",Sun TV SD
 http://ahaohoo.com/.1/tv1/play.php?id=2833&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/izI6v85.png"group-title="Tamil",Sun TV SD
+https://moviefive.xyz/Sunnxt/LiveTV/SunTV.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/izI6v85.png"group-title="Tamil",Sun TV (Yupp TV Feed)
 https://tvstream.fun/api/max.php?id=12667&e=.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://singamcloud.com/tv/upload/1622185952_vijay%20tv.png"group-title="Tamil",Star Vijay HD
@@ -552,12 +554,18 @@ https://moviefive.xyz/LiveTV/VijayTv.m3u8
 http://indo51.gcdn.co/TAMIL-KtvHD/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/ccIcC6H.png"group-title="Tamil",K TV HD
 http://ahaohoo.com/.1/tv1/play.php?id=2335&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/ccIcC6H.png"group-title="Tamil",K TV SD
+https://moviefive.xyz/Sunnxt/LiveTV/KTV.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622185610_aathiya.png"group-title="Tamil",Adithya TV
 http://indo51.gcdn.co/TAMIL-ADITYATAMIL/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622185610_aathiya.png"group-title="Tamil",Adithya TV
+https://moviefive.xyz/Sunnxt/LiveTV/AdithyaTV.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/Gwx3PGZ.gif"group-title="Tamil",Jaya TV
 http://indo51.gcdn.co/TAMIL-JAYATVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/Gwx3PGZ.gif"group-title="Tamil",Jaya TV (TS)
 http://uk4.zecast.com:1935/star-live/jaya/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/Gwx3PGZ.gif"group-title="Tamil",Jaya TV
+https://moviefive.xyz/Yupptv/JayaTV.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/b5DS0bu.png"group-title="Tamil",Zee Tamil HD
 http://143.244.60.10/TAMIL__ZEE_TAMIL_HD/mono.m3u8?token=test
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/b5DS0bu.png"group-title="Tamil",Zee Tamil HD
@@ -573,16 +581,22 @@ http://143.244.60.10/TAMIL__COLORS_HD/mono.m3u8?token=test
 http://143.244.60.10/TAMIL__CHUTTI_TV/mono.m3u8?token=test
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/5YcctyX.png"group-title="Tamil",Jaya Max
 http://indo51.gcdn.co/TAMIL-Jayamax/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/5YcctyX.png"group-title="Tamil",Jaya Max
+https://moviefive.xyz/Yupptv/JayaMax.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/YR8WP9N.jpg"group-title="Tamil",Vijay Super
 http://143.244.60.10/TAMIL__VIJAY_SUPER/mono.m3u8?token=test
 #EXTINF:-1tvg-id=""tvg-name=""https://mhdtvworld.xyz/wp-content/uploads/2020/03/sun-music-HD-white.jpg"group-title="Tamil",Sun Music HD
 https://indo51.gcdn.co/TAMIL-SunmusicHD/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/ylOMLdZ.jpg"group-title="Tamil",Sun Music SD
+https://indxtv.com/sun/sunnxt_mhdtv.m3u8?id=9025
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1623067878_jaya%20movie.png"group-title="Tamil",JAYA Movies
 http://indo51.gcdn.co/TAMIL-JAYAMOVIES/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil",Zee Thirai
 http://143.244.60.10/TAMIL__ZEE_THIRAI/mono.m3u8?token=test
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil",Sun Life
 http://indo51.gcdn.co/TAMIL-Sunlife/index.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil",Sun Life
+https://moviefive.xyz/Sunnxt/LiveTV/Sunlife.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil",D Tamil
 http://idvd.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil",Yupp Thirai
