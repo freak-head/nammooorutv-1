@@ -534,7 +534,8 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
 
-
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/izI6v85.png"group-title="Tamil",Sun TV HD
+https://moviefive.xyz/Sunnxt/LiveTV/SunTVHD.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/izI6v85.png"group-title="Tamil",Sun TV HD
 http://indo51.gcdn.co/TAMIL-SuntvHD/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/izI6v85.png"group-title="Tamil",Sun TV SD
