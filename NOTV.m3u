@@ -589,6 +589,8 @@ http://143.244.60.10/TAMIL__VIJAY_SUPER/mono.m3u8?token=test
 https://indo51.gcdn.co/TAMIL-SunmusicHD/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/ylOMLdZ.jpg"group-title="Tamil",Sun Music SD
 https://indxtv.com/sun/sunnxt_mhdtv.m3u8?id=9025
+#EXTINF:-1tvg-id=""tvg-name=""https://mhdtvworld.xyz/wp-content/uploads/2020/03/sun-music-HD-white.jpg"group-title="Tamil",Sun Music HD
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1623067878_jaya%20movie.png"group-title="Tamil",JAYA Movies
 http://indo51.gcdn.co/TAMIL-JAYAMOVIES/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil",Zee Thirai
