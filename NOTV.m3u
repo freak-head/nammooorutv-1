@@ -14,9 +14,6 @@ http://cdn.yoctoentertainment.com:8081/metro/metro.m3u8
 http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
 
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.ibb.co/RjRF1kQ/images-q-tbn-ANd9-Gc-Rbis-Cd-IFKm6pb21j752b-AR-ZMwuyk-H2r4t3g-usqp-CAU.jpg"group-title="Tamil Cable TV",PakkaTV
-https://pakkatv.tk/Wp/PK-Live.php
-
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/3HPhrIB.png"group-title="Tamil Cable TV",Rasi Hollywood
 http://singamcloud.in:1935/rasinetworks/rasihollywood/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/v8U4xyf.png"group-title="Tamil Cable TV",Rasi Tamil
@@ -604,6 +601,21 @@ https://moviefive.xyz/Sunnxt/LiveTV/Sunlife.m3u8
 http://idvd.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622186157_vijay%20super.png"group-title="Tamil",Yupp Thirai
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
+
+#EXTINF:-1tvg-id=""tvg-name="""group-title="Tamil",Fox Life Tamil
+http://rv.bleutv.net/152025335998785/152093765867305/180233
+
+#EXTINF:-1tvg-id=""tvg-name="""group-title="Tamil",Star Vijay
+http://rv.bleutv.net/152025335998785/152093765867305/180223
+
+#EXTINF:-1tvg-id=""tvg-name="""group-title="Tamil",Tata Sky Tamil Cinema
+http://rv.bleutv.net/152025335998785/152093765867305/180218
+
+#EXTINF:-1tvg-id=""tvg-name="""group-title="Tamil",Vijay Super
+http://rv.bleutv.net/152025335998785/152093765867305/180216
+
+#EXTINF:-1tvg-id=""tvg-name="""group-title="Tamil",Star Vijay 4k
+http://rv.bleutv.net/152025335998785/152093765867305/180175
 
 
 
