@@ -1238,13 +1238,13 @@ http://istreamiptv.xyz/Sony_BBC_Earth_HD_Tamil_800.m3u8
 http://istreamiptv.xyz/Zee_Tamil_800.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="Jio TV Tamil",Jaya TV HD
-http://istreamiptv.xyz/Jaya_TV_HD_800.m3u8&e=.m3u8
+http://istreamiptv.xyz/Jaya_TV_HD_800.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="Jio TV Tamil",Puthu Yugam
-http://istreamiptv.xyz/Puthu_Yugam_800.m3u8&e=.m3u8
+http://istreamiptv.xyz/Puthu_Yugam_800.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title="Jio TV Tamil",MK TV
-http://istreamiptv.xyz/MK_TV_800.m3u8&e=.m3u8
+http://istreamiptv.xyz/MK_TV_800.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="Jio TV Tamil",Kalaignar TV
 http://istreamiptv.xyz/Kalaignar_TV_800.m3u8
@@ -1286,7 +1286,7 @@ http://istreamiptv.xyz/Polimer_News_800.m3u8
 http://istreamiptv.xyz/News_18_Tamilnadu_800.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="Jio TV Tamil",Kalaignar Seithigal 
-http://istreamiptv.xyz/Kalaignar_Seithigal__800.m3u8
+http://istreamiptv.xyz/Kalaignar_Seithigal_800.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="Jio TV Tamil",Raj Digital Plus
 http://istreamiptv.xyz/Raj_Digital_Plus_800.m3u8
@@ -1298,8 +1298,7 @@ http://istreamiptv.xyz/Raj_Musix_800.m3u8
 http://istreamiptv.xyz/Colors_Tamil_HD_800.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Jio TV Tamil",CN Tamil
-http://istreamiptv.xyz/Cartoon_Network_Tamil&=800.m3u8&e=.m3u8
-
+http://istreamiptv.xyz/Cartoon_Network_Tamil.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png" group-title="Jio TV Tamil",Sathiyam TV
 http://istreamiptv.xyz/Sathiyam_800.m3u8
 
