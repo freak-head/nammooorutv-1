@@ -4081,5 +4081,8 @@ http://138.197.174.223/sunnxt/9013.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sun TV (Test)
 https://mhdtvworld.xyz/delta/api/max.php?id=12667&e=.m3u8|user-agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20WOW64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/93.0.4577.82%20Safari/537.36
 
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sun TV (Test)
+https://mhdtvworld.xyz/delta/api/max.php?id=12667&e=.m3u8|User-Agent=NSPlayer/7.10.0.3059
+
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",News Channels 
 https://raw.githubusercontent.com/naveenland4/youtube-live/main/live/ch10.m3u8
