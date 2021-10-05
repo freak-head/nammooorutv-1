@@ -4058,8 +4058,8 @@ https://yuppcatchup.akamaized.net/preview/starvijay/2500.m3u8?hdnts=
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Star Vijay
 https://mhdtvapp.xyz/yupp/yupp.php?c=Star_Vijay&e=.m3u8
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Star Vijay
-https://mhdtvapp.xyz/yupp/yupp.php?c=StarVijay&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Star Vijay (Astro)
+http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",KBO US
 https://mhdtvapp.xyz/yupp/yupp.php?c=KBO_US&e=.m3u8
