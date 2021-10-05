@@ -2428,3 +2428,61 @@ https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-music-hd&e=.m3u8
 https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-comedy&e=.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://sund-images.sunnxt.com/26572/300x300_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg"group-title="Test",GEMINI LIFE
 https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-life&e=.m3u8
+
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",News Channels 
+Astro Cricket, https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",WWE
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",SuperSport 1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",SuperSport 2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",SuperSport 3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",SuperSport 4
+https://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",FOX Sports 1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2307/default_ott.mpd
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",FOX Sports 2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2704/default_ott.mpd
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",FOX Sports 3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/505/default_ott.mpd
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Vaanavil
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Vinmeen
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_ott.mpd
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sun TV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Sun Music
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Chutti TV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1110/default_ott.mpd
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Adithya
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Star Vijay
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Colors Tamil
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Zee Tamil
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
+
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo=""group-title="Test",Thangathirai
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
