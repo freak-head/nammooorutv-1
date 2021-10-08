@@ -489,29 +489,40 @@ http://nextgeninfotech.ddns.net:8080/hls/kings.m3u8
 
 
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/d/c/csm_16526-1592_import_d84315ad22.png"group-title="News Channels",Polimer News
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/X9CmQtK.png"group-title="News Channels",Polimer News
 https://raw.githubusercontent.com/naveenland4/Utube-Live/main/live/ch1.m3u8
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://www.pngfind.com/pngs/m/317-3178616_news-news-7-tamil-logo-hd-png-download.png"group-title="News Channels",News 7 Tamil
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/XKrh75E.jpg"group-title="News Channels",News 7 Tamil
+https://raw.githubusercontent.com/naveenland4/Utube-Live/main/live/ch2.m3u8
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://mag.puthiyathalaimurai.com/wp-content/uploads/2020/03/PUTHIYATHALAIMURAI.png"group-title="News Channels",PuthiyaThalaimurai
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="hhttps://i.imgur.com/cVUfwTM.jpg"group-title="News Channels",PuthiyaThalaimurai
+https://raw.githubusercontent.com/naveenland4/Utube-Live/main/live/ch3.m3u8
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/bD1G3UG.jpg"group-title="News Channels",Sun News
+https://raw.githubusercontent.com/naveenland4/Utube-Live/main/live/ch5.m3u8
 
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/News18_tamilnadu_logo.png"group-title="News Channels",News18 TamilNadu
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/eGBAc2f.jpg"group-title="News Channels",Dinamalar (தினமலர் செய்திகள்)
+https://raw.githubusercontent.com/naveenland4/Utube-Live/main/live/ch9.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/mzfi3ac.png"group-title="News Channels",News18 TamilNadu
+https://raw.githubusercontent.com/naveenland4/Utube-Live/main/live/ch6.m3u8
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/logo_login.png"group-title="News Channels",NewsJ
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/blxpkJ5.png"group-title="News Channels",NewsJ
+https://raw.githubusercontent.com/naveenland4/Utube-Live/main/live/ch7.m3u8
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b256,b512,b1024,b1824,.smil/chunklist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SathiyamFinallogo.png/220px-SathiyamFinallogo.png"group-title="News Channels",Sathiyamtv
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/7GnwNjC.png"group-title="News Channels",Jaya Plus
+https://raw.githubusercontent.com/naveenland4/Utube-Live/main/live/ch8.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/IKp22Lb.png"group-title="News Channels",Sathiyamtv
 http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Logo_of_Thanthi_TV.png/200px-Logo_of_Thanthi_TV.png"group-title="News Channels",Thanthi TV
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/O94wfl2.png"group-title="News Channels",Thanthi TV
+https://raw.githubusercontent.com/naveenland4/Utube-Live/main/live/ch4.m3u8
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/91ze3P7.png"group-title="News Channels",MalaiMurasu
 https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="http://tvtolive.com/wp-content/uploads/1-Yes-TV-tvtolive.com_.jpg"group-title="News Channels",1yestv
 http://livematrix.in:1935/1yestv/1yestv/playlist.m3u8
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g.jpg"group-title="News Channels",Kalaignar News
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/O9mx3BX.jpg"group-title="News Channels",Kalaignar News
+https://raw.githubusercontent.com/naveenland4/Utube-Live/main/live/ch10.m3u8
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist.m3u8
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/capital-news-logo.png"group-title="News Channels",Capital News
