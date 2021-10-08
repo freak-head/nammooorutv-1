@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SonyLiv",SONY PAL
-#EXTVLCOPT:http-user-agent=media-proto-android/1.1.1 (Linux;Android 8.0.0) ExoPlayerLib/2.9.6
-https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/GNx4txl.jpg"group-title="Tamil Cable TV",Sky Sat PDY
 http://cdn.yoctoentertainment.com:8081/skysat/skysat.m3u8
@@ -821,17 +819,22 @@ http://sptkid.gcdn.co/wwe/tracks-v1a1/mono.m3u8
 
 
 #EXTINF: -1 tvg-id="762" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyPIx.jpg" group-title="SonyLiv",Sony PIX HD
-EXTVLCOPT:http-user-agent=media-proto-android/1.1.1 (Linux;Android 8.0.0) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-user-agent=media-proto-android/1.1.1 (Linux;Android 8.0.0) ExoPlayerLib/2.9.6
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF: -1 tvg-id="162" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="SonyLiv",SONY TEN1 HD
+#EXTVLCOPT:http-user-agent=media-proto-android/1.1.1 (Linux;Android 8.0.0) ExoPlayerLib/2.9.6
 https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #EXTINF: -1 tvg-id="891" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png" group-title="SonyLiv",SONY TEN 2 HD
+#EXTVLCOPT:http-user-agent=media-proto-android/1.1.1 (Linux;Android 8.0.0) ExoPlayerLib/2.9.6
 https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 #EXTINF: -1 tvg-id="892" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="SonyLiv",SONY TEN 3 HD
+#EXTVLCOPT:http-user-agent=media-proto-android/1.1.1 (Linux;Android 8.0.0) ExoPlayerLib/2.9.6
 https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 #EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="SonyLiv",SONY TEN 4 HD
+#EXTVLCOPT:http-user-agent=media-proto-android/1.1.1 (Linux;Android 8.0.0) ExoPlayerLib/2.9.6
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF: -1 tvg-id="155" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png" group-title="SonyLiv",Sony SIX HD
+#EXTVLCOPT:http-user-agent=media-proto-android/1.1.1 (Linux;Android 8.0.0) ExoPlayerLib/2.9.6
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #EXTINF: -1 tvg-id="514" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_SD.png" group-title="SonyLiv",Sony Ten 1 SD
