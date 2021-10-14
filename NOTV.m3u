@@ -544,6 +544,7 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
 
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/izI6v85.png"group-title="Tamil",Sun TV HD
+https://moviefive.xyz/Sunnxt/Live/SunTVHDLIVE.m3u8
 http://139.59.92.198//sunnxt/live.php?c=14020&e=.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/izI6v85.png"group-title="Tamil",Sun TV HD
 http://indo51.gcdn.co/TAMIL-SuntvHD/index.m3u8
@@ -561,6 +562,7 @@ https://live-server-2.splitstream.io/d1f0ba92-3b9d-4e91-be00-e88775796f3d/index.
 https://moviefive.xyz/LiveTV/VijayTv.m3u8
 http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/ccIcC6H.png"group-title="Tamil",K TV HD
+https://moviefive.xyz/Sunnxt/Live/KTVHD.m3u8
 http://indo51.gcdn.co/TAMIL-KtvHD/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/ccIcC6H.png"group-title="Tamil",K TV HD
 http://ahaohoo.com/.1/tv1/play.php?id=2335&e=.m3u8
@@ -569,7 +571,7 @@ https://moviefive.xyz/Sunnxt/LiveTV/KTV.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622185610_aathiya.png"group-title="Tamil",Adithya TV
 http://indo51.gcdn.co/TAMIL-ADITYATAMIL/index.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""https://singamcloud.com/tv/upload/1622185610_aathiya.png"group-title="Tamil",Adithya TV
-https://moviefive.xyz/Sunnxt/LiveTV/AdithyaTV.m3u8
+https://moviefive.xyz/Sunnxt/Live/AdithyaTV.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/Gwx3PGZ.gif"group-title="Tamil",Jaya TV
 http://indo51.gcdn.co/TAMIL-JAYATVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://i.imgur.com/Gwx3PGZ.gif"group-title="Tamil",Jaya TV (TS)
