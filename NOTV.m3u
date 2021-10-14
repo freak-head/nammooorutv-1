@@ -2493,6 +2493,8 @@ https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-music-hd&e=.m3u8
 https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-comedy&e=.m3u8
 #EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://sund-images.sunnxt.com/26572/300x300_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg"group-title="Test",GEMINI LIFE
 https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-life&e=.m3u8
+#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://sund-images.sunnxt.com/26572/300x300_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg"group-title="Test",SUNTVHD TEST
+https://moviefive.xyz/Sunnxt/Live/SunTVHD.m3u8
 
 
 
@@ -2508,17 +2510,6 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="1001" tvg-chno="1001" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956271%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=150&Height=150&ImageUrl=%27956271.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Vasantham
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/nomoney4me/ustvgo/main/output/ustvgo_epg.xml"
-
-                    #########################################################################
-                    #      ____            _           _   __  __                           #
-                    #     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
-                    #     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
-                    #     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
-                    #     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
-                    #                   |__/                                                #
-                    #                                  >> https://github.com/benmoose39     #
-                    #########################################################################
 
 
 #EXTINF:-1 tvg-id="ABC" group-title="ustvgo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/240px-American_Broadcasting_Company_Logo.svg.png", ABC
