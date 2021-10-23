@@ -1138,7 +1138,7 @@ http://manastv.xyz//m3u8.php?c=Polimer_News&q=800
 #EXTINF:-1 tvg-id="628" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="JIO TV Tamil",Zee Tamil
 http://manastv.xyz//m3u8.php?c=Zee_Tamil&q=800
 #EXTINF:-1 tvg-id="429" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="JIO TV Tamil",Colors Tamil HD
-http://manastv.xyz//m3u8.php?c=Colors_Tamil_HD&q=800
+http://manastv.xyz//m3u8.php?c=Colors_Tamil_HD&q=1200
 #EXTINF:-1 tvg-id="830" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="JIO TV Tamil",Thanthi TV
 http://manastv.xyz//m3u8.php?c=Thanthi_TV&q=800
 #EXTINF:-1 tvg-id="420" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="JIO TV Tamil",Jaya Max
