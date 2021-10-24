@@ -1616,9 +1616,11 @@ http://manastv.xyz//m3u8.php?c=1Sports&q=800
 #EXTVLCOPT:http-user-agent=media-proto-android/1.1.1 (Linux;Android 8.0.0) ExoPlayerLib/2.9.6
 http://103.153.39.34:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",&flix HD-Rs19
-http://103.153.39.34:8000/play/a057/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-user-agent=media-proto-android/1.1.1 (Linux;Android 8.0.0) ExoPlayerLib/2.9.6
+http://103.153.39.34:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",&pictures -Rs19
-http://103.153.39.34:8000/play/a05o/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-user-agent=media-proto-android/1.1.1 (Linux;Android 8.0.0) ExoPlayerLib/2.9.6
+http://103.153.39.34:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",&tv HD - Rs 19
 http://103.153.39.34:8000/play/a06t/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",ANIMAL PLAN-Rs3
