@@ -667,6 +667,18 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
 
 
 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/Z5TAkeC.png" group-title="Sports & Other",Sony TEN 1 HD
+https://feed.play.mv/live/10005200/fMLTkj4OJC/1.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/chfXJUW.png" group-title="Sports & Other",Sony TEN 2 HD
+https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/lTyRTwS.png" group-title="Sports & Other",Sony TEN 3 HD
+https://feed.play.mv/live/10005200/RG2fKR6d9p/1.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/6Vp9r6v.png" group-title="Sports & Other",Sony Six HD
+https://feed.play.mv/live/10005200/hr55LTnS53/1.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/qrtQCb2.png" group-title="Sports & Other",IMPACT Wrestling
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -674,7 +686,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/JkIjNh2.png" group-title="Sports & Other",WWE
-http://sptkid.gcdn.co/wwe/tracks-v1a1/mono.m3u8
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/0W6MAV3.png" group-title="Sports & Other",BT Sport
+http://master2c.uefa-tv.com:80/live/1/chunks.m3u8
 
 
 
