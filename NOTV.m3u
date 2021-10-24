@@ -19,7 +19,7 @@ http://103.153.39.34:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/80eE1RU.jpg" group-title="ICC T20 WORLD CUP 2021",Live 09
 http://103.153.39.34:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/80eE1RU.jpg" group-title="ICC T20 WORLD CUP 2021",Live 10
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/E4Fs3C6BP9m6Tfm-SnSveJas_pqUXLXPgnn8cWHJGaC2JK_92VIQGFuBDSA-OWYcK1zrzRbOJPuB9neqlEjOvg/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
 
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/GNx4txl.jpg" group-title="Tamil Cable TV",Sky Sat PDY
