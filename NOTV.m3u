@@ -1,18 +1,17 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
-
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/80eE1RU.jpg" group-title="ICC T20 WORLD CUP 2021",Live 01
-http://103.153.39.34:8000/play/a044/index.m3u8|user-agent="KAIOS"
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/80eE1RU.jpg" group-title="ICC T20 WORLD CUP 2021",Live 02
-http://103.153.39.34:8000/play/a040/index.m3u8|user-agent="KAIOS"
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/80eE1RU.jpg" group-title="ICC T20 WORLD CUP 2021",Live 03
-http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/80eE1RU.jpg" group-title="ICC T20 WORLD CUP 2021",Live 04
-http://103.17.201.18:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/80eE1RU.jpg" group-title="ICC T20 WORLD CUP 2021",Live 05
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/80eE1RU.jpg" group-title="ICC T20 WORLD CUP 2021",Live 06
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/58PTueFMJJ7N432d__Gsr43WJdMFtJKmANOvp6aHFvxcTYATUnd1Bn5q9onfSDCGv-CQzDX5A1HNdUyFaPTsjA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/80eE1RU.jpg" group-title="ICC T20 WORLD CUP 2021",Live 02
+http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/80eE1RU.jpg" group-title="ICC T20 WORLD CUP 2021",Live 03
+http://103.17.201.18:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/80eE1RU.jpg" group-title="ICC T20 WORLD CUP 2021",Live 04
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/80eE1RU.jpg" group-title="ICC T20 WORLD CUP 2021",Live 05
+http://103.153.39.34:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/80eE1RU.jpg" group-title="ICC T20 WORLD CUP 2021",Live 06
+http://103.153.39.34:8000/play/a040/index.m3u8
 
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/GNx4txl.jpg" group-title="Tamil Cable TV",Sky Sat PDY
