@@ -1616,10 +1616,10 @@ http://manastv.xyz//m3u8.php?c=1Sports&q=800
 #EXTVLCOPT:http-user-agent=media-proto-android/1.1.1 (Linux;Android 8.0.0) ExoPlayerLib/2.9.6
 http://103.153.39.34:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",&flix HD-Rs19
-#EXTVLCOPT:http-user-agent=media-proto-android/1.1.1 (Linux;Android 8.0.0) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1
 http://103.153.39.34:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",&pictures -Rs19
-#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
 http://103.153.39.34:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",&tv HD - Rs 19
 http://103.153.39.34:8000/play/a06t/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
