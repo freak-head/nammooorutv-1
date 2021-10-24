@@ -1613,151 +1613,152 @@ http://manastv.xyz//m3u8.php?c=1Sports&q=800
 
 
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",&PRIVE HD-Rs 19
-http://103.153.39.34:8000/play/a06i/index.m3u8
+http://103.153.39.34:8000/play/a06i/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",&flix HD-Rs19
-http://103.153.39.34:8000/play/a057/index.m3u8
+http://103.153.39.34:8000/play/a057/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",&pictures -Rs19
-http://103.153.39.34:8000/play/a05o/index.m3u8
+http://103.153.39.34:8000/play/a05o/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",&tv HD - Rs 19
-http://103.153.39.34:8000/play/a06t/index.m3u8
+http://103.153.39.34:8000/play/a06t/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",ANIMAL PLAN-Rs3
-http://103.153.39.34:8000/play/a05i/index.m3u8
+http://103.153.39.34:8000/play/a05i/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",BBC WORLD - Rs 1
-http://103.153.39.34:8000/play/a04x/index.m3u8
+http://103.153.39.34:8000/play/a04x/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Balle Balle- Free
-http://103.153.39.34:8000/play/a08t/index.m3u8
+http://103.153.39.34:8000/play/a08t/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Box Cinema -Free
-http://103.153.39.34:8000/play/a09c/index.m3u8
+http://103.153.39.34:8000/play/a09c/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",CARTOON NETWORK
-http://103.153.39.34:8000/play/a08v/index.m3u8
+http://103.153.39.34:8000/play/a08v/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",CNN INTL - 50p
-http://103.153.39.34:8000/play/a08x/index.m3u8
+http://103.153.39.34:8000/play/a08x/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",COMEDY CEN-Rs 5
-http://103.153.39.34:8000/play/a06d/index.m3u8
+http://103.153.39.34:8000/play/a06d/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Colors HD-Rs 19
-http://103.153.39.34:8000/play/a056/index.m3u8
+http://103.153.39.34:8000/play/a056/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",DD SPORTS- Free
-http://103.153.39.34:8000/play/a096/index.m3u8
+http://103.153.39.34:8000/play/a096/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",DISCOVERY K-Rs3
-http://103.153.39.34:8000/play/a04s/index.m3u8
+http://103.153.39.34:8000/play/a04s/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Discovery H-Rs6
-http://103.153.39.34:8000/play/a04i/index.m3u8
+http://103.153.39.34:8000/play/a04i/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Discovery S-Rs1
-http://103.153.39.34:8000/play/a06k/index.m3u8
+http://103.153.39.34:8000/play/a06k/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Discovery T-Rs1
-http://103.153.39.34:8000/play/a06l/index.m3u8
+http://103.153.39.34:8000/play/a06l/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Disney Chanel
-http://103.153.39.34:8000/play/a04m/index.m3u8
+http://103.153.39.34:8000/play/a04m/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Disney Jr.-Rs 4
-http://103.153.39.34:8000/play/a04o/index.m3u8
+http://103.153.39.34:8000/play/a04o/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Enter10 Movies
-http://103.153.39.34:8000/play/a091/index.m3u8
+http://103.153.39.34:8000/play/a091/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",EuroSports HD-Rs 6
-http://103.153.39.34:8000/play/a06f/index.m3u8
+http://103.153.39.34:8000/play/a06f/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",FOX Life - Rs 1
-http://103.153.39.34:8000/play/a09d/index.m3u8
+http://103.153.39.34:8000/play/a09d/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",HISTORY TV1-Rs7
-http://103.153.39.34:8000/play/a05k/index.m3u8
+http://103.153.39.34:8000/play/a05k/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Investigation Discovery-Rs1
-http://103.153.39.34:8000/play/a099/index.m3u8
+http://103.153.39.34:8000/play/a099/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",MAX HD -Rs 17
-http://103.153.39.34:8000/play/a046/index.m3u8
+http://103.153.39.34:8000/play/a046/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",MN+ HD-Rs 10
-http://103.153.39.34:8000/play/a04e/index.m3u8
+http://103.153.39.34:8000/play/a04e/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",MNX
-http://103.153.39.34:8000/play/a093/index.m3u8
+http://103.153.39.34:8000/play/a093/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",MOVIES NO-Rs 10
-http://103.153.39.34:8000/play/a050/index.m3u8
+http://103.153.39.34:8000/play/a050/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",NAT Geo Wild HD-Rs 5
-http://103.153.39.34:8000/play/a047/index.m3u8
+http://103.153.39.34:8000/play/a047/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",National G-Rs10
-http://103.153.39.34:8000/play/a04h/index.m3u8
+http://103.153.39.34:8000/play/a04h/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Nick Jr. - Rs1
-http://103.153.39.34:8000/play/a04r/index.m3u8
+http://103.153.39.34:8000/play/a04r/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",PIX HD - Rs 15
-http://103.153.39.34:8000/play/a05n/index.m3u8
+http://103.153.39.34:8000/play/a05n/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Pogo - Rs 4.25
-http://103.153.39.34:8000/play/a092/index.m3u8
+http://103.153.39.34:8000/play/a092/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Romedy NOW-Rs 6
-http://103.153.39.34:8000/play/a052/index.m3u8
+http://103.153.39.34:8000/play/a052/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",SAB HD - Rs 19
-http://103.153.39.34:8000/play/a06u/index.m3u8
+http://103.153.39.34:8000/play/a06u/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",SET HD - Rs 19
-http://103.153.39.34:8000/play/a058/index.m3u8
+http://103.153.39.34:8000/play/a058/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",SIX HD - Rs 19
-http://103.153.39.34:8000/play/a043/index.m3u8
+http://103.153.39.34:8000/play/a043/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",SONIC- Rs 2
-http://103.153.39.34:8000/play/a04p/index.m3u8
+http://103.153.39.34:8000/play/a04p/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",SONY MAX 2 - Rs 1
-http://103.153.39.34:8000/play/a06r/index.m3u8
+http://103.153.39.34:8000/play/a06r/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",SONY PAL -Rs 1
-http://103.153.39.34:8000/play/a09f/index.m3u8
+http://103.153.39.34:8000/play/a09f/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",STAR BHARA-Rs19
-http://103.153.39.34:8000/play/a05h/index.m3u8
+http://103.153.39.34:8000/play/a05h/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",STAR MOVI-Rs 19
-http://103.153.39.34:8000/play/a04f/index.m3u8
+http://103.153.39.34:8000/play/a04f/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",STAR WORLD -Rs9
-http://103.153.39.34:8000/play/a03z/index.m3u8
+http://103.153.39.34:8000/play/a03z/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",STAR WORLD P-Rs9
-http://103.153.39.34:8000/play/a08h/index.m3u8
+http://103.153.39.34:8000/play/a08h/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Sony BBC EarHD-Rs10
-http://103.153.39.34:8000/play/a05m/index.m3u8
+http://103.153.39.34:8000/play/a05m/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Sony Ten 1 HD- Rs 19
-http://103.153.39.34:8000/play/a042/index.m3u8
+http://103.153.39.34:8000/play/a042/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Sony Ten 2 HD- Rs 17
-http://103.153.39.34:8000/play/a05r/index.m3u8
+http://103.153.39.34:8000/play/a05r/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Sony Ten 3 HD- Rs 17
-http://103.153.39.34:8000/play/a049/index.m3u8
+http://103.153.39.34:8000/play/a049/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Star GOLD -Rs10
-http://103.153.39.34:8000/play/a05j/index.m3u8
+http://103.153.39.34:8000/play/a05j/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Star Gold 2- Rs 1
-http://103.153.39.34:8000/play/a06p/index.m3u8
+http://103.153.39.34:8000/play/a06p/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Star Gold SelHD-Rs10
-http://103.153.39.34:8000/play/a05l/index.m3u8
+http://103.153.39.34:8000/play/a05l/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Star Movi-Rs 10
-http://103.153.39.34:8000/play/a04g/index.m3u8
+http://103.153.39.34:8000/play/a04g/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Star Plus -Rs19
-http://103.153.39.34:8000/play/a054/index.m3u8
+http://103.153.39.34:8000/play/a054/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Star Sport 1 Hindi- Rs19
-http://103.153.39.34:8000/play/a044/index.m3u8
+http://103.153.39.34:8000/play/a044/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Star Sports 1 HD Rs19
-http://103.153.39.34:8000/play/a040/index.m3u8
+http://103.153.39.34:8000/play/a040/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Star Sports 2 HD-Rs19
-http://103.153.39.34:8000/play/a041/index.m3u8
+http://103.153.39.34:8000/play/a041/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Star Sports 3 Rs 4
-http://103.153.39.34:8000/play/a04a/index.m3u8
+http://103.153.39.34:8000/play/a04a/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Star Sports Select 1 HD-Rs19
-http://103.153.39.34:8000/play/a05p/index.m3u8
+http://103.153.39.34:8000/play/a05p/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Star Sports Select 2 HD-Rs19
-http://103.153.39.34:8000/play/a05q/index.m3u8
+http://103.153.39.34:8000/play/a05q/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",TLC HD- Rs3
-http://103.153.39.34:8000/play/a04c/index.m3u8
+http://103.153.39.34:8000/play/a04c/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",UTV ACTION-Rs 2
-http://103.153.39.34:8000/play/a06o/index.m3u8
+http://103.153.39.34:8000/play/a06o/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",UTV MOVIES-Rs 2
-http://103.153.39.34:8000/play/a06n/index.m3u8
+http://103.153.39.34:8000/play/a06n/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",ZEE ANMOL-Rs 10p
-http://103.153.39.34:8000/play/a09b/index.m3u8
+http://103.153.39.34:8000/play/a09b/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",ZEE BOLLYWOOD-Rs2
-http://103.153.39.34:8000/play/a097/index.m3u8
+http://103.153.39.34:8000/play/a097/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",ZEE CINEMA-Rs19
-http://103.153.39.34:8000/play/a05g/index.m3u8
+http://103.153.39.34:8000/play/a05g/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",ZEE Cafe H-Rs19
-http://103.153.39.34:8000/play/a04d/index.m3u8
+http://103.153.39.34:8000/play/a04d/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",ZEE TV HD-Rs 19
-http://103.153.39.34:8000/play/a055/index.m3u8
+http://103.153.39.34:8000/play/a055/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",Zoom - 50p
-http://103.153.39.34:8000/play/a06c/index.m3u8
+http://103.153.39.34:8000/play/a06c/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",colors CINEPLEX-Rs3
-http://103.153.39.34:8000/play/a09e/index.m3u8
+http://103.153.39.34:8000/play/a09e/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",colors INFIN-Rs9
-http://103.153.39.34:8000/play/a06g/index.m3u8
+http://103.153.39.34:8000/play/a06g/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",hungama tv-Rs 6
-http://103.153.39.34:8000/play/a04l/index.m3u8
+http://103.153.39.34:8000/play/a04l/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",nick - Rs 6
-http://103.153.39.34:8000/play/a068/index.m3u8
+http://103.153.39.34:8000/play/a068/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Airtel",nick HD+- Rs 10
-http://103.153.39.34:8000/play/a06h/index.m3u8
+http://103.153.39.34:8000/play/a06h/index.m3u8|User-Agent=ExoPlayerLib/2.9.6
+
 
 
 
